@@ -10,7 +10,7 @@
 **Topic:** BEMU procurement for East West Rail, charging infrastructure orchestration, applying electric bus learnings to rail
 
 **Performance:**
-- **Impressions:** 6,620 ⭐ (4th best all-time)
+- **Impressions:** 6,620 ⭐ (5th best all-time)
 - **Reactions:** 59
 - **Comments:** 27 (highest for any non-viral post)
 - **Saves:** 5
@@ -48,13 +48,14 @@
 **Date:** January 22, 2026  
 **Topic:** Network Rail Scotland's corridor-based approach, Swiss model adaptation, North Clyde integration, Ross Moran's vision
 
-**Performance (FINAL):**
-- **Impressions:** **10,788** 🔥🔥🔥 (3rd post to break 10k)
-- **Reactions:** **83**
-- **Comments:** **11** (including Steve White MD substantive comment)
+**Performance (Day 6 - UPDATED January 28):**
+- **Impressions:** **14,745** 🔥🔥🔥 (4th all-time, still growing)
+- **Members reached:** **10,526**
+- **Reactions:** **101** (broke triple digits)
+- **Comments:** **17** (including Steve White MD substantive comment)
 - **Reposts:** 3 (Glasgow-based amplification)
-- **Profile views:** 15
-- **Followers gained:** 2
+- **Profile views:** 20
+- **Followers gained:** 4
 - **Sends:** 3
 - **Key engagement:**
   - **Ross Moran (Route Director, NR Scotland) - reacted** 🔥 **QUOTED SOURCE APPROVED**
@@ -65,9 +66,9 @@
   - RIA Scotland (industry body) - reacted 🔥
   - Pieter Rypma (Head of BD, Siemens Mobility Rail Infrastructure) - reacted
   - Chris Parker, Nigel Pennington, Philip Marsh - substantive comments
-- **Seniority:** Senior 33%, Director 20%, VP 5% = **58% total**
-- **Network Rail reach:** **10%** (~1,079 impressions) - **NEW RECORD** 🔥
-- **Geographic targeting:** 5% Glasgow Area, reposts from Glasgow + Rail Transportation
+- **Seniority:** Senior 33%, Director ~20%, VP ~5% = **~58% total**
+- **Network Rail reach:** **~10%** (~1,475 impressions) - **RECORD** 🔥
+- **Geographic targeting:** ~5% Glasgow Area, reposts from Glasgow + Rail Transportation
 
 **Score:** **10/10** ⭐ - PERFECT SCORE - Second 10/10 post achieved
 
@@ -126,23 +127,23 @@ This post achieved the **complete industry validation set**:
 
 | Rank | Post | Date | Impressions | Score | Type | Key Success Factor |
 |------|------|------|-------------|-------|------|-------------------|
-| 1 | Electric Bus | Dec 2024 | 22,346 | 10/10 | Viral | Borrowed credibility + cross-sector |
-| 2 | Train Display | Nov 2024 | 21,659 | 9/10 | Viral | Real-time + visual proof |
-| **3** | **Railway Within Railway** | **Jan 2026** | **10,788** | **10/10** ⭐ | **Strong** | **Complete industry elite stack** |
-| 4 | BEMU/East West Rail | Jan 2026 | 6,620 | 9/10 | Strong | Cross-sector learning transfer |
-| 5 | Rail Forum (Toufic) | Dec 2024 | 3,895 | 8.5/10 | Strong | Conference + Rubik's Cube |
-| 6 | Carol Service | Dec 2024 | 3,810 | 8/10 | Strong | Personal + professional |
-| 7 | Rail Conference (Steve) | Nov 2024 | 2,604 | 9/10 | Good | Borrowed credibility |
-| 8 | Manufacturing | Nov 2024 | 1,560 | 8.5/10 | Precision | Borrowed credibility |
-| 9 | 48 Hours | Nov 2024 | 1,536 | 8.5/10 | Precision | Technical depth |
-| 10 | LARA Hackathon | Nov 2024 | 1,481 | 8/10 | Precision | Real output |
-| 11 | Shap Landslip | Dec 2024 | 1,400+ | 8/10 | Precision | RAIB analysis |
+| **1** | **Shap Landslip (RAIB)** | **Dec 2025** | **37,613** | **10/10** | **Slow-Burn Viral** | **Named framework approach** |
+| 2 | Electric Bus | Dec 2024 | 22,346 | 10/10 | Viral | Borrowed credibility + cross-sector |
+| 3 | Train Display | Nov 2024 | 21,659 | 9/10 | Viral | Real-time + visual proof |
+| **4** | **Railway Within Railway** | **Jan 2026** | **14,745** 🔥 | **10/10** | **Strong - Still Growing** | **Complete industry elite stack** |
+| 5 | BEMU/East West Rail | Jan 2026 | 6,620 | 9/10 | Strong | Cross-sector learning transfer |
+| 6 | Rail Forum (Toufic) | Dec 2024 | 3,895 | 8.5/10 | Strong | Conference + Rubik's Cube |
+| 7 | Carol Service | Dec 2024 | 3,810 | 8/10 | Strong | Personal + professional |
+| 8 | Rail Conference (Steve) | Nov 2024 | 2,604 | 9/10 | Good | Borrowed credibility |
+| 9 | Manufacturing | Nov 2024 | 1,560 | 8.5/10 | Precision | Borrowed credibility |
+| 10 | 48 Hours | Nov 2024 | 1,536 | 8.5/10 | Precision | Technical depth |
+| 11 | LARA Hackathon | Nov 2024 | 1,481 | 8/10 | Precision | Real output |
 | 12 | Trade Show | Nov 2024 | 1,329 | 7/10 | Standard | Good content |
 | 13 | Groundhog Day | Jan 2026 | 1,088 | 6.5/10 | Precision | Qualified success |
 | 14 | Tom Bailey | Dec 2024 | 755 | 6.5/10 | Corporate | Corporate amplification |
 | 15 | Energy Recruitment | Nov 2024 | 323 | 2/10 | Failed | Never amplify recruitment |
 
-**You now have TWO 10/10 posts.** The formula is proven and replicable.
+**You now have THREE 10/10 posts:** Shap Landslip, Electric Bus, Railway Within Railway. The formula is proven and replicable.
 
 ---
 
@@ -192,16 +193,16 @@ This post achieved the **complete industry validation set**:
 ### Lesson 4: Comments Drive Continued Distribution
 
 **Evidence:**
-- Thread grew to 11 quality comments
+- Thread grew to 17 quality comments
 - Steve White's comment at 6 hours drove another wave
-- Impressions continued growing past 10k
+- Impressions continued growing to 14,745+ at day 6
 - Algorithm rewards active conversations
 
 **Lesson:** Posts that spark genuine practitioner debate + get MD engagement continue distributing.
 
 ---
 
-### Lesson 5: Network Rail 10% Is the New Benchmark 🔥
+### Lesson 5: Network Rail ~10% Is the New Benchmark 🔥
 
 **Evidence across posts:**
 | Post | Network Rail % | Impressions from NR |
@@ -209,9 +210,9 @@ This post achieved the **complete industry validation set**:
 | Train Display | 2.5% | ~540 |
 | 48 Hours | ~2% | ~30 |
 | BEMU | 6.2% | ~410 |
-| **Railway Within Railway** | **10%** | **~1,079** |
+| **Railway Within Railway** | **~10%** | **~1,475** |
 
-**~1,079 Network Rail employees/stakeholders saw this post.**
+**~1,475 Network Rail employees/stakeholders saw this post.**
 
 **Why it matters:**
 - Network Rail is infrastructure owner
@@ -234,7 +235,7 @@ This post achieved the **complete industry validation set**:
 
 **The risk:** Adding "Some people just bring back Toblerone..." might undermine professional borrowed credibility opening.
 
-**The result:** 10,788 impressions, Ross approved, Steve commented - no damage.
+**The result:** 14,745 impressions, Ross approved, Steve commented - no damage.
 
 **Rule:** Light humor can follow borrowed credibility opening if:
 - Placed AFTER the quote, not before
@@ -291,31 +292,33 @@ This post achieved the **complete industry validation set**:
 
 ---
 
-## January 2026 Summary (FINAL)
+## January 2026 Summary (UPDATED January 28)
 
 ### Posts This Month
 | Post | Date | Impressions | Score |
 |------|------|-------------|-------|
 | BEMU/East West Rail | Jan 5 | 6,620 | 9/10 |
 | Groundhog Day | Jan 19 | 1,088 | 6.5/10 |
-| Railway Within Railway | Jan 22 | **10,788** | **10/10** ⭐ |
+| Railway Within Railway | Jan 22 | **14,745** 🔥 | **10/10** ⭐ |
 
 ### Month Performance
-- **Average impressions:** **6,165** (exceptional)
-- **Total impressions:** **18,496**
-- **Two posts in all-time top 4**
-- **Second 10/10 post achieved**
-- **Network Rail engagement at record level (10%)**
+- **Average impressions:** **7,484** (exceptional)
+- **Total impressions:** **22,453**
+- **Two posts in all-time top 5**
+- **Third 10/10 post achieved**
+- **Network Rail engagement at record level (~10%)**
 - **Complete industry elite engagement stack**
 - **Operator MD substantive comment with new intel**
 
 ### Key Wins
-1. **10/10 post achieved** - second perfect score
+1. **10/10 post achieved** - third perfect score
 2. **Steve White commented** - MD substantive engagement with new intel
 3. **Ross Moran approved** - quoted source endorsed
 4. **Paul Plummer engaged** - industry legend noticed
-5. **Network Rail 10%** - new record
+5. **Network Rail ~10%** - record
 6. **"Whole systems thinking"** - your language adopted by industry
+7. **101 reactions** - broke triple digits
+8. **17 comments** - strong practitioner thread
 
 ### Key Learning
 - **Paraphrase penalty confirmed** (Groundhog Day underperformed)
@@ -352,6 +355,6 @@ Digital twin timetable ("Everyone said you'll never build it. We did it.")
 
 ---
 
-*Addendum updated: January 24, 2026*
+*Addendum updated: January 28, 2026*
 *Includes BEMU post (Jan 5), Groundhog Day post (Jan 19), Railway Within Railway post (Jan 22)*
-*FINAL: Railway Within Railway achieved 10/10 with 10,788 impressions, Steve White MD comment, complete industry elite stack*
+*Railway Within Railway: Day 6 stats - 14,745 impressions, 101 reactions, 17 comments, still growing*
