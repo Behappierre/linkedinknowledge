@@ -5,18 +5,18 @@
 
 ## Executive Summary
 
-The "Railway Within a Railway" post achieved **perfect performance**, crossing 10,000 impressions and securing engagement from the complete spectrum of UK rail leadership: the quoted source, former industry body CEO, current train operator MD, government policy lead, and professional body CEO.
+The "Railway Within a Railway" post achieved **perfect performance**, crossing 14,000 impressions and securing engagement from the complete spectrum of UK rail leadership: the quoted source, former industry body CEO, current train operator MD, government policy lead, and professional body CEO.
 
-**Final Achievements:**
-1. **10,788 impressions** 🔥 - 3rd post to break five figures
-2. **83 reactions** - exceptional engagement
-3. **11 comments** including substantive endorsement from Steve White (MD, South Eastern Railway)
+**Final Achievements (Day 6):**
+1. **14,745 impressions** 🔥 - 4th highest all-time, still growing
+2. **101 reactions** - broke triple digits
+3. **17 comments** including substantive endorsement from Steve White (MD, South Eastern Railway)
 4. **Ross Moran reacted** 🔥 - Quoted source approved
 5. **Paul Plummer reacted** 🔥 - Former CEO, Rail Delivery Group
 6. **Steve White commented** 🔥🔥🔥 - MD, South Eastern Railway - revealed Hayes Line initiative
 7. **Mike Noakes reacted** 🔥 - Head of Rail, Dept for Business & Trade
 8. **Philip Sherratt reacted** 🔥 - CEO, CIRO
-9. **10% Network Rail reach** - Highest ever (~1,079 impressions from target company)
+9. **10% Network Rail reach** - Record target company penetration
 
 ---
 
@@ -66,27 +66,27 @@ Real photo of ScotRail train crossing bridge (Dumbarton area) - authentic Scotti
 
 ---
 
-## Performance Metrics (FINAL)
+## Performance Metrics (Day 6 - UPDATED)
 
 ### Discovery
 
 | Metric | Value | Assessment |
 |--------|-------|------------|
-| **Impressions** | **10,788** 🔥 | 3rd post to break 10k |
-| **Members reached** | **7,652** | Exceptional |
-| **Profile viewers from post** | 15 | Above average |
-| **Followers gained** | 2 | Good |
+| **Impressions** | **14,745** 🔥 | 4th all-time, still growing |
+| **Members reached** | **10,526** | Exceptional - 10k+ members |
+| **Profile viewers from post** | 20 | Strong |
+| **Followers gained** | 4 | Good |
 
-### Social Engagement (FINAL)
+### Social Engagement
 
 | Metric | Value | Assessment |
 |--------|-------|------------|
-| **Reactions** | **83** | Excellent |
-| **Comments** | **11** | Quality thread with MD comment |
+| **Reactions** | **101** 🔥 | Broke triple digits |
+| **Comments** | **17** | Quality thread with MD comment |
 | **Reposts** | **3** | Geographic amplification |
 | **Saves** | 0 | - |
 | **Sends** | 3 | Good sharing |
-| **Engagement Rate** | 0.9% | Good for this reach |
+| **Engagement Rate** | 0.82% | Excellent for this reach |
 
 ### Engagement Highlights
 | Category | Top Value |
@@ -99,58 +99,58 @@ Real photo of ScotRail train crossing bridge (Dumbarton area) - authentic Scotti
 
 ---
 
-## Seniority Analysis (FINAL)
+## Seniority Analysis (Day 6)
 
 | Level | Percentage |
 |-------|------------|
 | Senior | 33% |
-| Director | 20% |
-| VP | 5% |
-| Manager | 11% |
-| Entry | 19% |
-| **Total Senior Decision-Makers** | **58%** ✅ |
+| Director | ~20% |
+| VP | ~5% |
+| Manager | ~11% |
+| Entry | ~19% |
+| **Total Senior Decision-Makers** | **~58%** ✅ |
 
 **Assessment:** Strong senior reach maintained at scale. Comments from MDs validates quality.
 
 ---
 
-## Demographic Breakdown (FINAL)
+## Demographic Breakdown (Day 6)
 
 ### Company Size
 | Size | Percentage |
 |------|------------|
 | 10,001+ employees | 33% |
-| 1,001-5,000 employees | 16% |
-| 51-200 employees | 9% |
-| 11-50 employees | 7% |
-| 5,001-10,000 employees | 7% |
-
-### Key Companies Reached
-| Company | Percentage | Impressions (est.) | Significance |
-|---------|------------|-------------------|--------------|
-| **Network Rail** | **10%** | **~1,079** | 🔥🔥 NEW RECORD - highest ever |
-| Siemens | 2% | ~216 | Major supplier |
-| AtkinsRéalis | 1% | ~108 | Engineering consultant |
-| Alstom | 1% | ~108 | Major supplier |
-| Netcompany | <1% | ~50 | Internal (low = escaped bubble) ✅ |
+| 1,001-5,000 employees | ~16% |
+| 51-200 employees | ~9% |
+| 11-50 employees | ~7% |
+| 5,001-10,000 employees | ~7% |
 
 ### Industry
 | Industry | Percentage |
 |----------|------------|
 | Truck Transportation (includes rail) | 25% |
-| Rail Transportation | 9% |
-| Construction | 7% |
-| Civil Engineering | 7% |
-| IT Services and IT Consulting | 5% |
+| Rail Transportation | ~9% |
+| Construction | ~7% |
+| Civil Engineering | ~7% |
+| IT Services and IT Consulting | ~5% |
+
+### Key Companies Reached
+| Company | Percentage | Impressions (est.) | Significance |
+|---------|------------|-------------------|--------------|
+| **Network Rail** | **~10%** | **~1,475** | 🔥🔥 Record target company reach |
+| Siemens | ~2% | ~295 | Major supplier |
+| AtkinsRéalis | ~1% | ~147 | Engineering consultant |
+| Alstom | ~1% | ~147 | Major supplier |
+| Netcompany | <1% | ~70 | Internal (low = escaped bubble) ✅ |
 
 ### Location
 | Location | Percentage | Notes |
 |----------|------------|-------|
-| London Area, UK | 21% | Standard UK rail distribution |
-| **Greater Glasgow Area** | **5%** | 🔥 Scotland content reached Scotland |
-| Manchester Area, UK | 4% | Northern rail |
-| Greater Leeds Area | 3% | Northern rail |
-| Greater Derby Area | 3% | Rail engineering hub |
+| London Area, UK | ~21% | Standard UK rail distribution |
+| **Greater Glasgow Area** | **~5%** | 🔥 Scotland content reached Scotland |
+| Manchester Area, UK | ~4% | Northern rail |
+| Greater Leeds Area | ~3% | Northern rail |
+| Greater Derby Area | ~3% | Rail engineering hub |
 
 **Reposts Geography:** Greater Glasgow Area + Rail Transportation industry - perfect signal that Scottish rail practitioners amplified.
 
@@ -193,7 +193,7 @@ Real photo of ScotRail train crossing bridge (Dumbarton area) - authentic Scotti
 | Jillian Campbell | Head of Business Change, Network Rail | Reacted |
 | Angus Cameron | Head of Industry Strategy, Trainline | Reacted |
 
-### Tier 3: Practitioners Who Commented (11 total)
+### Tier 3: Practitioners Who Commented (17 total)
 
 | Name | Role | Comment Theme |
 |------|------|---------------|
@@ -208,7 +208,7 @@ Real photo of ScotRail train crossing bridge (Dumbarton area) - authentic Scotti
 
 ---
 
-## Comment Thread Analysis (11 comments)
+## Comment Thread Analysis (17 comments)
 
 ### Steve White's Comment (CRITICAL) 🔥
 > "This is excellent to see.
@@ -281,9 +281,9 @@ Real photo of ScotRail train crossing bridge (Dumbarton area) - authentic Scotti
 - Scotland content → 5% Glasgow viewers
 - Reposts from Glasgow + Rail Transportation
 
-### 7. Network Rail 10% ✅
-- New record for target company reach
-- ~1,079 Network Rail impressions
+### 7. Network Rail ~10% ✅
+- Record for target company reach
+- ~1,475 Network Rail impressions at current reach
 
 ---
 
@@ -299,28 +299,28 @@ Real photo of ScotRail train crossing bridge (Dumbarton area) - authentic Scotti
 | Soft positioning | Proven - Ross approved, Steve engaged substantively | +1 |
 | Visual | Real photo, authentic | +0.5 |
 | Timing | Thursday 9:12am - optimal | +0.5 |
-| Senior reach | 58% - within target | +0.5 |
+| Senior reach | ~58% - within target | +0.5 |
 | **Steve White comment** | **MD substantive endorsement + new intel + used your language** | **+1.5** 🔥 |
 | Industry elite stack | Paul Plummer + Mike Noakes + Philip Sherratt | +1 |
-| Comment quality | 11 comments, practitioner validation thread | +1 |
-| **Impressions** | **10,788 - broke 10k** | **+1** 🔥 |
+| Comment quality | 17 comments, practitioner validation thread | +1 |
+| **Impressions** | **14,745 - approaching viral threshold** | **+1** 🔥 |
 | Geographic targeting | 5% Glasgow, Scotland reposts | +0.5 |
-| **Network Rail reach** | **10% - new record** | **+0.5** 🔥 |
+| **Network Rail reach** | **~10% - record** | **+0.5** 🔥 |
 
 **Final Score: 10/10** - Perfect execution with complete industry validation
 
 ### Why 10/10
 
 This post achieved everything a LinkedIn post can achieve:
-- ✅ Broke 10,000 impressions (five-figure reach)
+- ✅ Approaching 15,000 impressions (near-viral reach)
 - ✅ Quoted source approved (Ross Moran)
 - ✅ Industry legend engaged (Paul Plummer)
 - ✅ **Train operator MD substantively commented with new intel** (Steve White)
 - ✅ Government policy lead engaged (Mike Noakes)
 - ✅ Professional body CEO engaged (Philip Sherratt)
-- ✅ Quality practitioner debate (11 comments)
+- ✅ Quality practitioner debate (17 comments)
 - ✅ Geographic targeting worked (5% Glasgow)
-- ✅ Network Rail breakthrough (10% - new record)
+- ✅ Network Rail breakthrough (~10% - record)
 - ✅ Relationship protected AND strengthened
 - ✅ Future content opportunities created (Hayes Line)
 - ✅ Steve White used YOUR language ("whole systems thinking")
@@ -333,13 +333,14 @@ This post achieved everything a LinkedIn post can achieve:
 
 | Rank | Post | Date | Impressions | Score | Type |
 |------|------|------|-------------|-------|------|
-| 1 | Electric Bus | Dec 2024 | 22,346 | 10/10 | Viral |
-| 2 | Train Display | Nov 2024 | 21,659 | 9/10 | Viral |
-| **3** | **Railway Within Railway** | **Jan 2026** | **10,788** | **10/10** ⭐ | **Strong** |
-| 4 | BEMU/East West Rail | Jan 2026 | 6,620 | 9/10 | Strong |
-| 5 | Rail Forum (Toufic) | Dec 2024 | 3,895 | 8.5/10 | Strong |
-| 6 | Carol Service | Dec 2024 | 3,810 | 8/10 | Strong |
-| 7 | Rail Conference (Steve) | Nov 2024 | 2,604 | 9/10 | Good |
+| **1** | **Shap Landslip (RAIB)** | **Dec 2025** | **37,613** | **10/10** | **Slow-Burn Viral** |
+| 2 | Electric Bus | Dec 2024 | 22,346 | 10/10 | Viral |
+| 3 | Train Display | Nov 2024 | 21,659 | 9/10 | Viral |
+| **4** | **Railway Within Railway** | **Jan 2026** | **14,745** 🔥 | **10/10** | **Strong - Still Growing** |
+| 5 | BEMU/East West Rail | Jan 2026 | 6,620 | 9/10 | Strong |
+| 6 | Rail Forum (Toufic) | Dec 2024 | 3,895 | 8.5/10 | Strong |
+| 7 | Carol Service | Dec 2024 | 3,810 | 8/10 | Strong |
+| 8 | Rail Conference (Steve) | Nov 2024 | 2,604 | 9/10 | Good |
 
 ---
 
@@ -395,7 +396,7 @@ When you write genuinely insightful content, the very top of the industry notice
 Steve White's escalating engagement (liked → liked → substantive comment) shows that relationship-building through content works.
 
 ### 4. Comments Drive Continued Distribution
-11 comments kept the algorithm pushing the post, helping it cross 10k.
+17 comments kept the algorithm pushing the post, helping it approach 15k.
 
 ### 5. The Complete Engagement Stack Is Achievable
 Infrastructure owner + Industry body CEO + Train operator MD + Government + Professional body - all on one post. This is what excellent content can achieve.
@@ -417,6 +418,6 @@ This post originated from the Rail Scotland Innovation Conference (Glasgow, Janu
 
 ---
 
-*Analysis completed: January 24, 2026*
-*Final stats: 10,788 impressions, 83 reactions, 11 comments, Steve White substantive comment*
-*Score: 10/10 - Second perfect score achieved*
+*Analysis updated: January 28, 2026*
+*Day 6 stats: 14,745 impressions, 101 reactions, 17 comments*
+*Score: 10/10 - Perfect execution, still growing*
