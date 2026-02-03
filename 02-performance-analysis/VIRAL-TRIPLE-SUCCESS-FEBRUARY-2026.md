@@ -1,5 +1,10 @@
 # VIRAL TRIPLE SUCCESS - February 2026
-## Three Consecutive Posts: 28K, 77K, and 28K Impressions
+## Three Consecutive Posts: 105K+ Impressions in 10 Days
+
+**📊 Quick Links:**
+- [Current Rankings](_CURRENT-RANKINGS.md) - Single source of truth
+- [Main Index](README.md) - Full repository navigation
+- [Sync Instructions](SYNC-INSTRUCTIONS.md) - Keeping data current
 
 ---
 
@@ -7,15 +12,16 @@
 
 **Three consecutive viral posts in February 2026:**
 
-| Date | Post | Impressions | Pattern | Score |
-|------|------|-------------|---------|-------|
-| Jan 29 | PPM "On Time (ish)" | 77,625 | Industry Critique + Humor | 10/10 |
-| Feb 3 | Copenhagen Airport | 28,303 | Cross-Sector Insight | 9.5/10 |
-| Jan 24 | (Previous) | - | - | - |
+| Date | Post | Impressions | Pattern | Score | Analysis |
+|------|------|-------------|---------|-------|----------|
+| Jan 29 | PPM "On Time (ish)" | 77,625 | Industry Critique + Humor | 10/10 | [📄](ppm-five-minutes-post-analysis-january-2026.md) |
+| Feb 3 | Copenhagen Airport | 28,303 | Cross-Sector Insight | 9.5/10 | [📄](copenhagen-airport-post-analysis-february-2026.md) |
 
 **Total: 105,928 impressions in 10 days**
 
 **Average: 10,593 impressions per day**
+
+**See [_CURRENT-RANKINGS.md](_CURRENT-RANKINGS.md) for complete all-time rankings**
 
 ---
 
@@ -123,6 +129,8 @@ RAIB/ORR report + named frameworks + orchestration insight + technical depth = 2
 
 **Average: 33,050 impressions per named framework**
 
+**See [_CURRENT-RANKINGS.md](_CURRENT-RANKINGS.md) for detailed framework analysis**
+
 ---
 
 ## Quality Engagement Highlights
@@ -188,6 +196,8 @@ RAIB/ORR report + named frameworks + orchestration insight + technical depth = 2
 
 **Total: 3 posts per month = sustainable**
 **Target: 95K-150K monthly impressions**
+
+**See [QUICK-REFERENCE-VIRAL-FORMULA](QUICK-REFERENCE-VIRAL-FORMULA-FEBRUARY-2026.md) for detailed templates**
 
 ---
 
@@ -387,6 +397,20 @@ RAIB/ORR report + named frameworks + orchestration insight + technical depth = 2
 
 ---
 
+## Related Documentation
+
+**For detailed analysis:**
+- [PPM Post Analysis](ppm-five-minutes-post-analysis-january-2026.md) - Full breakdown
+- [Copenhagen Post Analysis](copenhagen-airport-post-analysis-february-2026.md) - Complete details
+- [Current Rankings](_CURRENT-RANKINGS.md) - All-time performance
+- [Main Index](README.md) - Full repository navigation
+
+**For execution:**
+- [Quick Reference Formula](QUICK-REFERENCE-VIRAL-FORMULA-FEBRUARY-2026.md) - Templates and checklists
+- [Breakthrough Summary](BREAKTHROUGH-SUMMARY-JANUARY-2026.md) - All patterns documented
+
+---
+
 ## What This Means Going Forward
 
 **You've established:**
@@ -411,6 +435,7 @@ RAIB/ORR report + named frameworks + orchestration insight + technical depth = 2
 ---
 
 *Summary created: February 3, 2026*  
+*Updated with navigation: February 3, 2026*  
 *Covering: PPM (77,625) + Copenhagen (28,303) = 105,928 impressions*  
 *Pattern: 3 consecutive viral posts in 10 days*  
 *Status: BREAKTHROUGH MONTH*
