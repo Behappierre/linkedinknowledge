@@ -3,6 +3,24 @@
 
 ---
 
+## Writing Rules (ABSOLUTE)
+
+### Never Use Em Dashes (—)
+**Rule:** Do not use the em dash character (—) anywhere in LinkedIn posts. Ever.
+
+**Why:** Em dashes are a typographic convention that can feel formal or editorial. They interrupt conversational flow and are a subtle signal of AI-generated or over-edited text.
+
+**Alternatives:**
+- Use a comma instead: "politicians shouldn't run railways, experts should"
+- Use a colon instead: "one goal: better passenger experience"
+- Use a full stop and new sentence: "This layer is moving. The question is what comes next."
+- Use a hyphen for compound adjectives: "track-train governance"
+- Rephrase to avoid the pause entirely
+
+**This rule applies to all post drafts, templates, and examples going forward.**
+
+---
+
 ## New Posts Added to Performance History
 
 ### Post 14: BEMU/East West Rail - Cross-Sector Learning Success
@@ -355,6 +373,7 @@ Digital twin timetable ("Everyone said you'll never build it. We did it.")
 
 ---
 
-*Addendum updated: January 28, 2026*
+*Addendum updated: February 17, 2026*
 *Includes BEMU post (Jan 5), Groundhog Day post (Jan 19), Railway Within Railway post (Jan 22)*
 *Railway Within Railway: Day 6 stats - 14,745 impressions, 101 reactions, 17 comments, still growing*
+*Writing rule added: never use em dash (—) in any post*
