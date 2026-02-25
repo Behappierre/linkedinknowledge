@@ -1,29 +1,40 @@
 # LinkedIn Content Strategy - Project Instructions
 
-## ⚠️ CRITICAL: GitHub is the ONLY Source of Truth
+## STEP 1: Read the Skill First
 
-**DO NOT trust /mnt/project/ files** - they are read-only snapshots that become outdated.
+Before doing anything in this project, read:
 
-**ALWAYS start sessions by reading from GitHub directly using github:get_file_contents**
+```
+00-skill/SKILL.md
+```
 
-**Repository URL:** https://github.com/Behappierre/linkedinknowledge
+This file contains the complete operating protocol: how to document posts, how to draft posts, scoring methodology, demographic interpretation rules, writing rules, and the full workflow for reading and updating the knowledge base. Reading it first prevents errors and saves time.
 
 ---
 
-## Mandatory Session Start Procedure
+## STEP 2: Get the Latest Data from GitHub
 
-**Every session MUST begin with:**
+The project files in `/mnt/project/` are static copies that become outdated. The canonical source of truth is the GitHub repository.
+
+**Repository:** https://github.com/Behappierre/linkedinknowledge
+
+### Key files to fetch before any task:
+
+**Primary living document (always fetch first):**
 ```
-github:get_file_contents → 02-performance-analysis/linkedin-knowledge-base-addendum-january-2026.md
+02-performance-analysis/linkedin-knowledge-base-addendum-january-2026.md
+```
+Contains: all posts from Post 14 onwards, current all-time ranking, quotable insights database (Platinum/Gold/Silver tiers), strategic contacts with engagement history, and all cumulative lessons.
+
+**Individual post analyses (fetch when deep detail is needed):**
+```
+02-performance-analysis/[post-name]-post-analysis-[month]-[year].md
 ```
 
-This ensures you have the latest:
-- All-time rankings
-- Recent post performance
-- Key lessons learned
-- Strategic contacts
-
-**The /mnt/project/ files are OUTDATED COPIES. Do not reference them.**
+**Follower demographics baseline:**
+```
+02-performance-analysis/demographics-of-followers.md
+```
 
 ---
 
@@ -31,173 +42,53 @@ This ensures you have the latest:
 
 ```
 linkedinknowledge/
-├── 01-core-strategy/          # Core strategy documents
-├── 02-performance-analysis/   # Post performance data (MOST IMPORTANT)
-│   ├── linkedin-content-strategy-knowledge-base.md
-│   ├── linkedin-knowledge-base-addendum-january-2026.md ← ALWAYS CHECK FIRST
-│   ├── CRITICAL-UPDATE-SHAP-LANDSLIP-RANKING.md ← Contains #1 post discovery
-│   ├── railway-within-railway-post-analysis-january-2026.md
-│   ├── bemu-post-analysis-january-2026.md
+├── 00-skill/
+│   └── SKILL.md                          ← READ THIS FIRST, EVERY SESSION
+├── 02-performance-analysis/
+│   ├── linkedin-knowledge-base-addendum-january-2026.md  ← PRIMARY LIVING DOCUMENT
+│   ├── linkedin-content-strategy-knowledge-base.md       ← Core strategy (stable)
+│   ├── [individual post analysis files]
 │   └── demographics-of-followers.md
-├── 03-execution-plans/        # Q1 2025 action plans
-├── 04-templates/              # Post templates
-└── README.md
+├── 03-execution-plans/
+│   └── strategic-action-plan-q1-2025.md
+└── 04-templates/
+    └── linkedin-post-creation-toolkit.md
 ```
 
 ---
 
-## All-Time Performance Ranking (CORRECT - January 28, 2026)
+## Common Tasks
 
-| Rank | Post | Date | Impressions | Score |
-|------|------|------|-------------|-------|
-| **1** | **Shap Landslip (RAIB)** | **Dec 2025** | **37,613** | **10/10** |
-| 2 | Electric Bus | Dec 2024 | 22,346 | 10/10 |
-| 3 | Train Display | Nov 2024 | 21,659 | 9/10 |
-| **4** | **Railway Within Railway** | **Jan 2026** | **14,745** 🔥 | **10/10** |
-| 5 | BEMU/East West Rail | Jan 2026 | 6,620 | 9/10 |
-| 6 | Rail Forum (Toufic) | Dec 2024 | 3,895 | 8.5/10 |
-| 7 | Carol Service | Dec 2024 | 3,810 | 8/10 |
-| 8 | Rail Conference (Steve) | Nov 2024 | 2,604 | 9/10 |
+### Documenting a post with analytics
+1. Read SKILL.md Section 3 (Post Documentation Protocol)
+2. Fetch current addendum SHA before writing
+3. Create individual analysis file first
+4. Update addendum second
 
-**THREE 10/10 posts achieved:** Shap Landslip, Electric Bus, Railway Within Railway
+### Drafting a new post
+1. Read SKILL.md Section 4 (Post Drafting Protocol)
+2. Fetch addendum for current quotes database and lessons
+3. Apply absolute writing rules from SKILL.md
+4. Run pre-posting checklist before finalising
 
----
-
-## Key Files for Post Creation
-
-### 1. Latest Analysis (CHECK FIRST)
-**File:** `02-performance-analysis/linkedin-knowledge-base-addendum-january-2026.md`
-- Contains all January 2026 posts and lessons
-- Updated all-time rankings
-- Key patterns and contacts
-- Quotable insights for future content
-
-### 2. Shap Landslip Discovery
-**File:** `02-performance-analysis/CRITICAL-UPDATE-SHAP-LANDSLIP-RANKING.md`
-- Documents the 37,613 impression post
-- Named framework approach ("Correlation Gap", "Deployment Gap")
-- Slow-burn viral pattern
-- RAIB analysis methodology
-
-### 3. Core Strategy
-**File:** `02-performance-analysis/linkedin-content-strategy-knowledge-base.md`
-- Fundamental principles
-- Borrowed credibility framework
-- What works vs what doesn't
+### Answering a strategy question
+1. Fetch addendum for current data
+2. Apply frameworks from SKILL.md
+3. Reference specific post performance as evidence
 
 ---
 
-## Workflow for Claude AI Assistants
+## Current State (as of February 25, 2026)
 
-### Before creating a post:
-```
-github:get_file_contents → 02-performance-analysis/linkedin-knowledge-base-addendum-january-2026.md
-```
-
-### After analysing a post:
-```
-github:create_or_update_file → Update relevant files in 02-performance-analysis/
-```
-
-### If user mentions impressions or rankings:
-```
-github:get_file_contents → 02-performance-analysis/CRITICAL-UPDATE-SHAP-LANDSLIP-RANKING.md
-```
-Verify against GitHub - DO NOT trust cached/memory data.
+- **Posts documented:** 19
+- **All-time #1:** PPM Five Minutes (61,040 impressions, 10/10)
+- **Most recent posts:** EU Telematics TSI and Heathrow Announcement (both February 24, 2026)
+- **Priority pending action:** Leon Kong (Head of Integrated Data Strategy, GBRX) DM follow-up
+- **Next opportunity:** Follow-up aviation/airport post to consolidate Airlines and Aviation sector channel opened by Heathrow post (7% audience)
+- **Standing writing rules:** No em dashes, no bullet points in posts, no paraphrase qualifiers, maximum 4 hashtags, never post twice on same day
 
 ---
 
-## Current Status (January 28, 2026)
-
-### Latest Post: Railway Within a Railway ⭐ PERFECT SCORE
-- **Date:** January 22, 2026 (Day 6 stats)
-- **Impressions:** 14,745 (4th best all-time, still growing)
-- **Members reached:** 10,526
-- **Reactions:** 101 (broke triple digits)
-- **Comments:** 17
-- **Senior reach:** ~58%
-- **Score:** 10/10 ⭐
-- **Key engagements:**
-  - Ross Moran (quoted source) - reacted ✅
-  - Paul Plummer (former RDG CEO) - reacted ✅
-  - Steve White (MD, South Eastern Railway) - **COMMENTED** 🔥🔥🔥
-  - Mike Noakes (Head of Rail, Dept for Business & Trade) - reacted ✅
-  - Philip Sherratt (CEO, CIRO) - reacted ✅
-- **Network Rail reach:** ~10% (~1,475 impressions) - RECORD
-
-### Steve White's Comment (GOLD)
-> "GBR needs to work bottom up as well as top down, fuelled by whole systems thinking and collaboration."
-
-Revealed Hayes Line initiative at SET + Wales and Western doing similar.
-
-### January 2026 Performance Summary
-| Post | Date | Impressions | Score |
-|------|------|-------------|-------|
-| BEMU/East West Rail | Jan 5 | 6,620 | 9/10 |
-| Groundhog Day | Jan 19 | 1,088 | 6.5/10 |
-| **Railway Within Railway** | **Jan 22** | **14,745** 🔥 | **10/10** ⭐ |
-
-**Total January impressions: 22,453**
-**Average: 7,484**
-
----
-
-## Key Lessons Learned (January 2026)
-
-1. **Shap Landslip is #1** - 37,613 impressions via named framework + slow-burn viral
-2. **Paraphrase Penalty:** Never qualify borrowed credibility with "I paraphrase"
-3. **Soft Tech Positioning:** When source is potential client, frame platform need as question
-4. **Industry Elite Engage:** Paul Plummer, Steve White, Mike Noakes all engaged
-5. **They Use Your Language:** Steve White wrote "whole systems thinking"
-6. **Comments Drive Distribution:** 17 comments pushed Railway post to 14,745
-7. **Network Rail 10% Is Benchmark:** Record target company penetration
-
----
-
-## Three Validated Viral Patterns
-
-1. **Real-Time Observation** (Train Display, 21,659)
-   - Visual proof, universal problem, peaks in 6-12 hours
-
-2. **Borrowed Credibility** (Electric Bus, 22,346)
-   - Operator quotes, cross-sector learning, peaks in 6-12 hours
-
-3. **Named Framework** (Shap Landslip, 37,613) ⭐ HIGHEST
-   - Regulatory analysis, named orchestration gaps, slow-burn (grows over weeks)
-
----
-
-## Quotable Insights Available
-
-### From Steve White (NEW - GOLD) 🔥
-> "GBR needs to work bottom up as well as top down, fuelled by whole systems thinking and collaboration."
-
-### From Nigel Pennington
-> "Unable to withstand a purely financial viewpoint"
-
-### From Chris Parker
-> "Privatisation chopped up the industry"
-
-### From Richard Fisher
-> "SPIRS were mainly bun fights"
-
-### From Dave Horton
-> "Hand-in-glove with charging infrastructure"
-
----
-
-## Next Post Recommendations
-
-1. **Steve White Hayes Line** - Use his "bottom up" quote
-2. **Richard Fisher SPIRS insight** - Why incident reviews fail
-3. **RAIB Analysis** - Apply Shap Landslip named framework approach
-4. **Continue Electric Bus series** - Proven viral potential
-5. **Rail Scotland follow-up** - Digital twin timetable
-
-**Timing:** Tuesday-Thursday 7-9am GMT
-**Format:** Clean borrowed credibility, real photo, strategic question
-
----
-
-*Last updated: January 28, 2026*
-*GitHub is source of truth - /mnt/project/ files are outdated*
+*Last updated: February 25, 2026*
+*SKILL.md added at 00-skill/SKILL.md - read it first*
+*GitHub is the only source of truth - /mnt/project/ files are outdated copies*
