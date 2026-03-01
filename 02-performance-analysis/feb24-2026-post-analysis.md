@@ -44,62 +44,78 @@
 
 **Reaction Rate:** 0.15% (9 / 6,034) — spectator effect  
 **Comment Rate:** 0.017% — low  
-**Senior Reach (S+D+VP):** 35% + 23% + 5% = **63%** ✅
+**Senior Reach (S+D+VP):** 34.6% + 22.9% + 4.6% = **62.1%** ✅
 
 ---
 
-## Demographic Breakdown
+## Demographic Breakdown (Precise Figures)
 
 ### Seniority
 | Seniority | % |
 |-----------|---|
-| Senior | 35% |
-| Director | 23% |
-| Entry | 14% |
-| Manager | 12% |
-| VP | 5% |
+| Senior | 34.6% |
+| Director | 22.9% |
+| Entry | 14.4% |
+| Manager | 11.9% |
+| VP | 4.6% |
 
-**Total Senior Decision-Makers (S+D+VP): 63%**
+**Total Senior Decision-Makers (S+D+VP): 62.1%** — above benchmark (target: 60-66%)
 
 ### Company Size
 | Size | % |
 |------|---|
-| 10,001+ employees | 36% |
-| 1001-5000 employees | 15% |
-| 5001-10,000 employees | 11% |
-| 51-200 employees | 8% |
-| 11-50 employees | 6% |
+| 10,001+ employees | 35.9% |
+| 1001-5000 employees | 15.4% |
+| 5001-10,000 employees | 11.0% |
+| 51-200 employees | 7.8% |
+| 11-50 employees | 6.3% |
+
+**Large enterprise (5K+): 57.3%** — strong
 
 ### Top Companies
 | Company | % |
 |---------|---|
-| Network Rail | 7% |
-| Transport for London | 3% |
-| Heathrow | 2% |
-| AtkinsRéalis | 2% |
-| Netcompany | 1% |
+| Network Rail | 7.2% |
+| Transport for London | 2.5% |
+| Heathrow | 2.0% |
+| AtkinsRéalis | 1.6% |
+| Netcompany | 1.5% |
 
 ### Industries
 | Industry | % |
 |----------|---|
-| Truck Transportation (rail miscategorised) | 26% |
-| Rail Transportation | 9% |
-| Airlines and Aviation | 7% |
-| Civil Engineering | 6% |
-| IT Services and IT Consulting | 6% |
+| Truck Transportation (rail miscategorised) | 26.1% |
+| Rail Transportation | 8.6% |
+| Airlines and Aviation | 7.1% |
+| Civil Engineering | 6.4% |
+| IT Services and IT Consulting | 6.1% |
 
 ### Locations
 | Location | % |
 |----------|---|
-| London Area, UK | 30% |
-| Manchester Area, UK | 4% |
-| Greater Leeds Area | 3% |
-| Greater Glasgow Area | 2% |
-| Birmingham | 2% |
+| London Area, UK | 30.3% |
+| Manchester Area, UK | 3.6% |
+| Greater Leeds Area | 2.8% |
+| Greater Glasgow Area | 2.3% |
+| Birmingham | 2.0% |
 
-### Top Reactions
-- Top reaction job title: **Human Resources Manager** (see analysis below)
-- Top comment: **Managing Director, Burton Upon Trent** (strong seniority signal)
+### Top Job Titles (Overall Audience)
+| Job Title | % |
+|-----------|---|
+| Project Manager | 3.6% |
+| Managing Director | 1.8% |
+| Project Engineer | 1.1% |
+| Program Manager | <1% |
+| Transport Planner | <1% |
+
+**Clean rail/infrastructure profile.** Project Manager + Project Engineer + Program Manager = delivery/execution layer. Managing Director = seniority. Transport Planner = exactly the right specialist audience for a GBR/timetabling post.
+
+### Reactions Highlights (Separate Section — Small Sample of 9 Reactions Only)
+- Top reaction job title: **Human Resources Manager** ← this is the job title of one of just 9 people who reacted, NOT representative of the broader 6,034 audience
+- Top comment job title: **Managing Director** (Burton Upon Trent)
+- Top comment industry: **Technology, Information and Internet**
+
+**⚠️ Note on HR Manager:** This appeared in the Reactions Highlights panel, which reflects only the 9 people who clicked like/react — a tiny and unrepresentative sample. It does NOT appear in the overall audience job title demographics and should not be read as a signal about post topic resonance. The actual audience job title data (above) shows a textbook rail/infrastructure profile.
 
 ---
 
@@ -133,7 +149,6 @@
 **5. Engagement Question**
 - "What would it take to build the rail equivalent?" — genuinely open, invites speculation
 - Targets GBR digital layer professionals specifically
-- Strong in theory
 
 **6. Structure: No bullet points ✅ | 4 hashtags ✅ | Prose throughout ✅**
 
@@ -145,12 +160,7 @@
 
 **"Today, Netcompany announced it is Heathrow's new digital operations partner."**
 
-This single sentence is the ceiling on performance. The algorithm reads this as:
-- Corporate announcement content
-- Company promoting its own win
-- Promotional intent
-
-Even with the Minister quote, the AIRHART proof point, the GBR bridge — the algorithm's early classification likely suppressed initial distribution. By the time the quality audience was engaging, momentum was limited.
+This single sentence is the ceiling on performance. The algorithm reads this as corporate announcement / company promoting its own win, and suppresses distribution regardless of surrounding content quality.
 
 **Compare to Copenhagen Airport post (42,653 impressions):**
 - Also about AIRHART at an airport
@@ -160,31 +170,23 @@ Even with the Minister quote, the AIRHART proof point, the GBR bridge — the al
 
 ### The Two-Week Gap
 
-- George Bradshaw Address was February 10
-- This post was February 24 — fourteen days later
+- George Bradshaw Address: February 10
+- This post: February 24 — fourteen days later
 - The Heathrow announcement created the hook to use the withheld quote
 - But the GBR community had moved on from the Bradshaw Address news cycle
 - The connection worked intellectually but the timeliness of the quote had faded
 
 ### The Photo
 
-- TotalPolitics event photo (from the Bradshaw Address)
-- This is a two-week-old event photo
-- By Feb 24, it reads as archive, not live
-- Weaker visual signal than real-time photos
+- TotalPolitics event photo from a two-week-old event
+- By Feb 24 it reads as archive, not live
 - No Heathrow visual (which would have been stronger for the announcement angle)
-
-### HR Manager as Top Reaction — Explained
-
-The Minister's line "should no more be making timetabling decisions" touches on **decision rights and governance** — who should be making which decisions. HR professionals are highly attuned to this language. The post inadvertently spoke to a people/governance audience as well as a systems audience. This is not a failure — it's cross-audience resonance. But it explains an unusual demographic appearing in the reaction data.
 
 ---
 
 ## Performance Assessment
 
-### Score: **7.5/10** (revised from initial 7/10)
-
-**Rationale:**
+### Score: **7.5/10**
 
 **Content quality: 9/10**
 - Sophisticated narrative (withheld quote + timely release)
@@ -196,22 +198,18 @@ The Minister's line "should no more be making timetabling decisions" touches on 
 **Distribution outcome: 6/10**
 - Corporate announcement framing suppressed algorithm distribution
 - 6,034 impressions despite excellent content quality
-- Only 1 comment despite GBR question targeting the right audience
-- Strong institutional targeting (NWR 7%, aviation 7%) shows quality reach
-- Low engagement rate reflects spectator effect on corporate/strategic content
+- Only 1 comment despite strong GBR question
 
 **Strategic value: 8.5/10**
-- Heathrow viewers (2%) saw Netcompany's own announcement framed as orchestration insight
-- Network Rail (7%) saw the GBR parallel drawn explicitly
-- Aviation (7%) saw cross-modal orchestration positioning
-- The silence (no engagement) doesn't mean no impact — key people read it without commenting
-- AtkinsRéalis at 2% = infrastructure consultancy audience engaged
+- Heathrow viewers (2% = ~121 people) saw Netcompany's own announcement framed as orchestration insight
+- Network Rail 7.2% = ~434 NWR viewers, ~270 of them senior
+- Aviation 7.1% = cross-modal positioning working
+- AtkinsRéalis 1.6% = infrastructure consultancy/tender audience
+- Silence in comments does not mean no impact — key people read without publicly engaging
 
 ---
 
 ## The Rewrite Opportunity
-
-**What this post should have been:**
 
 The Heathrow announcement deserved two separate posts:
 
@@ -227,12 +225,12 @@ The Heathrow announcement deserved two separate posts:
 > What's the rail equivalent of CDM?
 
 **Post B — The Announcement (Feb 24, announcement day):**
-Open with Javier Echave quote ("orchestrate critical processes"). No ministerial quote. No GBR bridge. Pure Heathrow/AIRHART story. Let the Bradshaw post stand on its own.
+Open with Javier Echave quote ("orchestrate critical processes"). No ministerial quote. No GBR bridge. Pure Heathrow/AIRHART story.
 
 **Why splitting works:**
 - Post A: Viral potential (Minister + governance insight + GBR debate)
 - Post B: Corporate announcement (different audience, different purpose, no algorithm penalty to Post A)
-- Current post tried to do both simultaneously and the corporate element capped the insight element
+- Combined post: corporate element capped the insight element
 
 ---
 
@@ -240,45 +238,33 @@ Open with Javier Echave quote ("orchestrate critical processes"). No ministerial
 
 | Post | Impressions | Senior % | Comments | Score | Key Difference |
 |------|-------------|----------|----------|-------|----------------|
-| **Heathrow Announcement (Feb 24)** | **6,034** | **63%** | **1** | **7.5/10** | Corporate announcement frame |
-| Copenhagen Airport (Feb 3) | 42,653 | 59.4% | 27 | 10/10 | Insight frame, not announcement |
-| George Bradshaw (Feb 17) | 11,504 | 60% | 11 | 8.5/10 | Multi-source credibility, named framework |
-| BEMU (Jan 2026) | 6,897 | ~60% | 27 | 8.5/10 | Technical depth, no corporate element |
-| Heathrow Announcement (Feb 2026) | 10,567* | — | — | 7/10 | Earlier Heathrow post for reference |
-
-*See heathrow-announcement-post-analysis-february-2026.md
+| **Heathrow Feb 24** | **6,034** | **62.1%** | **1** | **7.5/10** | Corporate announcement frame |
+| Copenhagen Airport | 42,653 | 59.4% | 27 | 10/10 | Insight frame, not announcement |
+| George Bradshaw | 11,504 | 60% | 11 | 8.5/10 | Multi-source credibility, named framework |
+| BEMU | 6,897 | ~60% | 27 | 8.5/10 | Technical depth, no corporate element |
 
 ---
 
 ## Key Lessons
 
-**1. Corporate announcements cap impression ceiling even with excellent framing**
-"Today, Netcompany announced" triggers algorithm classification regardless of surrounding content quality. The ceiling for company-win posts appears to be 6K-10K impressions. This is consistent with Tom Bailey (755), Heathrow announcement (10,567), and this post.
-
-**2. The withheld quote strategy works — but timing must serve the insight, not the announcement**
-Holding the Heidi Alexander quote for two weeks was clever. But it should have been released as a standalone insight post, not attached to a corporate announcement. The quote deserved its own moment.
-
-**3. Double borrowed credibility (Minister + COO) achieves exceptional institutional targeting**
-Network Rail 7% + Aviation 7% + AtkinsRéalis 2% in one post = the right people were reached. The silence in comments doesn't mean the post failed strategically. Key contacts read this.
-
-**4. The GBR bridge is the most valuable element**
-"For those working on GBR's digital layer" — this is account-based marketing. Leon Kong (GBRX) almost certainly saw this. The question about building the rail equivalent of what Heathrow is building is exactly the conversation Netcompany needs to be having with GBRX.
-
-**5. "AIRHART runs Copenhagen and Munich" is your strongest proof statement**
-Named, live, operating. Use this line more. It says more than any product description.
+1. **"Today, Netcompany announced" = algorithm ceiling of ~6K-10K impressions** regardless of content quality surrounding it
+2. **The withheld quote strategy is valid** — but release it as standalone insight, not attached to a corporate announcement
+3. **Double borrowed credibility (Minister + COO) achieves exceptional institutional targeting** — NWR 7.2% is among your highest ever
+4. **The GBR bridge is the most valuable element** — Leon Kong (GBRX) almost certainly saw the "GBR digital layer" targeting
+5. **"AIRHART runs Copenhagen and Munich"** — file this as standard proof point; use it more
+6. **Reactions Highlights ≠ Audience Demographics** — 9 reactions is too small a sample to draw any conclusions about topic resonance
 
 ---
 
 ## Follow-Up Actions
 
-- [ ] DM the MD who commented (Burton Upon Trent) — they engaged despite low overall engagement
-- [ ] DM Leon Kong (GBRX) — this post spoke directly to his brief; follow up with the GBR digital layer question
-- [ ] Consider standalone GBR governance/CDM post using the Heidi Alexander insight alone (strip corporate element)
-- [ ] File "AIRHART runs Copenhagen and Munich" as a standard proof point in operator quote database
-- [ ] Note: Heathrow viewers (2%) = ~121 people at the airport that is now a client saw this post
+- [ ] DM the MD who commented (Burton Upon Trent)
+- [ ] DM Leon Kong (GBRX) — this post spoke directly to his brief
+- [ ] Draft standalone GBR governance/CDM post using the Heidi Alexander insight alone (strip corporate element)
+- [ ] File "AIRHART runs Copenhagen and Munich" as standard proof point in operator quote database
 
 ---
 
 *File created: March 1, 2026*  
-*Data period: Feb 24 – Mar 1, 2026*  
+*Corrected March 1, 2026: HR Manager reference removed from audience demographics — appeared only in Reactions Highlights (n=9), not in overall audience job title data*  
 *Post topic: Heathrow digital operations partnership + GBR orchestration parallel*
