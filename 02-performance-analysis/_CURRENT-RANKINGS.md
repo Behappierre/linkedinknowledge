@@ -1,13 +1,14 @@
 # Current LinkedIn Post Rankings
-## Single Source of Truth - Updated February 18, 2026
+## Single Source of Truth - Updated March 1, 2026
 
 **⚠️ CORRECTION LOG:**
 - February 6, 2026: Groundhog Day corrected from 12,450 to 1,836 (LinkedIn analytics verification)
 - February 18, 2026: All figures updated from feed data. James/EMR (16,623) and George Bradshaw (11,504) inserted. Audenshaw updated to final (1,446).
+- March 1, 2026: Feb 24 post added (6,034 impressions, 63% senior, Network Rail 7%). Title unknown — update when confirmed.
 
 ---
 
-## 📊 All-Time Rankings (Complete — 22 Posts)
+## 📊 All-Time Rankings (Complete — 23 Posts)
 
 | Rank | Post Title | Date | Impressions | Reactions | Comments | Reposts | Senior % | Score | Status |
 |------|------------|------|-------------|-----------|----------|---------|----------|-------|--------|
@@ -21,22 +22,40 @@
 | **8** | **George Bradshaw Address** | **Feb 17, 2026** | **11,504** | **60** | **11** | **3** | **60%** | **8.5/10** | **STRONG** |
 | 9 | Netcompany Joining | May 2025 | 10,153 | 193 | 87 | 0 | N/A | 7/10* | CORPORATE |
 | 10 | BEMU | Jan 2026 | 6,897 | 60 | 27 | 3 | ~60% | 8.5/10 | PRECISION |
-| 11 | Carol Service | Dec 2024 | 4,859 | 36 | 7 | 0 | ~60% | 8/10 | PERSONAL |
-| 12 | Rail Forum (Toufic) | Oct 2025 | 3,928 | 66 | 5 | 0 | ~60% | 8/10 | STRONG |
-| 13 | Rail Conference (Steve) | Nov 2024 | 2,651 | 32 | 2 | 0 | 61% | 9/10 | GOOD |
-| 14 | Groundhog Day | Jan 19, 2026 | 1,850 | 13 | 3 | 0 | 64% | 3/10 | FAILED |
-| 15 | Manufacturing Summit | Nov 2024 | 1,584 | 20 | 4 | 0 | 65% | 8/10 | PRECISION |
-| 16 | 48 Hours Fleet | Nov 2024 | 1,570 | 12 | 3 | 0 | 66.3% | 8.5/10 | PRECISION |
-| 17 | LARA Hackathon | Nov 2024 | 1,549 | 41 | 5 | 1 | ~60% | 8/10 | PRECISION |
-| 18 | Audenshaw Derailment | Feb 4, 2026 | 1,446 | 10 | 0 | 0 | TBD | 6/10 | FINAL |
-| 19 | Trade Show | Nov 2024 | 1,350 | 33 | 0 | 0 | 60.4% | 7/10 | STANDARD |
-| 20 | Tom Bailey (repost) | Dec 2024 | 854 | 10 | 1 | 0 | ~30% | 6/10 | REPOST |
-| 21 | Belgium ETCS (repost) | Feb 2026 | 459 | 7 | 1 | 0 | ~30% | 5/10 | REPOST |
-| 22 | Energy Recruitment (repost) | Dec 2024 | 342 | 5 | 0 | 0 | ~30% | 2/10 | REPOST |
+| **11** | **Feb 24, 2026 (title TBC)** | **Feb 24, 2026** | **6,034** | **9** | **1** | **0** | **63%** | **7/10** | **PRECISION** |
+| 12 | Carol Service | Dec 2024 | 4,859 | 36 | 7 | 0 | ~60% | 8/10 | PERSONAL |
+| 13 | Rail Forum (Toufic) | Oct 2025 | 3,928 | 66 | 5 | 0 | ~60% | 8/10 | STRONG |
+| 14 | Rail Conference (Steve) | Nov 2024 | 2,651 | 32 | 2 | 0 | 61% | 9/10 | GOOD |
+| 15 | Groundhog Day | Jan 19, 2026 | 1,850 | 13 | 3 | 0 | 64% | 3/10 | FAILED |
+| 16 | Manufacturing Summit | Nov 2024 | 1,584 | 20 | 4 | 0 | 65% | 8/10 | PRECISION |
+| 17 | 48 Hours Fleet | Nov 2024 | 1,570 | 12 | 3 | 0 | 66.3% | 8.5/10 | PRECISION |
+| 18 | LARA Hackathon | Nov 2024 | 1,549 | 41 | 5 | 1 | ~60% | 8/10 | PRECISION |
+| 19 | Audenshaw Derailment | Feb 4, 2026 | 1,446 | 10 | 0 | 0 | TBD | 6/10 | FINAL |
+| 20 | Trade Show | Nov 2024 | 1,350 | 33 | 0 | 0 | 60.4% | 7/10 | STANDARD |
+| 21 | Tom Bailey (repost) | Dec 2024 | 854 | 10 | 1 | 0 | ~30% | 6/10 | REPOST |
+| 22 | Belgium ETCS (repost) | Feb 2026 | 459 | 7 | 1 | 0 | ~30% | 5/10 | REPOST |
+| 23 | Energy Recruitment (repost) | Dec 2024 | 342 | 5 | 0 | 0 | ~30% | 2/10 | REPOST |
 
 **Top 10 average (excluding corporate): 26,404 impressions**
 
 *Note: Netcompany joining post scored differently — corporate announcement serving relationship transition, not thought leadership content
+
+---
+
+## 🆕 Feb 24, 2026 Post — Notable Signals
+
+**6,034 impressions | 63% senior reach | Network Rail 7% | Aviation 7% | Civil Engineering 6%**
+
+This post's audience targeting was exceptional despite modest impression count:
+- **Network Rail 7%** = ~422 NWR viewers (~266 senior) — one of highest NWR concentrations recorded
+- **TfL 3% + Heathrow 2%** = cross-modal transport authority reach
+- **Airlines & Aviation 7%** = infrastructure orchestration positioning reaching aviation
+- **AtkinsRéalis 2%** = major rail/infrastructure consultancy engaged
+- **63% senior** = above benchmark, maintained quality at this volume
+
+**Gap:** Only 1 comment despite strong targeting. Engagement question likely too closed or topic didn't invite public debate. Same audience quality as BEMU (6.9K, 27 comments) but without the conversation.
+
+**⚠️ Post title not recorded** — see [feb24-2026-post-analysis.md](feb24-2026-post-analysis.md) and update with actual content.
 
 ---
 
@@ -57,18 +76,20 @@
 - Pattern: Borrowed credibility + cross-sector appeal OR real-time observation + visual proof
 
 ### Tier 4: Strong Success (15K-20K)
-- **EMR Train Manager (James)**: 16,623 impressions ← NEW
+- **EMR Train Manager (James)**: 16,623 impressions
 - **Railway Within Railway**: 16,319 impressions
 - Pattern: Named hero + systems insight OR conference insight + borrowed credibility
 
 ### Tier 5: Corporate/Strong (10K-15K)
-- **George Bradshaw Address**: 11,504 impressions ← NEW
+- **George Bradshaw Address**: 11,504 impressions
 - **Netcompany Joining**: 10,153 impressions
 - Pattern: Multi-source borrowed credibility + named framework OR major career announcement
 
 ### Tier 6: Strategic Precision (5K-8K)
 - **BEMU**: 6,897 impressions
-- Pattern: Technical depth + timely procurement + perfect audience targeting
+- **Feb 24, 2026 (TBC)**: 6,034 impressions ← NEW
+- Pattern: Technical depth + timely procurement OR infrastructure topic with strong institutional targeting
+- Note: Feb 24 post achieved exceptional Network Rail (7%) and aviation (7%) reach at this tier
 
 ### Tier 7: Solid Performance (3K-5K)
 - **Carol Service**: 4,859 impressions
@@ -140,53 +161,6 @@
 
 ---
 
-## 🆕 New Posts Added February 18, 2026
-
-### EMR Train Manager (James) — February 7, 2026
-**Final impressions: 16,623** (previously in analysis at 12,741 — has continued growing)
-
-Pattern validated: **Named Hero + Systems Insight**
-- "James was the orchestration layer" framing
-- Named the individual (builds operator relationship)
-- EMR leadership responded (Lynsey Buxton requested official recognition)
-- Exceptional 1.01% reaction rate (168 reactions / 16,623 impressions)
-- See full analysis: emr-train-manager-james-post-analysis-february-2026.md
-
-**⚠️ Note:** James analysis file records 12,741 impressions (snapshot at Day 3). Post has grown to 16,623. Analysis file should be updated separately.
-
----
-
-### George Bradshaw Address — February 17, 2026
-**Current impressions: 11,504** (Day 1 — still growing)
-
-Pattern: Multi-source borrowed credibility + Three Layers named framework
-- Minister-level borrowed credibility (Heidi Alexander, Minister of State)
-- Three authority levels stacked: Government + Infrastructure + Operator
-- Leon Kong (GBRX Head of Integrated Data Strategy) engaged substantively
-- Steve White 4th engagement — now contributing frameworks
-- Network Rail at 8.4% (~962 impressions) — near-record
-- DfT at 1.1% — government department directly reached
-- Glasgow at 3.5% — Scotland panel pre-seeded
-- See full analysis: george-bradshaw-address-post-analysis-february-2026.md
-
-**Expected final impressions: 13,000-16,000 (still growing)**
-
----
-
-### Audenshaw RAIB Derailment — February 4, 2026
-**Final impressions: 1,446** (plateau confirmed)
-
-Pattern: RAIB analysis — but with structural failures preventing distribution
-- Used bullet points (26x penalty confirmed vs Shap)
-- No borrowed credibility opening
-- Engagement question too narrow (rail-only)
-- No named frameworks ("The Discipline Gap" and "The Database Gap" were available but unused)
-
-**Rewrite potential: HIGH** — same story, Shap formula, could reach 10K-20K
-See full analysis: audenshaw-raib-post-analysis-february-2026.md
-
----
-
 ## 💼 Business Development Outcomes
 
 ### Key Relationships Generated (Updated)
@@ -228,6 +202,12 @@ See full analysis: audenshaw-raib-post-analysis-february-2026.md
 - East West Rail stakeholder engagement
 - Dave Horton (Chief Mechanical Engineer, GWR)
 
+**From Feb 24, 2026 Post (6K):**
+- MD from Burton Upon Trent commented (only comment — follow up)
+- Network Rail 7% = ~422 viewers, significant silent audience
+- TfL + Heathrow reach = cross-modal opportunity
+- AtkinsRéalis audience = consultancy/tender opportunity
+
 ---
 
 ## 📊 Demographic Consistency
@@ -237,6 +217,7 @@ See full analysis: audenshaw-raib-post-analysis-february-2026.md
 - Copenhagen: 59.4% (quality maintained at 43K)
 - James/EMR: 57% (strong for 17K — broad topic)
 - George Bradshaw: 60% (good, policy audience included)
+- **Feb 24, 2026: 63%** (strong precision targeting)
 - Groundhog: 64% (high senior % but catastrophically low volume)
 - BEMU: ~60% (precision targeting)
 
@@ -278,8 +259,9 @@ See full analysis: audenshaw-raib-post-analysis-february-2026.md
 |------|---------|
 | Feb 6, 2026 | CRITICAL: Groundhog Day corrected 12,450 → 1,836 |
 | Feb 18, 2026 | All figures updated from feed. James/EMR inserted at #6 (16,623). George Bradshaw inserted at #8 (11,504). Audenshaw finalised at 1,446. Multiple minor impression updates across all posts. Bullet point penalty documented. |
+| Mar 1, 2026 | Feb 24, 2026 post added at #11 (6,034 impressions, 63% senior, Network Rail 7%, Aviation 7%). Title TBC. |
 
-**Next review:** After George Bradshaw reaches Day 5-7 (approx Feb 22-24, 2026)
+**Next review:** After next post published and 5-7 days of data available.
 
 ---
 
@@ -291,6 +273,7 @@ See full analysis: audenshaw-raib-post-analysis-february-2026.md
 - [James/EMR Post](emr-train-manager-james-post-analysis-february-2026.md) — Named hero pattern
 - [George Bradshaw Post](george-bradshaw-address-post-analysis-february-2026.md) — Three layers framework
 - [Audenshaw Post](audenshaw-raib-post-analysis-february-2026.md) — Structural failure analysis + rewrite guide
+- [Feb 24, 2026 Post](feb24-2026-post-analysis.md) — Network Rail 7%, Aviation 7%, title TBC ← NEW
 - [Shap Landslip](CRITICAL-UPDATE-SHAP-LANDSLIP-RANKING.md) — Viral RAIB formula
 - [Groundhog Day Failure](GROUNDHOG-DAY-FAILURE-ANALYSIS-FEB-2026.md) — Paraphrase penalty proof
 - [BEMU Post](bemu-post-analysis-january-2026.md) — Precision targeting
@@ -305,4 +288,4 @@ See full analysis: audenshaw-raib-post-analysis-february-2026.md
 *This is the single source of truth for post rankings.*
 *All other documents should reference this file.*
 *Maintained for: Olivier Andre, Netcompany Partner*
-*Last updated: February 18, 2026*
+*Last updated: March 1, 2026*
