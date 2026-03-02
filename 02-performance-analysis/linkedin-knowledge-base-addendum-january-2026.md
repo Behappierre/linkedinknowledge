@@ -85,6 +85,31 @@ See full analysis: heathrow-announcement-post-analysis-february-2026.md
 
 ---
 
+### Post 20: AIRHART / Digital Control Tower / GBR (INTERIM - update at 24h)
+**Date:** Monday, March 2, 2026 | **Score:** 8/10 interim | **Status: IN PROGRESS**
+**Impressions at 8h:** 1,833 | **Members reached:** 1,240 | **Reactions:** 25 | **Comments:** 2 (self only)
+**Seniority:** 62.4% (S 32.8% + D 23.1% + VP 6.5%) | **NR:** 1.9%
+**Heathrow:** 1.2% | **Airlines and Aviation:** 5.5% (channel consolidating, was 7% on Post 19)
+**Copenhagen:** 2.9% | **London:** 22.6%
+**Top companies:** Netcompany 6.8%, Alstom 2.7%, Network Rail 1.9%, Hitachi Rail 1.9%, Heathrow 1.2%
+**Top industries:** Truck Transportation 18%, IT Services 14.6%, Business Consulting 5.6%, Rail Transportation 5.5%, Airlines and Aviation 5.5%
+
+**The post:**
+Reactivated the Javier Echave "orchestrate critical processes" quote (first used in Post 19) in a new frame: not announcement but proof-of-concept. Heathrow selected AIRHART, Copenhagen and Munich already running on it, therefore aviation has proved at scale what GBR needs. Linked to Rail Magazine Digital Control Tower article and Global Railway Review Track Insight piece via self-comments.
+
+**Key strategic development during live period:**
+Carl Soutra (Senior Regulatory Performance Manager, Heathrow) reacted, accepted connection request, received French-language DM. Background: GTR Resource Manager (Victoria/London Bridge depots), Steer Davies Gleave. Rail-aviation intersection contact. High potential for future operator quotes.
+
+**Note on Monday posting:** Outside optimal Tuesday-Thursday window. Likely costs 15-25% of potential first-wave impressions. Still performing well.
+
+**Note on dual-purpose structure:** Post makes simultaneous aviation proof-point and GBR prescription arguments. Self-comments separate the two threads cleanly but the main body carries both simultaneously.
+
+**Projected 24h impressions:** 3,500-5,000
+
+See full analysis: airhart-digital-control-tower-post-analysis-march-2026.md
+
+---
+
 ## STEVE WHITE - Engagement History (Intellectual Partnership Level)
 
 - Rail Conference (Nov 2024): Commented - "learning to dance together"
@@ -133,6 +158,9 @@ Four engagements, escalating in substance. He is contributing frameworks, not ju
 | 17 | Groundhog Day | Jan 2026 | 1,088 | 6.5/10 | Paraphrase penalty |
 | 18 | Tom Bailey | Dec 2024 | 755 | 6.5/10 | Corporate amplification |
 | 19 | Energy Recruitment | Nov 2024 | 323 | 2/10 | Never amplify recruitment |
+| 20* | AIRHART/Digital Control Tower | Mar 2026 | 1,833 (8h) | 8/10* | Aviation channel consolidation |
+
+*Interim - ranking will update at 24h final count
 
 ---
 
@@ -147,6 +175,9 @@ Four engagements, escalating in substance. He is contributing frameworks, not ju
 | Heathrow | 6.6% | ~214 |
 | George Bradshaw | 8.4% | ~962 |
 | Railway Within Railway | ~10% | ~1,475 |
+| AIRHART/DCT | 1.9% (8h) | ~35 |
+
+Note: AIRHART post leads with aviation, not GBR. Low NR reach is expected and acceptable. Will grow as 24-48h precision build continues.
 
 **6-10% Network Rail reach = exceptional targeting. Target this consistently for GBR content.**
 
@@ -251,6 +282,22 @@ Steve White wrote "whole systems thinking" - your vocabulary. Keep using orchest
 
 ---
 
+### The Self-Comment Can Be Stronger Than the Post Opener (AIRHART/DCT - NEW)
+
+In Post 20, the self-comment hook "A 12-minute signal failure cascades into a three-hour, multi-million pound disruption" is more visceral and compelling than the Echave quote that opens the main post. This detail was used as supporting context when it could have been the opening line.
+
+**Rule:** Before finalising the post opener, review all available operational details and failure scenarios. The most visceral specific failure often makes a stronger hook than the C-suite validation quote. Consider: which line would make someone stop scrolling?
+
+---
+
+### Aviation Contacts Engage Authentically When Their Organisation Is Named (AIRHART/DCT - NEW)
+
+Carl Soutra (Heathrow) reacted and connected without prompting. He found the post because it named Heathrow explicitly. His background (GTR, Steer Davies Gleave, 7 years at Heathrow) makes him a high-value rail-aviation bridge contact.
+
+**Rule:** Naming the organisation in the post reaches the people inside it. The account-based pattern (Post 3 Avanti, Post 6 NS, Post 20 Heathrow) is confirmed again. If you want to reach an organisation, name it in a post that speaks to their operational reality.
+
+---
+
 ## Quotable Insights Database (Updated February 2026)
 
 ### PLATINUM
@@ -277,7 +324,7 @@ Note: Now activated via Heathrow post. Still usable for rail governance content 
 
 **Javier Echave (Chief Operating Officer, Heathrow)** - February 2026
 > Heathrow needs technology that can "orchestrate critical processes" across 80 million passengers a year.
-Topic: Airport operations orchestration. First C-suite aviation quote in database. Use for aviation/airport sector content.
+Topic: Airport operations orchestration. First C-suite aviation quote in database. Used in Post 19 and Post 20.
 
 **Alberto Mazzola (Executive Director, Community of European Railways)** - 2026
 > "The management needs to be done at the national level, but the system must be European and we must use the same system."
@@ -304,7 +351,7 @@ Topic: UK-EU standards, industrial economics. Strong opener for follow-up.
 
 ---
 
-## Strategic Contacts Status (Updated February 2026)
+## Strategic Contacts Status (Updated March 2026)
 
 | Name | Role | Engagement Count | Status |
 |------|------|-----------------|--------|
@@ -318,6 +365,7 @@ Topic: UK-EU standards, industrial economics. Strong opener for follow-up.
 | Gregor Erbach | Head of Climate Action Research, European Parliament | 1 (EU Telematics) | EU policy contact |
 | Darren Kemp | Lead C&S Engineer, RSSB | 1 (EU Telematics) | Standards body contact |
 | Danny Longhorn | Content Editor, Rail Business Daily | Profile view | Editorial interest signal |
+| Carl Soutra | Senior Regulatory Performance Manager, Heathrow | 1 (AIRHART post) | NEW - DM sent in French. Rail (GTR/Steer) + Heathrow background. Rail-aviation bridge contact. Monitor for response. |
 
 ---
 
@@ -333,18 +381,21 @@ Posts: 3 assessed | Highest: Electric Bus 23,450 | Average excl viral: 2,282
 Posts: 3 | Total: 22,453 | Average: 7,484
 BEMU: 6,620 | Groundhog Day: 1,088 | Railway Within Railway: 14,745
 
-### February 2026 (Running)
-Posts: 4 | Total so far: ~29,500+
+### February 2026
+Posts: 4 | Total: ~29,500+
 - George Bradshaw Address: 11,468+
 - EU Telematics: 3,255
 - Heathrow Announcement: 3,245
-- (Heathrow impressions may grow)
+
+### March 2026 (Running)
+Posts: 1 (interim) | AIRHART/DCT: 1,833 at 8h (projecting 3,500-5,000 at 24h)
 
 ---
 
-*Addendum last updated: February 25, 2026*
-*Posts documented: 19 total*
-*New post: Heathrow Announcement (Post 19, Feb 24 2026)*
-*New lessons: planted quote activation, corporate announcement metrics, aviation sector signal*
-*New quote added: Javier Echave (COO, Heathrow) - first aviation C-suite in database*
+*Addendum last updated: March 2, 2026*
+*Posts documented: 20 total (Post 20 interim)*
+*New post: AIRHART/Digital Control Tower (Post 20, Mar 2, 2026) - interim at 8 hours*
+*New contact: Carl Soutra (Senior Regulatory Performance Manager, Heathrow)*
+*New lesson: self-comment hook strength; aviation contacts engage when organisation named*
 *Leon Kong DM follow-up still pending*
+*Post 20 to be updated at 24h with final impressions and full reactor list*
