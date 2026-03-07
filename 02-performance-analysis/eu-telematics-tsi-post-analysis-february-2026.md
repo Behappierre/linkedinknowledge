@@ -1,8 +1,8 @@
 # Post Analysis: EU Telematics TSI / "Building a Digital Island?"
-## February 24, 2026 | Posted: 7:47 AM GMT | FINAL (7-day data)
+## February 24, 2026 | Posted: 7:47 AM GMT | FINAL (confirmed analytics)
 
 **Post URL:** https://www.linkedin.com/feed/update/urn:li:share:7431811369697443840  
-**⚠️ Note:** Two posts published same day — this post (7:47 AM) and Heathrow announcement (9:23 AM). Both capped at ~6K impressions.
+**⚠️ Note:** Two posts published same day — this post (7:47 AM) and Heathrow announcement (9:23 AM). Both capped at ~6-7K impressions.
 
 ---
 
@@ -30,105 +30,108 @@
 
 ---
 
-## Performance: 24-Hour vs Final Comparison
+## Performance: Full Journey
 
-| Metric | 24 Hours | Final (7 days) | Change |
-|--------|----------|----------------|--------|
-| Impressions | 3,255 | 6,467 | +99% — slow-burn confirmed ✅ |
-| Members Reached | 2,193 | 4,606 | +110% |
-| Reactions | 30 | 46 | +53% |
-| Comments | 2 | 3 | +1 (Cliff Brown) |
-| Reposts | 1 | 1 | — |
-| Saves | 2 | 2 | — |
-| Sends | 3 | 3 | — |
-| Profile Viewers | 9 | 17 | +89% |
-| Followers Gained | 2 | 2 | — |
+| Metric | 24 Hours | Previous "Final" (7d) | True Final (confirmed) |
+|--------|----------|-----------------------|------------------------|
+| Impressions | 3,255 | 6,467 | **7,576** |
+| Members Reached | 2,193 | 4,606 | **5,432** |
+| Reactions | 30 | 46 | **54** |
+| Comments | 2 | 3 | **3** |
+| Reposts | 1 | 1 | **1** |
+| Saves | 2 | 2 | **2** |
+| Sends | 3 | 3 | **3** |
+| Profile Viewers | 9 | 17 | **18** |
+| Followers Gained | 2 | 2 | **2** |
 
-**Reaction Rate:** 0.71% (46 / 6,467) — excellent for precision/technical content  
-**Senior Reach (S+D+VP):** 35% + 16% + 4% = **55%** — below benchmark (target 60-66%)
-
-**The slow-burn prediction was correct.** At 24 hours the post had 3,255 impressions. It nearly doubled to 6,467 over the following six days — consistent with the regulatory/technical content pattern seen in Shap Landslip.
+**Growth pattern:** 3,255 (24h) → 6,467 (7d) → 7,576 (final) = 133% growth from 24h to final  
+**Reaction Rate:** 0.71% (54 / 7,576) — excellent for precision/technical content  
+**Senior Reach (S+D+VP):** 35.5% + 15.7% + 3.6% = **54.8%** — below 60% benchmark (explained by technical audience composition — see below)
 
 ---
 
-## Final Demographic Breakdown
+## Final Confirmed Demographics
 
 ### Seniority
 | Seniority | % |
 |-----------|---|
-| Senior | 35% |
-| Entry | 22% |
-| Director | 16% |
-| Manager | 10% |
-| VP | 4% |
+| Senior | 35.5% |
+| Entry | 22.7% |
+| Director | 15.7% |
+| Manager | 9.8% |
+| VP | 3.6% |
 
-**Total Senior Decision-Makers (S+D+VP): 55%**  
-**⚠️ Below the 60-66% benchmark.** Entry at 22% is the cause — technical standards posts naturally attract engineers and specialists at earlier career stages. This is the right audience for the topic, not a targeting failure. Adjust expectations for technical/regulatory content.
+**Total Senior Decision-Makers (S+D+VP): 54.8%**  
+**Below the 60-66% benchmark.** Entry at 22.7% is the cause. Technical standards posts correctly attract System Engineers and Project Engineers at earlier career stages. This is audience composition appropriate to the topic, not a targeting failure.
 
 ### Company Size
 | Size | % |
 |------|---|
-| 10,001+ employees | 38% |
-| 1001-5000 employees | 15% |
-| 5001-10,000 employees | 8% |
-| 51-200 employees | 8% |
-| 11-50 employees | 6% |
+| 10,001+ employees | 38.1% |
+| 1001-5000 employees | 14.9% |
+| 51-200 employees | 7.4% |
+| 5001-10,000 employees | 7.4% |
+| 11-50 employees | 6.1% |
 
-### Top Companies (EXCEPTIONAL)
-| Company | % | Notes |
-|---------|---|-------|
-| Network Rail | 9% | **Record high — highest NR concentration ever recorded** |
-| Alstom | 4% | EU-headquartered rolling stock manufacturer — directly affected by TSI |
-| Siemens | 3% | Rolling stock and signalling — core TSI stakeholder |
-| Hitachi Rail | 3% | UK/EU rail manufacturer |
-| Transport for London | 2% | Cross-boundary operator |
+### Top Companies (RECORD-LEVEL RESULT)
+| Company | % | Approx viewers | Notes |
+|---------|---|----------------|-------|
+| **Network Rail** | **9.1%** | **~690** | **Near-record NR concentration. Previous record ~10% (Railway Within Railway, 14,745 impressions)** |
+| Alstom | 3.2% | ~243 | EU-headquartered rolling stock manufacturer — directly affected by TSI |
+| Siemens | 2.7% | ~205 | Rolling stock and signalling — core TSI stakeholder |
+| Hitachi Rail | 2.6% | ~197 | UK/EU rail manufacturer |
+| Transport for London | 1.9% | ~144 | Cross-boundary operator |
 
-**🎯 Rolling stock manufacturer sweep: Alstom + Siemens + Hitachi = 10% combined.** These are the exact companies whose engineering decisions will be shaped by whether UK and EU standards converge. This is account-based marketing in action — the companies with the most at stake read the post.
+**Rolling stock manufacturer sweep: Alstom + Siemens + Hitachi = 8.5% combined, ~645 viewers.** These are the exact companies whose engineering decisions are shaped by whether UK and EU standards converge. The people with most commercial stake in the question engaged.
 
-**Network Rail at 9% = ~582 NR viewers, ~320 of them senior.** This is the record. The people building GBR's infrastructure engaged with the post about GBR's data architecture.
+**NR at 9.1% on a post about GBR's data architecture** is the key signal. The engineers building the infrastructure read the post about the digital backbone governance. This is not accidental — the content spoke directly to their professional responsibility.
 
-### Job Titles (Overall Audience)
+### Job Titles
 | Job Title | % |
 |-----------|---|
-| Project Manager | 4% |
-| System Engineer | 2% |
-| Project Engineer | 2% |
-| Managing Director | 1% |
-| Train Driver | <1% |
+| Project Manager | 4.1% |
+| System Engineer | 1.5% |
+| Managing Director | 1.5% |
+| Project Engineer | 1.5% |
+| Technical Director | <1% |
 
-**System Engineer at 2%** is exactly right for a data standards post — these are the engineers who implement TSI compliance. Train Driver appearing confirms broad rail community reach.
+System Engineer and Project Engineer confirm the technical audience depth. MD at 1.5% confirms senior reach despite Entry level dilution.
 
 ### Industries
 | Industry | % |
 |----------|---|
-| Truck Transportation (rail) | 27% |
-| Rail Transportation | 12% |
-| Civil Engineering | 8% |
-| IT Services and IT Consulting | 6% |
-| Construction | 4% |
+| Truck Transportation (rail) | 26.4% |
+| Rail Transportation | 12.2% |
+| Civil Engineering | 8.1% |
+| IT Services and IT Consulting | 5.6% |
+| Construction | 4.4% |
 
-Rail Transportation at 12% is above the typical 8-9% — the topic drove deeper into the rail sector than usual.
+Rail Transportation at 12.2% is above typical 8-9% — topic drove deeper into the pure rail sector. Civil Engineering at 8.1% is a meaningful sector signal: infrastructure engineers engaged with a data governance post.
 
 ### Locations
 | Location | % |
 |----------|---|
-| London Area, UK | 21% |
-| Manchester Area, UK | 3% |
-| Birmingham | 2% |
-| Greater Leeds Area | 2% |
-| Greater Glasgow Area | 2% |
+| London Area, UK | 21.2% |
+| Manchester Area, UK | 3.0% |
+| Birmingham | 2.2% |
+| Greater Glasgow Area | 2.2% |
+| Greater Leeds Area | 2.2% |
 
-Note: Brussels at 2.4% was present in 24-hour data but dropped out of top 5 in final data as UK distribution broadened. European policy audience reached early, then UK rail audience caught up.
+Note: Brussels at 2.4% was present in 24-hour data but dropped out of top 5 in final data as UK domestic distribution broadened. The European policy audience engaged early; the UK rail technical audience caught up and dominated the final composition.
 
-### Reactions Highlights (9 people who reacted — small sample)
-- Top reaction job title: **System Engineer** — perfectly appropriate for a TSI/data standards post
-- Top reaction location: London Area
-- Top reaction industry: Truck Transportation (rail)
+---
 
-### Comments Highlights
-- Top comment job title: **CEO** — high seniority signal
-- Top comment location: Burton Upon Trent
-- Top comment industry: Technology, Information and Internet
+## The Standout Numbers
+
+1. **Network Rail 9.1% = ~690 NR viewers.** Near-record NR concentration percentage (Railway Within Railway holds ~10%). In absolute terms, 690 NR viewers is the second-highest ever for a non-viral post. The people building GBR's infrastructure read the post about GBR's data architecture.
+
+2. **Alstom + Siemens + Hitachi = 8.5% combined.** The three major rolling stock manufacturers most affected by UK-EU standards divergence each appeared significantly. This is account-based marketing in action.
+
+3. **Entry at 22.7%.** System Engineers, Project Engineers, technical implementers. These are the people who will actually have to build the compliant systems. The right audience for this content — not a weakness.
+
+4. **Post continued growing beyond 7 days.** Previous "final" at 7d was 6,467. True confirmed final is 7,576 (+17% further growth). Policy and governance content continues to circulate beyond typical measurement windows.
+
+5. **Reaction rate 0.71%.** For a technical standards post, this is strong. Spectator effect is less pronounced with specialist content — people who engage generally engage because they have a professional stake in the question.
 
 ---
 
@@ -137,17 +140,17 @@ Note: Brussels at 2.4% was present in 24-hour data but dropped out of top 5 in f
 ### Self-Comment (Olivier — Day 1)
 > "Leon Kong, your observation about ROC colleagues shouting across the room and triple-typing the same data into disparate systems is exactly the coordination gap this post is about. Curious whether the ERA Ontology alignment question is already on the GBRX agenda?"
 
-**166 impressions.** Direct tag of GBRX Head of Integrated Data Strategy on the exact question he owns. This is precision targeting via comment. No public response yet — DM follow-up remains outstanding.
+**166 impressions.** Direct tag of GBRX Head of Integrated Data Strategy on the exact question he owns. No public response. DM follow-up pending.
 
 ### Andy Hamer (Fractional CRO — Day 1)
 > "Developing isolated UK standards makes little commercial sense. It destroys the economies of scale that European manufacturers have historically struggled to achieve compared to the US and Asia. Our priority should be adopting European standards and actively influencing their evolution from within, rather than creating domestic barriers to trade."
 
-Substantive. Extends the argument from governance into industrial economics and supply chain. Alstom/Siemens/Hitachi at 10% of audience = manufacturers whose procurement complexity scales with standards divergence are reading this thread.
+Substantive industrial economics argument. Extended the post from governance into supply chain and procurement. Quote added to Gold tier database.
 
 ### Cliff Brown (Capital Programmes — Day 5)
 > "What do you understand the downside to be? Your best case looks to follow EU standards. But assume worst case, what's impact? (operational, development, safety)"
 
-A genuine challenge question from someone in capital delivery. Operationally, developmentally, and safety dimensions of non-alignment — this is exactly the debate worth having publicly. Responds to the engagement question and keeps the thread alive at Day 5.
+Challenge question from capital delivery professional. Keeps thread alive at Day 5. Asks for the risk-case argument: operational (incompatible timetabling data on Eurostar corridor), development (UK suppliers building to diverging standards = higher cost), safety (RAIB investigations crossing data jurisdictions).
 
 ---
 
@@ -155,132 +158,92 @@ A genuine challenge question from someone in capital delivery. Operationally, de
 
 ### What Was Executed Well
 
-**1. Clean borrowed credibility — no qualifiers**
-- Alberto Mazzola quote opens without "I paraphrase" or hedging
-- Transparent context extension: "He wasn't just talking about tracks and signals. He was talking about the digital plumbing underneath them." — acknowledges the contextual bridge rather than hiding it
-- Maximum authority: Executive Director of the Community of European Railways
+**1. Clean borrowed credibility — no qualifiers**  
+Alberto Mazzola quote with transparent context extension: "He wasn't just talking about tracks and signals. He was talking about the digital plumbing underneath them." Acknowledges the contextual bridge, builds credibility rather than hiding the shift.
 
-**2. The Original Governance Insight**
-- "So the UK doesn't have one digital architecture question to answer. It has several, and they're not yet being asked in the same room."
-- This is genuinely novel analysis — not in any source article
-- GBR covers nationalised services; open access and freight sit outside scope
-- This is the kind of observation that makes posts worth sharing and referencing
+**2. The Original Governance Insight**  
+"So the UK doesn't have one digital architecture question to answer. It has several, and they're not yet being asked in the same room." Genuinely novel — not in any source article. GBR covers nationalised services; open access and freight sit outside scope.
 
-**3. The Strategic Framing Correction**
-- Wrong frame: "GBR must comply with EU standards" (inaccurate — UK outside EU legal framework)
-- Right frame: "Great Britain is outside the EU's legal framework. But not outside its commercial consequences."
-- Transforms a compliance warning into a strategic choice — more accurate, more interesting, harder to dismiss
+**3. Strategic Framing Correction**  
+"Great Britain is outside the EU's legal framework. But not outside its commercial consequences." Transforms a compliance warning into a strategic choice.
 
-**4. Concrete Stakes**
-- March 2, 2026 date (imminent when published)
-- 27 member states
-- "Engineers whose decisions will last thirty years"
-- Eurostar corridor as specific commercial example
+**4. Concrete Stakes**  
+March 2, 2026 date (imminent when published). 27 member states. "Engineers whose decisions will last thirty years." Eurostar corridor as specific commercial example.
 
-**5. Engagement Question**
-- "Are we aligning where it matters? Or building a digital island?"
-- Binary framing invites taking a position — strong structure
-
-**6. Structure: No bullet points ✅ | 4 hashtags ✅ | Prose throughout ✅ | Real photo ✅**
+**5. No bullet points, 4 hashtags, prose throughout, real photo. All rules followed.**
 
 ---
 
-## Why 6,467 Impressions, Not 20K+?
+## Why 7,576 Impressions, Not 20K+?
 
-### The Two-Posts-Same-Day Problem (Primary Cause)
+**Primary cause: two posts same day.** Published at 7:47am, Heathrow announcement at 9:23am. Both posts ended with similar impression totals (~7-8K range). Combined they would likely have reached 15-20K on separate days.
 
-Both posts were published February 24:
-- This post: 7:47 AM
-- Heathrow announcement: 9:23 AM
+**Secondary cause: technical topic audience depth.** Standards, ontologies, data architecture — this correctly reaches System Engineers and Project Engineers. Specialist audiences are smaller. 7,576 with 9.1% NR is arguably a better result for business development purposes than 20K at 3% NR.
 
-LinkedIn algorithm likely treated the second post as competing content from the same account. Both posts ended up at ~6K impressions — below what either would have achieved alone. The first post (this one) performed slightly better as expected.
-
-**This is a documented rule: never post twice on the same day.** When the Heathrow announcement dropped unexpectedly, the choice was unavoidable — but the cost is visible in both posts' impression ceilings.
-
-### Technical Topic Audience Depth
-Data governance, TSI standards, ERA ontology — this content reaches deep into the technical layer of rail. System Engineers, Project Engineers, specialists. Higher Entry % (22%), lower Senior % (55%). The right people for the topic, but fewer at C-suite level than a business/strategy post.
-
-### No Named Framework
-The "multiple questions not one room" insight is strong, but it wasn't crystallised into a named framework (like "The Coordination Gap" or "The Digital Island Problem"). Named frameworks invite sharing and reference — compare to PPM's "Sub-5-Minute Blind Spot" (87K) or Shap's "Correlation Gap" (38K).
+**Limitation: no named framework.** "The Digital Island" is a strong phrase that deserved crystallisation as an explicit framework. "The Coordination Gap" (Shap) generated 38K partly because the named framework gave people something to reference and share.
 
 ---
 
-## Performance Assessment
+## Scoring
 
-### Score: **8/10** (revised from 7.5/10 at 24 hours)
+**Final Score: 8.5/10** (revised from 7.5/10 at 24h, 8/10 at previous 7d, confirmed at true final)
 
-**What earned revision upward:**
-- Slow-burn confirmed — doubled from 3,255 to 6,467 as predicted
-- Network Rail grew to 9% final (record — higher than 24h 6.9%)
-- Rolling stock manufacturer sweep (Alstom + Siemens + Hitachi = 10%)
-- Cliff Brown follow-up comment at Day 5 — debate stayed alive
-- 0.71% reaction rate — strong for precision technical content
-- 17 profile viewers vs typical 5-9
-
-**What limits the score:**
-- Same-day posting with Heathrow post capped both at ~6K
-- Senior reach dropped to 55% final (from 58% at 24h) as Entry audience broadened
-- Leon Kong not yet publicly engaged despite direct tag
-- No named framework to crystallise the "digital island" insight
-- Brussels audience (2.4% at 24h) didn't persist in final data
+| Factor | Adjustment | Reasoning |
+|--------|------------|-----------|
+| Base (Strong tier, 7,576 impressions) | 7.0 | Strong tier confirmed |
+| NR 9.1% — near-record concentration | +1.0 | Ties record-level NR targeting |
+| Gregor Erbach (EU Parliament) reaction | +0.5 | Named senior reactor, cross-border policy |
+| Civil Engineering sector 8.1% + rolling stock sweep | +0.5 | New sector engagement, account-based signal |
+| Seniority 54.8% — below 60% threshold | -0.5 | Technical audience composition |
+| **Total** | **8.5/10** | |
 
 ---
 
 ## Strategic Value Beyond Impressions
 
-1. **Network Rail 9%** = ~582 NR viewers — record high. The people building GBR's infrastructure read the post about GBR's data architecture.
-2. **Alstom + Siemens + Hitachi = 10%** — the manufacturers most directly affected by standards divergence engaged
-3. **Leon Kong tagged directly** on the ERA Ontology alignment question — regardless of public response, he has seen the ask
-4. **EU Parliament researcher (Gregor Erbach) reacted at 24h** — cross-Channel policy credibility established (not visible in final company data but confirmed in reactor analysis)
-5. **RSSB engineer reacted** — standards body engagement with a standards alignment post
-6. **The "digital island" framing is citable** — this phrase and the "multiple questions not one room" insight may be referenced in industry discussions
+1. **NR at 9.1%** = ~690 NR viewers. The infrastructure engineers building GBR read the post about GBR's data architecture.
+2. **Rolling stock manufacturer sweep** — Alstom + Siemens + Hitachi combined = 8.5%. The manufacturers with most at stake in standards divergence engaged.
+3. **Leon Kong directly tagged** on the ERA Ontology alignment question. DM follow-up pending — this is the conversation Netcompany needs to be in.
+4. **Andy Hamer's industrial economics extension** strengthened the argument and added a supply chain dimension not in the original post.
+5. **The "digital island" framing is quotable.** The phrase and the "multiple questions not one room" insight may be referenced in future industry debate.
 
 ---
 
 ## Key Lessons
 
-**1. Two posts on the same day is a hard rule, not a guideline**
-Both posts capped at ~6K. Combined they would likely have reached 15K-20K if published on separate days. When a major announcement drops on a scheduled posting day, consider delaying the second post by 24 hours.
+**1. Never post twice on the same day.** Both posts capped at ~7K. Separately, combined reach likely 15-20K.
 
-**2. Technical/regulatory posts attract Entry-level audience — adjust seniority expectations**
-Posts about TSI compliance, data architecture, and engineering standards correctly reach System Engineers and Project Engineers. Senior % will be lower (55%) than strategy posts (60-66%). This is appropriate, not a failure.
+**2. Technical/regulatory posts attract Entry-level audience — adjust seniority expectations.** 54.8% senior is the correct benchmark for TSI-level content, not 60-66%.
 
-**3. The slow-burn is real and predictable for regulatory content**
-Shap Landslip, and now this post, both confirmed the pattern: regulatory/technical posts build over 5-7 days rather than 6-12 hours. Don't judge them at 24 hours.
+**3. Policy and governance posts continue growing beyond 7 days.** Final count (7,576) was 17% higher than 7-day previous recording (6,467). Do not close the measurement window early.
 
-**4. Named frameworks amplify insight**
-"Building a digital island" is a strong phrase. "The Coordination Gap" (Shap) generated 38K. If the "digital island" framing had been named explicitly as a framework in the post ("I call this the Digital Island Problem"), it might have seeded more sharing and debate.
+**4. NR concentration can be high even when impressions are moderate.** 9.1% NR on 7,576 impressions is a better GBR business development outcome than, say, 3% NR on 20,000 impressions.
 
-**5. Rolling stock manufacturers are a reachable audience for standards content**
-Alstom + Siemens + Hitachi engaged because their engineers care about TSI compliance. This is a segment worth targeting deliberately for future data standards / interoperability posts.
+**5. Named frameworks amplify reach.** "Digital island" is strong but was not crystallised as an explicit framework. Follow-up post opportunity: "Three things have to align by 2027 or Great Britain builds a digital island it cannot uncross."
 
 ---
 
 ## Follow-Up Actions
 
-- [ ] **Respond to Cliff Brown** — he asked directly about downside risk. Answer: operational (incompatible timetabling data across Eurostar corridor), development (UK suppliers building to diverging standards = higher cost), safety (RAIB investigations crossing data jurisdictions). This response keeps thread alive and deepens debate.
-- [ ] **DM Leon Kong** — 166 impressions on the self-comment tag but no public response. DM directly: "Curious whether the ERA Ontology alignment question is on the GBRX agenda — or whether it's even in scope for the digital backbone design." This is the conversation Netcompany needs to be in.
-- [ ] **Andy Hamer reply** — acknowledge the industrial economics extension; add Alstom/Siemens/Hitachi dimension (10% of audience = manufacturers with most at stake read this thread).
-- [ ] **Pitch article version to Rail Business Daily** — Danny Longhorn viewed profile at 24h. The "multiple questions not one room" + "digital island" argument is article-length material. Governance angle is underreported.
-- [ ] **Future post: crystallise the Digital Island framework** — the phrase deserves a standalone post. "Three things have to align by 2027 or Great Britain builds a digital island it can't uncross: GBR's data backbone, ERA's Telematics TSI ontology, and the cross-Channel ticketing API. Right now, they're being designed in different rooms by people who haven't met."
+- [ ] **DM Leon Kong** — ERA Ontology alignment question. Bridge to Bill Reeve's "coordination specification" (Post 21). This is the conversation Netcompany needs to be in.
+- [ ] **Respond to Cliff Brown** — risk case argument: operational, development, safety dimensions of non-alignment.
+- [ ] **Andy Hamer reply** — acknowledge industrial economics extension; note Alstom/Siemens/Hitachi engagement as confirmation his point landed with the right audience.
+- [ ] **Pitch article to Rail Business Daily** — Danny Longhorn viewed profile. "Digital Island" governance argument is article-length and underreported.
+- [ ] **Future post: crystallise the Digital Island framework** — standalone post naming the framework explicitly.
 
 ---
 
-## Comparison to Similar Posts
+## All-Time Ranking Context
 
-| Post | Impressions | Senior % | NWR % | Comments | Score |
-|------|-------------|----------|--------|----------|-------|
-| **EU Telematics TSI (Feb 24)** | **6,467** | **55%** | **9%** | **3** | **8/10** |
-| Heathrow (Feb 24, same day) | 6,034 | 62% | 7.2% | 1 | 7.5/10 |
-| BEMU (Jan 2026) | 6,897 | ~60% | ~2% | 27 | 8.5/10 |
-| Shap Landslip (Jan 2026) | 37,726 | 53% | ~5% | 11 | 9.5/10 |
-| Audenshaw (Feb 4) | 1,446 | TBD | TBD | 0 | 6/10 |
-
-**Network Rail reach: 9% here vs 7.2% Heathrow vs ~5% Shap.** This post achieved the highest NR concentration ever — even higher than Shap which went viral at 38K. The audience precision was exceptional; distribution was capped by the same-day posting.
+Post 18 sits at Rank 7 in the all-time ranking at 7,576 impressions / 8.5/10 score. Notable for:
+- Highest NR concentration % outside the top 5 all-time posts
+- Near-record NR reach % (9.1% vs 10% record)
+- Post continued growing beyond 7-day window — final count still not fully settled
 
 ---
 
 *Analysis created: February 25, 2026 (24-hour snapshot)*  
-*Updated to final: March 1, 2026 (7-day complete data)*  
-*Score revised: 7.5/10 → 8/10 on final data*  
-*Key finding: Slow-burn confirmed. Same-day posting with Heathrow post cost both posts ~10K-15K impressions.*
+*Updated: March 1, 2026 (previous 7-day recording at 6,467)*  
+*Updated to true confirmed final: March 7, 2026 (7,576 impressions, full demographics confirmed)*  
+*Score confirmed: 8.5/10*  
+*Key finding: NR 9.1% is near-record; post continued growing past 7-day window; rolling stock manufacturer sweep confirms account-based reach*
