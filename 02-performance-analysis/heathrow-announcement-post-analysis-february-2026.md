@@ -1,5 +1,5 @@
 # Post Analysis: Heathrow Digital Operations Announcement
-## Date: February 24, 2026 | Second post of the day
+## February 24, 2026 | Second post of the day | FINAL (confirmed analytics)
 
 ---
 
@@ -28,7 +28,7 @@ Photo: @TotalPolitics
 
 ## The Strategic Setup
 
-This post executed a plan that was weeks in the making. The Heidi Alexander quote - "I should be coordinating airspace above Heathrow" - was planted in the George Bradshaw Address post (Post 17, February 17) but deliberately NOT connected to the Heathrow announcement at that stage. The announcement was imminent but not yet public.
+This post executed a plan that was weeks in the making. The Heidi Alexander quote — "I should be coordinating airspace above Heathrow" — was planted in the George Bradshaw Address post (Post 17, February 17) but deliberately NOT connected to the Heathrow announcement at that stage. The announcement was imminent but not yet public.
 
 The George Bradshaw post established the quote in the audience's memory. When the Heathrow announcement dropped on February 24, the callback was available. The "I didn't mention it at the time but..." construction creates the reveal moment and rewards people who read the earlier post.
 
@@ -36,169 +36,192 @@ This is one of the more structurally sophisticated setups in the post history. A
 
 ---
 
-## Performance Metrics (24 hours)
+## Performance: 24h vs Confirmed Final
 
-- **Impressions:** 3,245
-- **Members reached:** 2,284
-- **Reactions:** 7 (low)
-- **Comments:** 1
-- **Reposts:** 0
-- **Saves:** 1
-- **Sends:** 0
-- **Profile viewers from post:** 6
-- **Followers gained:** 0
-- **Reaction rate:** 0.22%
+| Metric | 24 Hours | Confirmed Final |
+|--------|----------|-----------------|
+| Impressions | 3,245 | **6,704** |
+| Members reached | 2,284 | **4,836** |
+| Reactions | 7 | **12** |
+| Comments | 1 | **1** |
+| Reposts | 0 | **0** |
+| Saves | 1 | **1** |
+| Sends | 0 | **0** |
+| Profile viewers from post | 6 | **11** |
+| Followers gained | 0 | **1** |
+
+**Growth from 24h to final:** 3,245 → 6,704 = 107% growth. Consistent with the slow-burn pattern confirmed for Post 18 (EU Telematics).
+**Reaction rate:** 0.18% (12 / 6,704) — low, expected for corporate announcement with spectator effect.
 
 ---
 
-## Demographics (24 hours)
+## Final Confirmed Demographics
 
 ### Seniority
-- Senior: 33.8%
-- Director: 24.7%
-- VP: 5%
-- **Total senior decision-makers: 63.5%** (excellent - above 60% target)
-- Entry: 13.2% (lower than EU Telematics, more executive audience)
+| Seniority | % |
+|-----------|---|
+| Senior | 34.1% |
+| Director | 23.0% |
+| Entry | 14.1% |
+| Manager | 12.0% |
+| VP | 4.7% |
 
-### Company Targeting
-- Network Rail: 6.6% (consistent high reach on GBR-adjacent content)
-- Heathrow: 1.8% - THE CLIENT IS READING
-- Transport for London: 1.8% (new - TfL not typically this high)
-- Hitachi Rail: 1.7%
-- Alstom: 1.6%
+**Total senior decision-makers (S+D+VP): 61.8%** — above 60% target. This is genuinely strong for a corporate announcement. The ministerial framing is doing real structural work.
 
-### Geography
-- London: 31.7% (highest London concentration in post history - announcement relevant to London hub)
-- Manchester: 3.3%
-- Glasgow: 2.5%
-- Leeds: 2.4%
-- Derby: 2%
-
-### Industry
-- Truck Transportation (rail): 28%
-- Rail Transportation: 9.1%
-- IT Services: 7%
-- **Airlines and Aviation: 7%** - NEW SECTOR REACHED
-- Business Consulting: 6.1%
+**Note on 24h vs final:** Previous entry recorded 63.5% seniority at 24h. Confirmed final is 61.8%. Small correction — still comfortably above benchmark.
 
 ### Company Size
-- 10,001+ employees: 33.4%
-- 1001-5000: 15.3%
+| Size | % |
+|------|---|
+| 10,001+ employees | 36.0% |
+| 1001-5000 employees | 15.5% |
+| 5001-10,000 employees | 10.7% |
+| 51-200 employees | 7.5% |
+| 11-50 employees | 6.4% |
+
+### Top Companies
+| Company | % | Approx viewers | Notes |
+|---------|---|----------------|-------|
+| Network Rail | 6.7% | ~449 | High NR concentration for an aviation/announcement post |
+| Transport for London | 2.3% | ~154 | Up from 1.8% at 24h — London transport authority engaged |
+| Heathrow | 1.9% | ~128 | **The client is reading.** Up from 1.8% at 24h |
+| AtkinsRéalis | 1.5% | ~101 | Major infrastructure engineering consultancy — NEW appearance |
+| Netcompany | 1.4% | ~94 | Low internal share — post escaped the bubble |
+
+**AtkinsRéalis at 1.5%** is a new company signal. Major infrastructure advisory and engineering firm — directly relevant to GBR digital layer and Heathrow expansion infrastructure. Not previously appeared in demographics. Worth monitoring in future posts.
+
+**Network Rail at 6.7%** on a corporate announcement post is notably high. The GBR framing in the closing question pulled the rail community into an aviation announcement.
+
+### Industries
+| Industry | % |
+|----------|---|
+| Truck Transportation (rail) | 24.8% |
+| Rail Transportation | 8.1% |
+| **Airlines and Aviation** | **7.2%** |
+| IT Services and IT Consulting | 6.5% |
+| Civil Engineering | 6.0% |
+
+**Airlines and Aviation at 7.2%** — confirmed final is higher than 7% at 24h. The aviation sector channel is genuinely open and holding. Civil Engineering at 6% also confirms infrastructure advisory community engagement (consistent with AtkinsRéalis appearance).
+
+### Locations
+| Location | % |
+|----------|---|
+| London Area, UK | 30.3% |
+| Manchester Area, UK | 3.3% |
+| Greater Leeds Area | 2.7% |
+| Greater Glasgow Area | 2.2% |
+| Birmingham | 1.9% |
+
+**London at 30.3%** is the highest London geographic concentration in post history. The Heathrow/London hub association drives this. Glasgow, Leeds, Birmingham all present — the GBR question in the closing line pulled the broader UK rail geography in.
+
+### Job Titles
+| Job Title | % |
+|-----------|---|
+| Project Manager | 3.6% |
+| Managing Director | 1.8% |
+| Program Manager | 1.1% |
+| Project Engineer | <1% |
+| Technical Director | <1% |
+
+MD at 1.8% — high senior title representation for a corporate announcement.
 
 ---
 
 ## The Standout Numbers
 
-**Heathrow at 1.8%:** Approximately 58 Heathrow employees or stakeholders saw a post about Netcompany becoming their digital operations partner. The client is aware.
+1. **Heathrow at 1.9%** = ~128 Heathrow employees or stakeholders saw a post about Netcompany becoming their digital operations partner. The client is aware.
 
-**Airlines and Aviation at 7%:** This is a new audience that has not appeared at this level in previous posts. The Heathrow announcement has opened a sector channel. This needs to be maintained with follow-up aviation/airport content.
+2. **Airlines and Aviation at 7.2%** — the highest aviation sector concentration in post history. The sector channel opened by this post and confirmed by Post 20 (AIRHART/DCT at 5.5%) is real.
 
-**TfL at 1.8%:** Transport for London appearing prominently suggests the post bridged from airport to broader London transport, which is the intended cross-sector positioning.
+3. **AtkinsRéalis at 1.5%** — infrastructure engineering and advisory at scale. First appearance in demographics. Relevant to GBR digital layer, Heathrow expansion, and infrastructure orchestration positioning.
 
-**London at 31.7%:** The highest London geographic concentration in any post. The announcement is inherently London-centric (Heathrow) and the audience reflects that.
+4. **London at 30.3%** — record high London geographic concentration. The Heathrow association brings London hub audiences (aviation, transport, infrastructure consultancy) together in one post.
 
-**Seniority at 63.5%:** Despite being a corporate announcement (which historically underperforms on seniority), this achieved above-target senior reach. The Heidi Alexander framing elevated it above standard press release territory.
-
----
-
-## Why Engagement Was Weak
-
-**7 reactions and 1 comment is low for an announcement of this significance.**
-
-Three explanations:
-
-**1. Second post same day - algorithm split:**
-The EU Telematics post went live at 7:47am and was already accumulating engagement by the time the Heathrow post went live. LinkedIn's algorithm treats two posts from the same person on the same day as competing for the same distribution pool. The Telematics post, having a head start, won the engagement race.
-
-**2. Corporate announcement penalty:**
-Even with sophisticated framing, the underlying content is a corporate announcement (Netcompany wins contract). The audience has been trained by the post history to expect practitioner insights, not company news. The borrowed credibility structure helps, but the announcement nature creates friction.
-
-**3. The setup was structural, not conversational:**
-The reveal mechanism ("I didn't mention it at the time but...") is clever architecturally but may not drive engagement in the way a visceral operational quote does. The post rewards prior knowledge (having read the George Bradshaw Address) rather than standing alone. Readers who didn't see the earlier post may not feel the full impact of the callback.
+5. **NR at 6.7%** on a corporate aviation announcement — the closing GBR question kept the rail community engaged even in content about airport operations.
 
 ---
 
-## What Worked
+## Profile Viewers from Post (Confirmed)
 
-**The structural setup landed.** The "didn't mention it at the time" construction is one of the more satisfying moments in the post history. It transforms a corporate announcement into a revelation for anyone who read the earlier post.
+**Danny Longhorn** — Content Editor, railbusinessdaily.com (1st connection)  
+Already tracked in strategic contacts. Rail Business Daily profile view from the Heathrow post confirms sustained interest across multiple posts. Editorial relationship to develop.
 
-**Heathrow at 1.8% is not trivial.** ~58 Heathrow people reading a post about their new partner is meaningful signal. Internal awareness of a supplier's positioning matters for relationship development.
+**Harry Thomas** — Principal Consultant, Markets & Alliances Lead, Infrastructure Digital Advisory, Turner & Townsend (2nd connection, 3 mutual)  
+NEW. Turner & Townsend is a major global infrastructure advisory and project management consultancy. "Infrastructure Digital Advisory" is precisely the space where Netcompany's orchestration positioning intersects with advisory firms that influence client technology decisions. This is a new signal worth monitoring. Not a direct operator — an influencer within infrastructure procurement and digital strategy.
 
-**Airlines and Aviation at 7%** is the most significant new sector reach in recent months. This opens a channel that the Orchestrated Depot series never quite achieved for electric buses - a recognisable major name (Heathrow) pulling in a new professional community.
+**Someone at Globetec Solutions** — anonymous  
+Globetec Solutions: technology solutions firm, often working in infrastructure and transport sectors. Unable to identify individual.
 
-**63.5% seniority** for what is essentially a corporate announcement is genuinely good. The ministerial framing is doing real work here.
+---
 
-**Daniel Ezban's self-comment reply:** "That is a well coordinated announcement." A Netcompany colleague publicly noting the orchestration between the earlier quote and the announcement. Good internal amplification signal even if it didn't drive external engagement.
+## Why Engagement Was Weak (12 reactions, 0 reposts)
+
+**1. Second post same day — algorithm split:**  
+EU Telematics (7:47am) was already accumulating engagement by the time this post went live. The algorithm distributed to the same pool. Telematics won.
+
+**2. Corporate announcement penalty:**  
+Even with sophisticated framing, the underlying content is a contract win announcement. The audience has been conditioned to expect practitioner insights. The borrowed credibility structure helps but doesn't fully overcome the announcement signal.
+
+**3. Reveal mechanism requires prior knowledge:**  
+The "I didn't mention it at the time but..." construction rewards those who read the George Bradshaw Address post. For new or occasional readers, the setup may not land with full impact.
+
+**Rule confirmed:** For corporate announcement posts, measure success by: (a) client in demographics, (b) new sector opened, (c) seniority above 60%, (d) profile views from relevant contacts. All four criteria met here.
 
 ---
 
 ## Scoring
 
-**Score: 7/10**
+**Final Score: 8/10**
 
-**Earned points:**
-- Structurally sophisticated setup executed correctly
-- Heathrow client audience reached (1.8%)
-- New sector channel opened (Airlines and Aviation 7%)
-- 63.5% seniority - above target for corporate announcement
-- Record London geographic concentration
-- Network Rail 6.6% - consistent high targeting
-- Heidi Alexander callback activated successfully
-
-**Deducted:**
-- 7 reactions only (reaction rate 0.22% - very low)
-- 0 reposts (announcement content)
-- Same-day split with EU Telematics post hurt both
-- No comments from target audience (GBR digital layer, GBRX)
-- The reveal mechanism, while clever, may not have landed with those who missed the setup post
+| Factor | Adjustment | Reasoning |
+|--------|------------|-----------|
+| Base (Strong tier, 6,704 impressions) | 7.0 | Strong tier confirmed |
+| Seniority 61.8% — above 60% target | +0.5 | Consistently above threshold despite announcement content |
+| Heathrow client in demographics (1.9%) | +0.5 | The client is reading — BD objective met |
+| Airlines and Aviation 7.2% — new sector opened | +0.5 | New audience channel confirmed and holding |
+| Second post same day — algorithm split | -0.5 | Both posts underperformed their potential |
+| Reaction rate 0.18% — very low | 0 | Expected for this post type — not penalised |
+| **Total** | **8/10** | |
 
 ---
 
-## Comparison with EU Telematics Post (Same Day)
+## Strategic Value Beyond Impressions
 
-| Metric | EU Telematics | Heathrow |
-|--------|--------------|---------|
-| Impressions | 3,255 | 3,245 |
-| Reactions | 30 | 7 |
-| Seniority | 58% | 63.5% |
-| Network Rail | 6.9% | 6.6% |
-| New sector | Brussels/EU Policy | Airlines and Aviation |
-| Comments | 2 | 1 |
-| Score | 7.5/10 | 7/10 |
-
-Both posts reached similar impression counts. EU Telematics won on engagement (reactions 4x higher). Heathrow won on seniority and opened a new sector. The algorithm split was real - both posts underperformed versus their potential if posted on separate days.
-
----
-
-## Strategic Value Beyond Metrics
-
-**Heathrow announcement content serves a different purpose to thought leadership content.** The metrics look weak but the strategic outcomes are:
-
-1. Heathrow employees and stakeholders now know Netcompany is their new digital operations partner via Olivier's network, not just a press release
-2. Airlines and Aviation sector now aware of Netcompany's orchestration positioning
-3. The GBR community received the rail equivalent framing ("what would it take to build the rail equivalent")
-4. The Heidi Alexander callback demonstrated strategic preparation - the quote was planted weeks before the announcement
-5. The Netcompany positioning is now "orchestrator of Heathrow" not "IT supplier" - a significant differentiation
+1. **Heathrow client awareness** — ~128 Heathrow employees/stakeholders read a post about their new digital operations partner, framed as orchestration rather than IT supply.
+2. **Airlines and Aviation sector channel opened** — 7.2% is a sustained audience now present across three consecutive posts (19, 20, 21 test).
+3. **AtkinsRéalis appeared** — infrastructure advisory firms at scale engage with orchestration content. Worth monitoring as a new audience segment.
+4. **Turner & Townsend profile view** — Harry Thomas (Infrastructure Digital Advisory) is a new signal. Advisory-to-client influence path is relevant to BD.
+5. **The Heidi Alexander callback executed** — demonstrates strategic preparation and narrative architecture across posts.
+6. **GBR community reached at 6.7% NR** despite aviation framing — the closing question worked as a rail bridge.
 
 ---
 
 ## Follow-Up Actions
 
-1. **Second post on Heathrow** - now that the announcement is established, a follow-up focusing on the operational detail of what AIRHART actually does (borrowed credibility from Copenhagen/Munich operators) would hit harder than the announcement post
-2. **Aviation sector content** - Airlines and Aviation at 7% has opened a channel. One dedicated aviation/airport orchestration post in the next 4 weeks would consolidate that audience
-3. **The GBR parallel** - the closing question ("What would it take to build the rail equivalent?") could be a standalone post with borrowed credibility from a GBR digital layer practitioner. Leon Kong is the obvious candidate
-4. **Never post twice on the same day** - this is now confirmed by data, not just theory. Both posts lost engagement they would have achieved separately
+1. **Monitor Harry Thomas (Turner & Townsend)** — Infrastructure Digital Advisory Principal Consultant. If he appears in future post demographics or engages publicly, treat as active monitoring contact. Turner & Townsend advises infrastructure clients on digital strategy — a potential influence pathway to GBR or Heathrow procurement decisions.
+2. **Monitor AtkinsRéalis** — first appearance. Watch whether they appear in Post 21 (Scotland/Bill Reeve) or future GBR-adjacent content.
+3. **Danny Longhorn follow-up** — two profile views now documented from Rail Business Daily. Pitch moment is approaching. "Digital Island" governance argument (Post 18) and Heathrow orchestration proof point (Post 19) together make a publishable piece.
+4. **Aviation sector consolidation** — Post 21 (Scotland) will test whether the 7% aviation channel survives rail-primary content with aviation as supporting reference only. If it holds above 5%, the channel is robust. If it drops, a dedicated aviation post within 4 weeks is needed.
 
 ---
 
-## All-Time Ranking Position
+## Comparison with EU Telematics Post (Same Day)
 
-This post enters at approximately 11th place in the all-time ranking, between the EU Telematics post (3,255, 7.5/10) and the old Rail Conference Steve post (2,604, 9/10). The ranking penalises engagement weakness despite strong strategic targeting.
+| Metric | EU Telematics (Post 18) | Heathrow (Post 19) |
+|--------|------------------------|--------------------|
+| Impressions | 7,576 | 6,704 |
+| Reactions | 54 | 12 |
+| Seniority | 54.8% | 61.8% |
+| Network Rail | 9.1% | 6.7% |
+| New sector | Civil Engineering 8.1% | Airlines and Aviation 7.2% |
+| Growth from 24h | +133% | +107% |
+| Score | 8.5/10 | 8/10 |
 
-However, the strategic value (Heathrow client awareness, new aviation sector channel, ministerial callback executed) means this post deserves more credit than impression counts alone suggest.
+Both posts confirmed the slow-burn pattern. EU Telematics won on NR concentration and engagement. Heathrow won on seniority and opened the aviation sector channel. Together, the two posts reached different rooms on the same day.
 
 ---
 
-*Analysis completed: February 25, 2026*
-*Context: Second post on same day as EU Telematics TSI post. Algorithm split confirmed.*
-*Next update: Check whether Airlines and Aviation audience grows with follow-up content*
+*Analysis created: February 25, 2026 (24-hour snapshot)*  
+*Updated to confirmed final: March 7, 2026*  
+*Key corrections: seniority 63.5% (24h) → 61.8% (confirmed); Airlines and Aviation 7% → 7.2%; TfL 1.8% → 2.3%; Heathrow 1.8% → 1.9%; AtkinsRéalis 1.5% — new appearance. Harry Thomas (Turner & Townsend) profile view added.*  
+*Score confirmed: 8/10*
