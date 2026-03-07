@@ -49,15 +49,24 @@ See full analysis: george-bradshaw-address-post-analysis-february-2026.md
 
 ---
 
-### Post 18: EU Telematics TSI / Digital Island - FINAL
-**Date:** February 24, 2026, 7:47am GMT (first post of day) | **Score:** 8.5/10 (revised from 7.5/10)
-**Impressions FINAL:** 7,576 | **Reactions:** 54 | **Comments:** 3 | **Seniority:** 58% | **NR:** 6.9%
-**Brussels:** 2.4% | **Airlines and Aviation:** minor
-Key reactors: Gregor Erbach (EU Parliament), Darren Kemp (RSSB), Dan Jensen (rail press), Christian Wiles (rail press)
-Context: First of two posts on same day. Won the engagement race. Impression count more than doubled from 24h interim (3,255) to 7-day final (7,576).
-See full analysis: eu-telematics-tsi-post-analysis-february-2026.md
+### Post 18: EU Telematics TSI / Digital Island - FINAL (confirmed analytics)
+**Date:** February 24, 2026, 7:47am GMT (first post of day) | **Score:** 8.5/10
+**Impressions FINAL:** 7,576 | **Members reached:** 5,432 | **Reactions:** 54 | **Comments:** 3 | **Reposts:** 1 | **Saves:** 2
+**Seniority (confirmed):** Senior 35.5% + Director 15.7% + VP 3.6% = **54.8%** | **NR:** 9.1% (~690 NR viewers — near-record)
+**Top companies:** Network Rail 9.1%, Alstom 3.2%, Siemens 2.7%, Hitachi Rail 2.6%, TfL 1.9%
+**Industries:** Truck Transportation 26.4%, Rail Transportation 12.2%, Civil Engineering 8.1%, IT Services 5.6%
+**Locations:** London 21.2%, Manchester 3%, Birmingham 2.2%, Glasgow 2.2%, Leeds 2.2%
+**Entry level:** 22.7% (technical audience composition — System Engineers, Project Engineers)
 
-**Score revision rationale:** 7.5/10 was assigned at 3,255 impressions (Standard-to-Good tier). At 7,576 final, this is solidly Strong tier (base 7). EU Parliament engagement, Brussels geography signal, RSSB standards contact, clean CER quote = 8.5/10 final.
+Context: First of two posts on same day. Won the engagement race. Post continued growing beyond 7-day window — final is 17% higher than previous "7-day final" recording (6,467).
+
+**Note on NR 9.1%:** Near-record NR concentration. At 7,576 impressions, ~690 NR viewers. This is a governance/standards post that reached the engineers building GBR's infrastructure at near-record concentration. The rolling stock manufacturer sweep (Alstom + Siemens + Hitachi = 8.5%) confirms account-based reach across the stakeholders most affected by UK-EU standards divergence.
+
+**Note on seniority 54.8%:** Below 60% benchmark. Caused by Entry level at 22.7% — technically appropriate for a data standards post that correctly reaches System Engineers and Project Engineers. This is not a targeting failure. Adjust seniority benchmarks for technical/regulatory content: 54-58% is correct for TSI-level material.
+
+**Score rationale:** Strong tier base (7.0) + NR near-record 9.1% (+1.0) + Gregor Erbach EU Parliament reaction (+0.5) + Civil Engineering 8.1% / rolling stock sweep (+0.5) — seniority below 60% (-0.5) = **8.5/10**.
+
+See full analysis: eu-telematics-tsi-post-analysis-february-2026.md
 
 ---
 
@@ -164,7 +173,7 @@ Four engagements, escalating in substance. He is contributing frameworks, not ju
 | 4 | Train Display | Nov 2024 | 21,659 | 9/10 | Real-time + visual proof |
 | 5 | Railway Within Railway | Jan 2026 | 14,745 | 10/10 | Complete elite engagement stack |
 | 6 | George Bradshaw Address | Feb 2026 | 11,468+ | 8.5/10 | Minister quote + GBRX engagement |
-| 7 | EU Telematics / Digital Island | Feb 2026 | 7,576 | 8.5/10 | EU Parliament + doubled at 7 days |
+| 7 | EU Telematics / Digital Island | Feb 2026 | 7,576 | 8.5/10 | NR 9.1% near-record + slow-burn policy |
 | 8 | Heathrow Announcement | Feb 2026 | 6,703 | 8/10 | Planted quote activated + aviation sector |
 | 9 | BEMU/East West Rail | Jan 2026 | 6,620 | 9/10 | Cross-sector learning |
 | 10 | AIRHART/Digital Control Tower | Mar 2026 | 4,613 | 8.5/10 | Aviation channel consolidation |
@@ -184,20 +193,21 @@ Four engagements, escalating in substance. He is contributing frameworks, not ju
 
 ---
 
-## Network Rail Reach Benchmarks (Updated)
+## Network Rail Reach Benchmarks (Updated with Post 18 confirmed final)
 
-| Post | Network Rail % | Approx NR impressions |
-|------|---------------|----------------------|
-| Train Display | 2.5% | ~540 |
-| 48 Hours | ~2% | ~30 |
-| BEMU | 6.2% | ~410 |
-| EU Telematics | 6.9% | ~225 (at 3,255 interim; final count higher) |
-| Heathrow | 6.6% | ~214 |
-| George Bradshaw | 8.4% | ~962 |
-| Railway Within Railway | ~10% | ~1,475 |
-| AIRHART/DCT | 1.9% | ~88 (aviation-led post; low NR expected) |
+| Post | Network Rail % | Approx NR impressions | Notes |
+|------|---------------|----------------------|-------|
+| Train Display | 2.5% | ~540 | |
+| 48 Hours | ~2% | ~30 | |
+| BEMU | 6.2% | ~410 | |
+| EU Telematics | **9.1%** | **~690** | **Confirmed final. Near-record %. Previous entry (6.9%) was 24h interim.** |
+| Heathrow | 6.6% | ~214 | |
+| George Bradshaw | 8.4% | ~962 | |
+| Railway Within Railway | ~10% | ~1,475 | Record holder |
+| AIRHART/DCT | 1.9% | ~88 | Aviation-led post; low NR expected |
 
-**6-10% Network Rail reach = exceptional targeting. Target consistently for GBR content.**
+**NR % record:** ~10% (Railway Within Railway). EU Telematics at 9.1% is #2 for NR concentration.
+**Note:** High NR % does not require high absolute impressions. 9.1% on 7,576 = 690 NR viewers, which is valuable for GBR business development even though absolute count is lower than viral posts.
 
 ---
 
@@ -213,14 +223,22 @@ EU Telematics (7,576): Clean CER quote, no qualification.
 
 ---
 
-### Strong-Tier Posts Can Double Between 24h and 7-Day Final (NEW - Posts 18 and 19)
+### Strong-Tier Posts Can Double Between 24h and Final — Policy Content Grows Longest (NEW - Posts 18 and 19)
 
-Post 18 (EU Telematics): 3,255 at 24h → 7,576 final = 132% growth.
+Post 18 (EU Telematics): 3,255 at 24h → 6,467 at 7d → 7,576 confirmed final = 133% total growth from 24h.
 Post 19 (Heathrow): 3,245 at 24h → 6,703 final = 106% growth.
 
-This is a different growth pattern from viral posts (which spike in 6-12h) and from classic precision posts (which plateau at 48h). Policy and governance content with Brussels/parliamentary audience appears to have a slow-burn quality that continues well past 48h.
+Policy and governance content continues circulating well beyond the 7-day window. The EU Telematics post continued growing after its previous "7-day final" was recorded.
 
-**Rule:** For policy-adjacent content (EU standards, GBR architecture, regulatory frameworks), do not finalise the score or assessment before 7 days. The Brussels audience and regulatory community read on longer time horizons than operators.
+**Rule:** For policy-adjacent content (EU standards, GBR architecture, regulatory frameworks), treat 7 days as a minimum assessment window, not a final. The Brussels and regulatory community reads on longer time horizons. Do not close the scoring until the growth rate has clearly plateaued.
+
+---
+
+### High NR Concentration Can Coexist with Below-Benchmark Seniority for Technical Content (NEW - Post 18)
+
+EU Telematics: NR at 9.1% (near-record), seniority at 54.8% (below 60% benchmark). Entry at 22.7% reflects System Engineers and Project Engineers — technically appropriate for a data standards post.
+
+**Rule:** For TSI-level, data architecture, and standards content, the correct seniority benchmark is 54-58%, not 60-66%. The people who implement standards are at Senior/Entry level, not C-suite. A post with 9% NR concentration and 55% seniority is a better GBR business development outcome than 3% NR and 65% seniority.
 
 ---
 
@@ -429,10 +447,7 @@ Posts: 2 | Total so far: ~7,004
 
 *Addendum last updated: March 7, 2026*
 *Posts documented: 21 total (Post 21 interim at 1 day)*
-*Updates this session: Posts 18 and 19 final impression counts confirmed (both roughly doubled from 24h interim); Post 20 finalised at 4,613; Post 21 (Scotland/Bill Reeve) added as new interim*
-*Score revisions: Post 18 revised to 8.5/10 (from 7.5); Post 19 revised to 8/10 (from 7); Post 20 revised to 8.5/10 (from 8 interim)*
-*New contact: Bill Reeve (Director of Rail Reform, Transport Scotland) - added to monitoring*
-*New quote: Bill Reeve (Gold tier) and Natasha Grice (Silver tier) added to database*
-*New lesson: Strong-tier policy posts can double between 24h and 7-day final*
-*Leon Kong DM follow-up still pending - use "coordination specification" frame as bridge*
+*This update: Post 18 confirmed final analytics — impressions 7,576, NR corrected from 6.9% (24h interim) to 9.1% (confirmed final = near-record), seniority corrected from 58% to 54.8% (S+D+VP). Full demographics now on record.*
+*New lesson added: High NR concentration can coexist with below-benchmark seniority for technical/standards content*
+*Leon Kong DM follow-up still pending — use "coordination specification" frame as bridge*
 *Post 21 to be updated at 48h with demographics and final reactor list*
