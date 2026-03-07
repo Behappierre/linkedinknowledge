@@ -49,64 +49,83 @@ See full analysis: george-bradshaw-address-post-analysis-february-2026.md
 
 ---
 
-### Post 18: EU Telematics TSI / Digital Island
-**Date:** February 24, 2026, 7:47am GMT (first post of day) | **Score:** 7.5/10
-**Impressions:** 3,255 | **Reactions:** 30 | **Comments:** 2 | **Seniority:** 58% | **NR:** 6.9% (record at time)
-**Brussels:** 2.4% | **Airlines and Aviation:** appeared but minor
+### Post 18: EU Telematics TSI / Digital Island - FINAL
+**Date:** February 24, 2026, 7:47am GMT (first post of day) | **Score:** 8.5/10 (revised from 7.5/10)
+**Impressions FINAL:** 7,576 | **Reactions:** 54 | **Comments:** 3 | **Seniority:** 58% | **NR:** 6.9%
+**Brussels:** 2.4% | **Airlines and Aviation:** minor
 Key reactors: Gregor Erbach (EU Parliament), Darren Kemp (RSSB), Dan Jensen (rail press), Christian Wiles (rail press)
-Context: First of two posts on same day. Won the engagement race as first post.
+Context: First of two posts on same day. Won the engagement race. Impression count more than doubled from 24h interim (3,255) to 7-day final (7,576).
 See full analysis: eu-telematics-tsi-post-analysis-february-2026.md
+
+**Score revision rationale:** 7.5/10 was assigned at 3,255 impressions (Standard-to-Good tier). At 7,576 final, this is solidly Strong tier (base 7). EU Parliament engagement, Brussels geography signal, RSSB standards contact, clean CER quote = 8.5/10 final.
 
 ---
 
-### Post 19: Heathrow Digital Operations Announcement
-**Date:** February 24, 2026 (second post of day) | **Score:** 7/10
-**Impressions:** 3,245 | **Reactions:** 7 | **Comments:** 1 | **Seniority:** 63.5% | **NR:** 6.6%
+### Post 19: Heathrow Digital Operations Announcement - FINAL
+**Date:** February 24, 2026 (second post of day) | **Score:** 8/10 (revised from 7/10)
+**Impressions FINAL:** 6,703 | **Reactions:** 12 | **Comments:** 1 | **Seniority:** 63.5% | **NR:** 6.6%
 **Heathrow:** 1.8% | **TfL:** 1.8% | **Airlines and Aviation:** 7% (major new sector opening)
 **London:** 31.7% (highest ever London geographic concentration)
 
 **The post:**
 Activated the Heidi Alexander "airspace above Heathrow" quote planted in George Bradshaw Address (Post 17) two weeks earlier. Netcompany announced as Heathrow's new digital operations partner on the same day. The "I didn't mention it at the time but..." construction revealed the planted quote as setup for a real announcement.
 
-**Why engagement was weak:**
-- Second post on same day: algorithm split with EU Telematics post, which had a head start
+**Score revision rationale:** 7/10 was assigned at 3,245 impressions. At 6,703 final (Strong tier, base 7), plus 63.5% seniority (+0.5), named client Heathrow in demographics (+0.5), new aviation sector opened (+0.5), less the second-post-same-day context already reflected in low engagement count = 8/10 final. Corporate announcement posts should not be scored on reaction counts.
+
+**Why engagement rate was low despite good impressions:**
+- Second post on same day: algorithm split with EU Telematics
 - Corporate announcement penalty even with sophisticated framing
-- Reveal mechanism rewards readers who saw the earlier post; those who didn't feel full impact less
+- Reveal mechanism rewards regular readers; others feel full impact less
+- 12 reactions on 6,703 impressions = 0.18% - spectator effect confirmed for announcement content
 
 **Strategic value beyond metrics:**
-- Heathrow employees reading post about their new partner (~58 Heathrow impressions)
-- Airlines and Aviation at 7% opens new sector channel
+- Heathrow employees reading post about their new partner
+- Airlines and Aviation at 7% opened new sector channel
 - TfL at 1.8% - London transport authority reached
-- 63.5% seniority for a corporate announcement is above target
-- The Heidi Alexander callback executed exactly as planned
-- Netcompany positioned as "orchestrator of Heathrow" not "IT supplier"
+- Planted quote mechanism executed as designed
 
 See full analysis: heathrow-announcement-post-analysis-february-2026.md
 
 ---
 
-### Post 20: AIRHART / Digital Control Tower / GBR (INTERIM - update at 24h)
-**Date:** Monday, March 2, 2026 | **Score:** 8/10 interim | **Status: IN PROGRESS**
-**Impressions at 8h:** 1,833 | **Members reached:** 1,240 | **Reactions:** 25 | **Comments:** 2 (self only)
-**Seniority:** 62.4% (S 32.8% + D 23.1% + VP 6.5%) | **NR:** 1.9%
-**Heathrow:** 1.2% | **Airlines and Aviation:** 5.5% (channel consolidating, was 7% on Post 19)
-**Copenhagen:** 2.9% | **London:** 22.6%
+### Post 20: AIRHART / Digital Control Tower / GBR - FINAL
+**Date:** March 2, 2026 (Monday) | **Score:** 8.5/10 (revised from 8/10 interim)
+**Impressions FINAL:** 4,613 | **Reactions:** 39 | **Comments:** 3 | **Seniority:** 62.4% | **NR:** 1.9%
+**Heathrow:** 1.2% | **Airlines and Aviation:** 5.5% | **Copenhagen:** 2.9% | **London:** 22.6%
 **Top companies:** Netcompany 6.8%, Alstom 2.7%, Network Rail 1.9%, Hitachi Rail 1.9%, Heathrow 1.2%
-**Top industries:** Truck Transportation 18%, IT Services 14.6%, Business Consulting 5.6%, Rail Transportation 5.5%, Airlines and Aviation 5.5%
 
 **The post:**
 Reactivated the Javier Echave "orchestrate critical processes" quote (first used in Post 19) in a new frame: not announcement but proof-of-concept. Heathrow selected AIRHART, Copenhagen and Munich already running on it, therefore aviation has proved at scale what GBR needs. Linked to Rail Magazine Digital Control Tower article and Global Railway Review Track Insight piece via self-comments.
 
-**Key strategic development during live period:**
-Carl Soutra (Senior Regulatory Performance Manager, Heathrow) reacted, accepted connection request, received French-language DM. Background: GTR Resource Manager (Victoria/London Bridge depots), Steer Davies Gleave. Rail-aviation intersection contact. High potential for future operator quotes.
+**Key strategic development:**
+Carl Soutra (Senior Regulatory Performance Manager, Heathrow) reacted, accepted connection request, received French-language DM. Background: GTR Resource Manager (Victoria/London Bridge depots), Steer Davies Gleave. Rail-aviation bridge contact.
 
-**Note on Monday posting:** Outside optimal Tuesday-Thursday window. Likely costs 15-25% of potential first-wave impressions. Still performing well.
+**Score revision rationale:** At 4,613 final (Strong tier, base 7): seniority 62.4% (+0.5), Carl Soutra new contact activation (+0.5), aviation channel consolidation at 5.5% (+0.5), Copenhagen geography (AIRHART home territory) (+0.5), less Monday posting penalty (-0.5) = 8.5/10.
 
-**Note on dual-purpose structure:** Post makes simultaneous aviation proof-point and GBR prescription arguments. Self-comments separate the two threads cleanly but the main body carries both simultaneously.
-
-**Projected 24h impressions:** 3,500-5,000
+**Note on Monday posting:** Monday posting likely cost 15-25% of potential first-wave impressions. 4,613 on a Monday is equivalent to approximately 5,500-6,000 on an optimal Tuesday-Thursday window.
 
 See full analysis: airhart-digital-control-tower-post-analysis-march-2026.md
+
+---
+
+### Post 21: Scotland Rail 2026 - Bill Reeve "Coordination Specification" - INTERIM
+**Date:** March 6, 2026 | **Score:** 8/10 interim | **Status: IN PROGRESS (1 day)**
+**Impressions:** 2,391 | **Reactions:** 36 | **Comments:** 2
+
+**Reaction rate: 1.5% - exceptionally high.** For context: viral posts show 0.15-0.3% (spectator effect), precision posts show 0.8-1.5%. This is at the upper bound of precision performance.
+
+**The post:**
+Bill Reeve (Director of Rail Reform, Transport Scotland) quote from Rail Scotland 2026 panel, immediately reframed: "That is not a technology specification. It is a coordination specification." Natasha Grice (Transport Focus) provides passenger reality: 90% satisfaction in Scotland, delay handling still the weakest point. Aviation proof point (Copenhagen, Munich, Heathrow) cited. Scotland's governance model described as preconditions for the digital specification to be deliverable. Ends with: "Who is already building that coordination layer, in Scotland or elsewhere on the network?"
+
+**Demographic breakdown:** Not yet available. Update at 48h.
+
+**Projected final impressions at 48-72h:** 3,500-5,500. Strong tier expected.
+
+**Key strategic note:** The reframe "not a technology specification - a coordination specification" is the sharpest articulation of the orchestration argument in the entire post series. This sentence alone is worth documenting as a quotable framework. It positions reform officials as unknowingly writing the product brief.
+
+**New quote added to database:** Bill Reeve (Gold tier) - see Quotable Insights section below.
+
+See full analysis: scotland-rail-2026-bill-reeve-post-analysis-march-2026.md
 
 ---
 
@@ -131,7 +150,7 @@ Four engagements, escalating in substance. He is contributing frameworks, not ju
 **Platinum quote:**
 > "Just walk into any ROC and observe how TOC and NR Route colleagues that notionally need to work as one team have to communicate with one another by shouting across the room, and then manually double- or triple-type the same piece of information into disparate systems."
 
-**Status:** Tagged in EU Telematics self-comment. No public response yet. DM follow-up still pending.
+**Status:** Tagged in EU Telematics self-comment. No public response yet. DM follow-up still pending. The "coordination specification" frame from Post 21 connects directly to his ROC observation - use this connection in the DM.
 
 ---
 
@@ -145,22 +164,23 @@ Four engagements, escalating in substance. He is contributing frameworks, not ju
 | 4 | Train Display | Nov 2024 | 21,659 | 9/10 | Real-time + visual proof |
 | 5 | Railway Within Railway | Jan 2026 | 14,745 | 10/10 | Complete elite engagement stack |
 | 6 | George Bradshaw Address | Feb 2026 | 11,468+ | 8.5/10 | Minister quote + GBRX engagement |
-| 7 | BEMU/East West Rail | Jan 2026 | 6,620 | 9/10 | Cross-sector learning |
-| 8 | Rail Forum (Toufic) | Dec 2024 | 3,895 | 8.5/10 | Conference + Rubik's Cube |
-| 9 | Carol Service | Dec 2024 | 3,810 | 8/10 | Personal + professional |
-| 10 | EU Telematics / Digital Island | Feb 2026 | 3,255 | 7.5/10 | EU Parliament + record NR reach |
-| 11 | Heathrow Announcement | Feb 2026 | 3,245 | 7/10 | Planted quote activated + aviation sector |
-| 12 | Rail Conference (Steve) | Nov 2024 | 2,604 | 9/10 | Borrowed credibility |
-| 13 | Manufacturing | Nov 2024 | 1,560 | 8.5/10 | Borrowed credibility + data |
-| 14 | 48 Hours | Nov 2024 | 1,536 | 8.5/10 | Technical depth |
-| 15 | LARA Hackathon | Nov 2024 | 1,481 | 8/10 | Real output |
-| 16 | Trade Show | Nov 2024 | 1,329 | 7/10 | Good content, no conversation |
-| 17 | Groundhog Day | Jan 2026 | 1,088 | 6.5/10 | Paraphrase penalty |
-| 18 | Tom Bailey | Dec 2024 | 755 | 6.5/10 | Corporate amplification |
-| 19 | Energy Recruitment | Nov 2024 | 323 | 2/10 | Never amplify recruitment |
-| 20* | AIRHART/Digital Control Tower | Mar 2026 | 1,833 (8h) | 8/10* | Aviation channel consolidation |
+| 7 | EU Telematics / Digital Island | Feb 2026 | 7,576 | 8.5/10 | EU Parliament + doubled at 7 days |
+| 8 | Heathrow Announcement | Feb 2026 | 6,703 | 8/10 | Planted quote activated + aviation sector |
+| 9 | BEMU/East West Rail | Jan 2026 | 6,620 | 9/10 | Cross-sector learning |
+| 10 | AIRHART/Digital Control Tower | Mar 2026 | 4,613 | 8.5/10 | Aviation channel consolidation |
+| 11 | Rail Forum (Toufic) | Dec 2024 | 3,895 | 8.5/10 | Conference + Rubik's Cube |
+| 12 | Carol Service | Dec 2024 | 3,810 | 8/10 | Personal + professional |
+| 13 | Rail Conference (Steve) | Nov 2024 | 2,604 | 9/10 | Borrowed credibility |
+| 14 | Scotland/Bill Reeve | Mar 2026 | 2,391 (1d)* | 8/10* | Coordination specification reframe |
+| 15 | Manufacturing | Nov 2024 | 1,560 | 8.5/10 | Borrowed credibility + data |
+| 16 | 48 Hours | Nov 2024 | 1,536 | 8.5/10 | Technical depth |
+| 17 | LARA Hackathon | Nov 2024 | 1,481 | 8/10 | Real output |
+| 18 | Trade Show | Nov 2024 | 1,329 | 7/10 | Good content, no conversation |
+| 19 | Groundhog Day | Jan 2026 | 1,088 | 6.5/10 | Paraphrase penalty |
+| 20 | Tom Bailey | Dec 2024 | 755 | 6.5/10 | Corporate amplification |
+| 21 | Energy Recruitment | Nov 2024 | 323 | 2/10 | Never amplify recruitment |
 
-*Interim - ranking will update at 24h final count
+*Post 21 interim - ranking will update at 48h final count. Projected to reach rank 13-14.
 
 ---
 
@@ -171,15 +191,13 @@ Four engagements, escalating in substance. He is contributing frameworks, not ju
 | Train Display | 2.5% | ~540 |
 | 48 Hours | ~2% | ~30 |
 | BEMU | 6.2% | ~410 |
-| EU Telematics | 6.9% | ~225 |
+| EU Telematics | 6.9% | ~225 (at 3,255 interim; final count higher) |
 | Heathrow | 6.6% | ~214 |
 | George Bradshaw | 8.4% | ~962 |
 | Railway Within Railway | ~10% | ~1,475 |
-| AIRHART/DCT | 1.9% (8h) | ~35 |
+| AIRHART/DCT | 1.9% | ~88 (aviation-led post; low NR expected) |
 
-Note: AIRHART post leads with aviation, not GBR. Low NR reach is expected and acceptable. Will grow as 24-48h precision build continues.
-
-**6-10% Network Rail reach = exceptional targeting. Target this consistently for GBR content.**
+**6-10% Network Rail reach = exceptional targeting. Target consistently for GBR content.**
 
 ---
 
@@ -189,9 +207,30 @@ Note: AIRHART post leads with aviation, not GBR. Low NR reach is expected and ac
 
 Groundhog Day (1,088 impressions): "Not the exact word but I paraphrase" killed authenticity.
 George Bradshaw (11,468): Clean ministerial quote, no qualification.
-EU Telematics (3,255): Clean CER quote, no qualification.
+EU Telematics (7,576): Clean CER quote, no qualification.
 
 **Rule:** Direct quotes only. If you cannot quote directly, anonymize completely without announcing it. If the quote's original context differs from your post's context, bridge it explicitly: "He wasn't just talking about X. He was talking about Y." This builds credibility rather than hiding the shift.
+
+---
+
+### Strong-Tier Posts Can Double Between 24h and 7-Day Final (NEW - Posts 18 and 19)
+
+Post 18 (EU Telematics): 3,255 at 24h → 7,576 final = 132% growth.
+Post 19 (Heathrow): 3,245 at 24h → 6,703 final = 106% growth.
+
+This is a different growth pattern from viral posts (which spike in 6-12h) and from classic precision posts (which plateau at 48h). Policy and governance content with Brussels/parliamentary audience appears to have a slow-burn quality that continues well past 48h.
+
+**Rule:** For policy-adjacent content (EU standards, GBR architecture, regulatory frameworks), do not finalise the score or assessment before 7 days. The Brussels audience and regulatory community read on longer time horizons than operators.
+
+---
+
+### The "Coordination Specification" Reframe (NEW - Post 21)
+
+"That is not a technology specification. It is a coordination specification."
+
+This sentence takes a reform official's language and immediately translates it into the orchestration argument. The reader understands: the people writing the reform architecture are unknowingly writing your product brief.
+
+**Rule:** When a senior official or reform architect describes what they need, test immediately whether their words can be reframed as "not X, it is Y" where X is the conventional read and Y is the orchestration read. This framing is more persuasive than stating the argument yourself.
 
 ---
 
@@ -201,31 +240,33 @@ The Heidi Alexander "airspace above Heathrow" quote was used in the George Brads
 
 **The mechanism:** "I didn't mention it at the time but..." reveals that a quote planted earlier was setup for a real event. This rewards regular readers and creates a narrative arc across posts.
 
-**Rule:** When you know a major announcement is imminent, plant the relevant quote in an earlier post without making the connection explicit. Activate it on the day of the announcement. The gap between plant and activation should be 1-4 weeks - long enough to feel like genuine foresight, not so long that readers forgot the earlier post.
+**Rule:** When you know a major announcement is imminent, plant the relevant quote in an earlier post without making the connection explicit. Activate it on the day of the announcement. The gap between plant and activation should be 1-4 weeks.
 
 ---
 
 ### Corporate Announcements Need Client Audience Metrics, Not Engagement Metrics
 
-The Heathrow post had 7 reactions - weak by any engagement standard. But Heathrow at 1.8% means the client is reading. Airlines and Aviation at 7% opened a new sector.
+The Heathrow post had 12 reactions on 6,703 impressions = 0.18%. But Heathrow at 1.8% means the client is reading. Airlines and Aviation at 7% opened a new sector.
 
 **Rule:** For corporate announcement posts, measure success by: (a) did the named client appear in demographics, (b) did a new sector open, (c) did seniority stay above 60%. Reaction counts are the wrong metric for this post type.
 
 ---
 
-### The New Sector Signal: Airlines and Aviation at 7%
+### The New Sector Signal: Airlines and Aviation - Consolidation Confirmed
 
-The Heathrow post is the first to show Airlines and Aviation at a meaningful level (7%). This is a new audience channel opened by associating with a recognisable major name in aviation.
+Post 19 (Heathrow): 7% Airlines and Aviation - channel opened.
+Post 20 (AIRHART/DCT): 5.5% Airlines and Aviation - channel holding.
+Post 21 (Scotland/Bill Reeve): aviation proof point cited but rail-primary content. Test whether % holds.
 
-**Rule:** One post naming Heathrow opened an aviation sector channel. Consolidate it with a second airport/aviation orchestration post within 4 weeks. If you don't follow up, the channel closes. The sequence: AIRHART at Copenhagen/Munich is the natural next step.
+**Rule:** A new sector channel requires reinforcement within 4 weeks to remain open. Post 20 successfully consolidated Post 19's aviation opening. Post 21 will test whether mentioning aviation as supporting argument (not primary subject) sustains the channel.
 
 ---
 
 ### Two Posts One Day - Confirmed by Data (EU Telematics / Heathrow)
 
-EU Telematics (7:47am, 30 reactions) vs Heathrow (second post, 7 reactions). Same impression count, 4x engagement difference. The algorithm split is real and significant.
+EU Telematics (7:47am, 54 reactions at final) vs Heathrow (second post, 12 reactions). Both ended at similar impression counts (7,576 vs 6,703) but 4x engagement difference. The algorithm split is real.
 
-**Rule:** Never post twice on the same day by choice. If forced (major announcement drops while another post is already live), the first post always wins. Put the strategically more important content first.
+**Rule:** Never post twice on the same day by choice. If forced, the first post always wins.
 
 ---
 
@@ -235,12 +276,6 @@ EU Telematics (7:47am, 30 reactions) vs Heathrow (second post, 7 reactions). Sam
 **Right:** "Great Britain is outside the EU's legal framework. But not outside its commercial consequences."
 
 **Rule:** Frame as strategic choice, not compliance failure.
-
----
-
-### Transparent Context Extension Builds Credibility (EU Telematics)
-
-When using a quote in a different context than its original, bridge it explicitly. Technical readers who know the source respect the honesty.
 
 ---
 
@@ -264,41 +299,29 @@ When using a quote in a different context than its original, bridge it explicitl
 
 ---
 
-### Scotland Geography Pre-Seeding Works (George Bradshaw)
-
-Mentioning an upcoming speaking engagement seeds that geography. Glasgow at 3.5% when Scotland panel was mentioned.
-
----
-
 ### They Will Use Your Language (Railway Within Railway)
 
 Steve White wrote "whole systems thinking" - your vocabulary. Keep using orchestration, coordination, systems thinking. It is becoming the language of the debate.
 
 ---
 
-### Soft Tech Positioning for Relationship-Sensitive Posts (Railway Within Railway)
+### The Self-Comment Can Be Stronger Than the Post Opener (AIRHART/DCT)
 
-"The question is whether the coordination layer can deliver on the ambition." Source approved the post by reacting.
+In Post 20, the self-comment hook about signal failure cascading to multi-million pound disruption was more visceral than the Echave quote that opened the main post.
 
----
-
-### The Self-Comment Can Be Stronger Than the Post Opener (AIRHART/DCT - NEW)
-
-In Post 20, the self-comment hook "A 12-minute signal failure cascades into a three-hour, multi-million pound disruption" is more visceral and compelling than the Echave quote that opens the main post. This detail was used as supporting context when it could have been the opening line.
-
-**Rule:** Before finalising the post opener, review all available operational details and failure scenarios. The most visceral specific failure often makes a stronger hook than the C-suite validation quote. Consider: which line would make someone stop scrolling?
+**Rule:** Before finalising the post opener, review all available operational details and failure scenarios. The most visceral specific failure often makes a stronger hook than the C-suite validation quote.
 
 ---
 
-### Aviation Contacts Engage Authentically When Their Organisation Is Named (AIRHART/DCT - NEW)
+### Aviation Contacts Engage When Their Organisation Is Named (AIRHART/DCT)
 
-Carl Soutra (Heathrow) reacted and connected without prompting. He found the post because it named Heathrow explicitly. His background (GTR, Steer Davies Gleave, 7 years at Heathrow) makes him a high-value rail-aviation bridge contact.
+Carl Soutra (Heathrow) reacted and connected without prompting after Post 20 named Heathrow explicitly.
 
-**Rule:** Naming the organisation in the post reaches the people inside it. The account-based pattern (Post 3 Avanti, Post 6 NS, Post 20 Heathrow) is confirmed again. If you want to reach an organisation, name it in a post that speaks to their operational reality.
+**Rule:** Naming the organisation in the post reaches the people inside it. The account-based pattern (Post 3 Avanti, Post 6 NS, Post 20 Heathrow) is confirmed again.
 
 ---
 
-## Quotable Insights Database (Updated February 2026)
+## Quotable Insights Database (Updated March 2026)
 
 ### PLATINUM
 
@@ -315,23 +338,27 @@ Carl Soutra (Heathrow) reacted and connected without prompting. He found the pos
 
 ### GOLD
 
+**Bill Reeve (Director of Rail Reform, Transport Scotland)** - March 2026
+> "We don't want an enabling tool that helps the train operator to succeed in isolation. We actually want that bringing together of the data, together of the thinking, because that will help us make better decisions, which will ultimately deliver better service for the passenger."
+Topic: Said at Rail Scotland 2026. Immediately reframeable as a coordination specification rather than a technology specification. Used in Post 21.
+
 **Steve White (MD, South Eastern Railway)** - February 2026
 > "GBR needs to work bottom up as well as top down, fuelled by whole systems thinking and collaboration."
 
 **Heidi Alexander (Minister of State for Transport)** - February 2026
 > "The Rail Minister should no more be making timetabling decisions than I should be coordinating airspace above Heathrow."
-Note: Now activated via Heathrow post. Still usable for rail governance content as the original George Bradshaw reference.
+Note: Activated via Heathrow post. Still usable for rail governance content as original George Bradshaw reference.
 
 **Javier Echave (Chief Operating Officer, Heathrow)** - February 2026
 > Heathrow needs technology that can "orchestrate critical processes" across 80 million passengers a year.
-Topic: Airport operations orchestration. First C-suite aviation quote in database. Used in Post 19 and Post 20.
+Topic: Airport operations orchestration. First C-suite aviation quote in database. Used in Posts 19 and 20.
 
 **Alberto Mazzola (Executive Director, Community of European Railways)** - 2026
 > "The management needs to be done at the national level, but the system must be European and we must use the same system."
 
 **Andy Hamer** - February 2026
 > "Developing isolated UK standards makes little commercial sense. It destroys the economies of scale that European manufacturers have historically struggled to achieve compared to the US and Asia."
-Topic: UK-EU standards, industrial economics. Strong opener for follow-up.
+Topic: UK-EU standards, industrial economics. Strong opener for follow-up post.
 
 **Alex Hynes (at George Bradshaw Address)** - February 2026
 > "The quicker we start acting as one railway, the quicker we can start delivering the changes passengers really want."
@@ -342,6 +369,10 @@ Topic: UK-EU standards, industrial economics. Strong opener for follow-up.
 ---
 
 ### SILVER
+
+**Natasha Grice (Transport Focus)** - March 2026
+> Scotland is the top-performing region in the UK at 90% satisfaction; delay handling is still the area where the whole network needs to improve.
+Topic: Said at Rail Scotland 2026 panel. Used in Post 21 as passenger reality counterpoint to Bill Reeve's reform intent.
 
 **Nigel Pennington** - January 2026
 > "It's a model I introduced as GM for suburban routes in 2002 which sadly demised when new organisation priorities came in."
@@ -357,7 +388,7 @@ Topic: UK-EU standards, industrial economics. Strong opener for follow-up.
 |------|------|-----------------|--------|
 | Steve White | MD, South Eastern Railway | 4 (escalating) | Intellectual partnership |
 | Ross Moran | Route Director, NR Scotland | 1 (approved post) | Coordinate with BD |
-| Leon Kong | Head of Integrated Data Strategy, GBRX | 1 substantive + 1 tagged | Priority: DM follow-up |
+| Leon Kong | Head of Integrated Data Strategy, GBRX | 1 substantive + 1 tagged | Priority: DM follow-up. Use "coordination specification" frame from Post 21. |
 | Paul Plummer | Former CEO, Rail Delivery Group | 1 (reacted) | Monitor for opportunities |
 | Mike Noakes | Head of Rail, DfT | 2 (reacted x2) | Government relationship |
 | Roger Ford | Editor, Modern Railways | 1 (PPM post) | Pitch sub-threshold article |
@@ -365,7 +396,8 @@ Topic: UK-EU standards, industrial economics. Strong opener for follow-up.
 | Gregor Erbach | Head of Climate Action Research, European Parliament | 1 (EU Telematics) | EU policy contact |
 | Darren Kemp | Lead C&S Engineer, RSSB | 1 (EU Telematics) | Standards body contact |
 | Danny Longhorn | Content Editor, Rail Business Daily | Profile view | Editorial interest signal |
-| Carl Soutra | Senior Regulatory Performance Manager, Heathrow | 1 (AIRHART post) | NEW - DM sent in French. Rail (GTR/Steer) + Heathrow background. Rail-aviation bridge contact. Monitor for response. |
+| Carl Soutra | Senior Regulatory Performance Manager, Heathrow | 1 (AIRHART post) + DM sent | Rail (GTR/Steer) + 7yrs Heathrow. Rail-aviation bridge contact. Awaiting DM response. |
+| Bill Reeve | Director of Rail Reform, Transport Scotland | Quoted in Post 21 | NEW. Monitor for engagement on Post 21. If reacts/comments, treat as Gold-tier activation. |
 
 ---
 
@@ -381,21 +413,26 @@ Posts: 3 assessed | Highest: Electric Bus 23,450 | Average excl viral: 2,282
 Posts: 3 | Total: 22,453 | Average: 7,484
 BEMU: 6,620 | Groundhog Day: 1,088 | Railway Within Railway: 14,745
 
-### February 2026
-Posts: 4 | Total: ~29,500+
+### February 2026 (FINAL)
+Posts: 4 | Total: ~29,255+
 - George Bradshaw Address: 11,468+
-- EU Telematics: 3,255
-- Heathrow Announcement: 3,245
+- EU Telematics: 7,576
+- Heathrow Announcement: 6,703
+- (Note: strong-tier posts continued to grow well past 24h interim counts)
 
 ### March 2026 (Running)
-Posts: 1 (interim) | AIRHART/DCT: 1,833 at 8h (projecting 3,500-5,000 at 24h)
+Posts: 2 | Total so far: ~7,004
+- AIRHART/Digital Control Tower: 4,613 (final)
+- Scotland/Bill Reeve: 2,391 (1 day, interim - projected 3,500-5,500)
 
 ---
 
-*Addendum last updated: March 2, 2026*
-*Posts documented: 20 total (Post 20 interim)*
-*New post: AIRHART/Digital Control Tower (Post 20, Mar 2, 2026) - interim at 8 hours*
-*New contact: Carl Soutra (Senior Regulatory Performance Manager, Heathrow)*
-*New lesson: self-comment hook strength; aviation contacts engage when organisation named*
-*Leon Kong DM follow-up still pending*
-*Post 20 to be updated at 24h with final impressions and full reactor list*
+*Addendum last updated: March 7, 2026*
+*Posts documented: 21 total (Post 21 interim at 1 day)*
+*Updates this session: Posts 18 and 19 final impression counts confirmed (both roughly doubled from 24h interim); Post 20 finalised at 4,613; Post 21 (Scotland/Bill Reeve) added as new interim*
+*Score revisions: Post 18 revised to 8.5/10 (from 7.5); Post 19 revised to 8/10 (from 7); Post 20 revised to 8.5/10 (from 8 interim)*
+*New contact: Bill Reeve (Director of Rail Reform, Transport Scotland) - added to monitoring*
+*New quote: Bill Reeve (Gold tier) and Natasha Grice (Silver tier) added to database*
+*New lesson: Strong-tier policy posts can double between 24h and 7-day final*
+*Leon Kong DM follow-up still pending - use "coordination specification" frame as bridge*
+*Post 21 to be updated at 48h with demographics and final reactor list*
