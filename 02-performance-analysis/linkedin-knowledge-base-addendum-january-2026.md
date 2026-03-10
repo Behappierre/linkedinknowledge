@@ -91,13 +91,9 @@ See full analysis: heathrow-announcement-post-analysis-february-2026.md
 **Industries:** Truck Transportation 20.5%, IT Services 11.8%, Rail Transportation 7.7%, Business Consulting 5.6%, Civil Engineering 5.3%
 **Locations:** London 23.3%, Derby 2.4%, Manchester 2.2%, Copenhagen Metropolitan Area 2.1%, Leeds 1.8%
 
-**Key corrections from 8h interim to confirmed final:** NR 1.9%→4.5%; seniority 62.4%→59.1%; Airlines and Aviation 5.5% at 8h, not in top 5 at final; Netcompany 6.8%→4.4%; Copenhagen 2.9%→2.1%.
-
 **Score rationale (confirmed):** Strong tier base (7.0) + Carl Soutra activation (+0.5) + Copenhagen 2.1% confirmed (+0.5) — Monday posting (-0.5) = **7.5/10**.
 
-**Profile viewers:** Eric-Jan van Altenburg (AI/Security/Cloud for critical infrastructure, ex-Accenture, 3 mutual); anonymous at Porterbrook (ROSCO — knowledge cliff framing relevant to rolling stock lessors).
-
-**Key strategic development:** Carl Soutra (Senior Regulatory Performance Manager, Heathrow) reacted, accepted connection request, received French-language DM. Rail-aviation bridge contact.
+**Profile viewers:** Eric-Jan van Altenburg (AI/Security/Cloud for critical infrastructure, ex-Accenture, 3 mutual); anonymous at Porterbrook (ROSCO).
 
 See full analysis: airhart-digital-control-tower-post-analysis-march-2026.md
 
@@ -112,25 +108,41 @@ See full analysis: airhart-digital-control-tower-post-analysis-march-2026.md
 **Locations:** London 22.7%, Glasgow 3.6%, Derby 3.5%, Copenhagen Metropolitan Area 2.4%, Manchester 2.3%
 **Profile viewers:** Michael Newman (Global MD Rail, Ricardo — 1st connection), Nina Helene Høglund (Norwegian safety/quality manager), Stuart Drakard (Rail Consultant)
 
-**Reaction rate:** 36 / 2,403 = **1.5%** — held at upper bound of precision performance through to confirmed final. The audience that found this post was highly engaged.
-
-**The post:** Bill Reeve (Director of Rail Reform, Transport Scotland) quote from Rail Scotland 2026 panel, immediately reframed: "That is not a technology specification. It is a coordination specification." Natasha Grice (Transport Focus) provides passenger reality: 90% satisfaction in Scotland, delay handling the weakest point. Aviation proof point (Copenhagen, Munich, Heathrow) cited as supporting evidence.
-
-**Why Strong tier projection (3,500-5,500) did not materialise:** Friday posting. The post hit its ceiling by day 1 as the engagement window closed before the Monday professional audience arrived. The content quality is right; timing was wrong. A Tuesday-Thursday version of this post would project to 3,500-5,000 and score 7.5-8.0.
-
-**Standout demographics:**
-- Combined Truck Transportation + Rail Transportation = 39.2% — highest combined rail industry concentration in the series. Most precisely targeted rail audience to date.
-- CEO at 1.2% in top 5 job titles — alongside MD at 3.1%. Most C-suite-visible job title distribution in the series. The coordination specification reframe landed with commissioning-level contacts.
-- Siemens at 4.4% — Siemens Mobility signalling and digital rail business reading the GBR digital layer argument (~106 viewers).
-- Glasgow 3.6% — Scotland geography confirmed; Rail Scotland 2026 attendee community and NR Scotland stakeholders engaged.
-- Copenhagen 2.4% — aviation thread still resonating even when aviation is supporting argument only.
-- Airlines and Aviation not in top 5 — confirms three-post pattern: aviation channel requires aviation-primary content to hold above 5%.
-
-**Score rationale:** Good tier base (6.0) + seniority 60.5% (+0.5) + NR 6.6% solid targeting (+0.5) + Glasgow 3.6% geography confirmed (+0.5) — Friday posting (-0.5) = **7.0/10**.
-
-**Michael Newman (Ricardo) profile view — significant.** Global Managing Director, Rail at Ricardo (1st connection). Ricardo advises on rail engineering, integration, assurance, operations, maintenance — precisely the digital strategy and procurement space where the coordination specification argument lands. 1st connection = warm relationship already exists. This is a moment for direct outreach.
+**Score rationale:** Good tier base (6.0) + seniority 60.5% (+0.5) + NR 6.6% (+0.5) + Glasgow 3.6% geography confirmed (+0.5) — Friday posting (-0.5) = **7.0/10**.
 
 See full analysis: scotland-rail-2026-bill-reeve-post-analysis-march-2026.md
+
+---
+
+### Post 22: Helpston Level Crossing / Override Drift — INTERIM (12-hour snapshot)
+**Date:** March 10, 2026, 7:41am GMT | **Score:** 9/10 (interim — to be confirmed at Day 7)
+**Impressions at 12h:** 16,866 | **Reactions:** 51 | **Comments:** 13 | **Reposts:** 3 | **Saves:** 4 (at 4h)
+**Analytics export (4h):** Impressions 10,564 | Members reached 7,123 | Profile viewers 12 | Followers gained 2
+**Seniority (4h):** Senior 33.5% + Director 17.3% + VP 4.2% = **55.0%** | **NR:** 3.7% (~391 NR viewers at 4h — will grow)
+**Top companies (4h):** Network Rail 3.7%, Siemens 1.6%, Alstom 1.1%, JLR <1%, TfL <1%
+**Industries (4h):** Truck Transportation 14.3%, Motor Vehicle Manufacturing 6.1%, Rail Transportation 6.1%, IT Services 5.8%, Civil Engineering 5.3%
+**Locations (4h):** London 15.3%, Manchester 2.9%, Glasgow 2.5%, Sheffield 1.9%, Bristol 1.9%
+
+**The post:** RAIB Safety Digest 01/2026 — Helpston level crossing near miss, October 21 2025. Named framework coined: "Override Drift — the observed pattern where an exceptional measure, used repeatedly without detection, migrates from the edge of the rulebook into the centre of daily practice." Framing inverts the expected narrative: the interlocking worked; the assurance layer failed. "The data was there. The visibility was not."
+
+**Standout engagement:**
+- **Daniel Fisk (Head of Level Crossings and Public Safety, Network Rail)** — reacted Insightful AND sent connection request on day of posting. Most operationally relevant NR contact possible for this specific post.
+- **Mike Castles** (Global Technical Expert, Functional Safety, Ricardo Rail) — reacted. Second consecutive post with Ricardo Rail engagement (after Michael Newman profile view on Post 21).
+- **Andreas Moglestue** (Chief Editor, ABB Review) — two substantive comments adding information quality design argument and corporate memory failure layer. Industrial automation editorial community reached.
+- **Paul Cheeseman** — invoked James Reason and Flixborough (1974) as the industrial safety archetype. High-quality safety professional engagement.
+- **David Watkin** — Nevis Range cable car 2006 cross-industry example. Override Drift independently validated as transferable concept.
+- **Daniel Ezban** (CEO, Smarter Airports) — reacted. Override Drift has reached airport operations relevance.
+- **Richard Simpson** (COO/CTO/GMD, Manufacturing/Transportation) — Insightful. Commissioning layer engaging.
+
+**Seniority note:** 55% is below the 60% benchmark but within the 54-58% acceptable range for RAIB safety content. Entry at 21% reflects signalling engineers, safety technicians, route controllers — the correct audience.
+
+**Trajectory:** Following the Shap Landslip slow-burn pattern. 3 reposts actively distributing. 4 saves = reference-quality signal. Expect NR reach to grow significantly from 3.7% at 4h.
+
+**Score rationale (interim):** Viral tier base (8.0) + Override Drift named framework (+0.5) + Daniel Fisk connection request (+0.5) + Mike Castles functional safety validation (+0.5) + cross-industry reach Motor Vehicle Manufacturing 6.1% (+0.5) — seniority 55% within acceptable range for safety content (0) = **9.0/10 interim**.
+
+**UPDATE REQUIRED at Day 7:** Confirm final impressions, NR reach, full demographics. If NR exceeds 7% add +0.5. If Daniel Fisk engages substantively in comments add +0.5 (capped at 10/10).
+
+See full analysis: helpston-override-drift-post-analysis-march-2026.md
 
 ---
 
@@ -162,30 +174,31 @@ Four engagements, escalating in substance. He is contributing frameworks, not ju
 ## Updated All-Time Performance Ranking
 
 | Rank | Post | Date | Impressions | Score | Key Factor |
-|------|------|------|-------------|-------|-----------|
+|------|------|------|-------------|-------|-----------| 
 | 1 | PPM Five Minutes | Jan 2026 | 61,040 | 10/10 | Industry critique + meme visual |
 | 2 | Shap Landslip (RAIB) | Dec 2024 | 37,677 | 9.5/10 | Named framework + safety |
+| — | **Helpston / Override Drift** | **Mar 2026** | **16,866+ (interim)** | **9/10 (interim)** | **Named framework + NR engagement** |
 | 3 | Electric Bus | Dec 2024 | 23,450 | 10/10 | Borrowed credibility + cross-sector |
 | 4 | Train Display | Nov 2024 | 21,659 | 9/10 | Real-time + visual proof |
 | 5 | Railway Within Railway | Jan 2026 | 14,745 | 10/10 | Complete elite engagement stack |
 | 6 | George Bradshaw Address | Feb 2026 | 11,468+ | 8.5/10 | Minister quote + GBRX engagement |
-| 7 | EU Telematics / Digital Island | Feb 2026 | 7,576 | 8.5/10 | NR 9.1% near-record + slow-burn policy |
-| 8 | Heathrow Announcement | Feb 2026 | 6,704 | 8/10 | Planted quote activated + aviation sector |
+| 7 | EU Telematics / Digital Island | Feb 2026 | 7,576 | 8.5/10 | NR 9.1% near-record |
+| 8 | Heathrow Announcement | Feb 2026 | 6,704 | 8/10 | Planted quote activated + aviation |
 | 9 | BEMU/East West Rail | Jan 2026 | 6,620 | 9/10 | Cross-sector learning |
 | 10 | Rail Forum (Toufic) | Dec 2024 | 3,895 | 8.5/10 | Conference + Rubik's Cube |
 | 11 | Carol Service | Dec 2024 | 3,810 | 8/10 | Personal + professional |
-| 12 | Rail Conference (Steve) | Nov 2024 | 2,604 | 9/10 | Borrowed credibility |
-| 13 | AIRHART/Digital Control Tower | Mar 2026 | 4,616 | 7.5/10 | Aviation proof point + Copenhagen signal |
-| 14 | Manufacturing | Nov 2024 | 1,560 | 8.5/10 | Borrowed credibility + data |
-| 15 | 48 Hours | Nov 2024 | 1,536 | 8.5/10 | Technical depth |
-| 16 | LARA Hackathon | Nov 2024 | 1,481 | 8/10 | Real output |
-| 17 | Trade Show | Nov 2024 | 1,329 | 7/10 | Good content, no conversation |
-| 18 | Scotland/Bill Reeve | Mar 2026 | 2,403 | 7.0/10 | Coordination specification reframe; Friday ceiling |
+| 12 | AIRHART/Digital Control Tower | Mar 2026 | 4,616 | 7.5/10 | Aviation proof point + Copenhagen signal |
+| 13 | Rail Conference (Steve) | Nov 2024 | 2,604 | 9/10 | Borrowed credibility |
+| 14 | Scotland/Bill Reeve | Mar 2026 | 2,403 | 7.0/10 | Coordination specification reframe; Friday ceiling |
+| 15 | Manufacturing | Nov 2024 | 1,560 | 8.5/10 | Borrowed credibility + data |
+| 16 | 48 Hours | Nov 2024 | 1,536 | 8.5/10 | Technical depth |
+| 17 | LARA Hackathon | Nov 2024 | 1,481 | 8/10 | Real output |
+| 18 | Trade Show | Nov 2024 | 1,329 | 7/10 | Good content, no conversation |
 | 19 | Groundhog Day | Jan 2026 | 1,088 | 6.5/10 | Paraphrase penalty |
 | 20 | Tom Bailey | Dec 2024 | 755 | 6.5/10 | Corporate amplification |
 | 21 | Energy Recruitment | Nov 2024 | 323 | 2/10 | Never amplify recruitment |
 
-**Ranking note:** Post 21 (2,403 impressions, 7.0/10) sits at rank 18 by score. Its impression count of 2,403 would place it higher by volume but demographic quality (60.5% seniority, 39.2% rail, CEO/MD visible) is consistent with posts ranked 7-12. The score correctly reflects a timing penalty on strong content. A Tuesday-Thursday version of this post would likely score 7.5-8.0.
+*Helpston interim rank: inserted between Shap Landslip and Electric Bus by current trajectory. Final position confirmed at Day 7.*
 
 ---
 
@@ -196,12 +209,13 @@ Four engagements, escalating in substance. He is contributing frameworks, not ju
 | Train Display | 2.5% | ~540 | |
 | 48 Hours | ~2% | ~30 | |
 | BEMU | 6.2% | ~410 | |
-| EU Telematics | **9.1%** | **~690** | Near-record. Previous entry (6.9%) was 24h interim. |
-| Heathrow | 6.7% | ~449 | Confirmed final. |
+| EU Telematics | **9.1%** | **~690** | Near-record |
+| Heathrow | 6.7% | ~449 | |
 | George Bradshaw | 8.4% | ~962 | |
 | Railway Within Railway | ~10% | ~1,475 | Record holder |
-| AIRHART/DCT | 4.5% | ~208 | Confirmed final. Was 1.9% at 8h — NR built slowly on aviation-led content. |
-| Scotland/Bill Reeve | **6.6%** | **~159** | Confirmed final. Good for a Friday post. |
+| AIRHART/DCT | 4.5% | ~208 | |
+| Scotland/Bill Reeve | 6.6% | ~159 | Good for Friday post |
+| **Helpston/Override Drift** | **3.7% (4h interim)** | **~391 at 4h** | **Expect significant growth — Shap pattern** |
 
 ---
 
@@ -209,26 +223,49 @@ Four engagements, escalating in substance. He is contributing frameworks, not ju
 
 ### Never Qualify Borrowed Credibility (ABSOLUTE — confirmed repeatedly)
 
-Groundhog Day (1,088 impressions): "Not the exact word but I paraphrase" killed authenticity.
-George Bradshaw (11,468): Clean ministerial quote, no qualification.
-EU Telematics (7,576): Clean CER quote, no qualification.
-
-**Rule:** Direct quotes only. If you cannot quote directly, anonymize completely without announcing it. Bridge context shifts explicitly rather than qualifying.
+**Rule:** Direct quotes only. If you cannot quote directly, anonymize completely without announcing it.
 
 ---
 
-### Friday Posting Confirmed as Ceiling Limiter for Precision Content (NEW — Post 21)
+### RAIB Named Framework Pattern — Third Confirmation (Post 22)
 
-Post 21 (Scotland/Bill Reeve) projected 3,500-5,500 impressions on content quality alone. Confirmed final: 2,403. The post grew minimally between day 1 and final because the engagement window closed over the weekend before the full working-week audience arrived.
+Shap Landslip ("Correlation Gap", "Deployment Gap"), now Helpston ("Override Drift"). Each post coins a transferable organisational pattern from a RAIB report. Each achieves strong demographic targeting with safety and infrastructure professionals and generates saves (reference-quality signal).
 
-**Rule:** Never post precision targeting content on a Friday. The professional audience disengages from LinkedIn Friday afternoon and the algorithm doesn't get a second distribution wave until Monday. The content quality and demographic result are not degraded, but the impression ceiling is significantly lower. A Friday post that would score 7.5-8.0 on Tuesday-Thursday will score 7.0 on Friday.
+**Rule:** RAIB reports are a reliable source of named framework material. Read the report, identify the systemic failure, name the mechanism as an observable organisational pattern, define it clinically, connect to the assurance or coordination layer. The framework must be transferable beyond rail to achieve cross-industry reach.
+
+---
+
+### "The Technology Worked" Inversion Protects Target Account Relationships (NEW — Post 22)
+
+Opening with the interlocking's success before naming the failure changes the framing from "organisation X failed" to "the assurance layer around a working system failed." Daniel Fisk (Head of Level Crossings, NR) sent a connection request on the day of posting — evidence that NR professionals felt comfortable engaging rather than defensive.
+
+**Rule:** When writing about a safety or operational failure at a named target account, lead with what worked before naming what failed. This transforms the post from a criticism into a systems analysis. The organisation's people engage rather than go quiet.
+
+---
+
+### Safety Content Gets Saves, Not Just Reactions (Confirmed — Posts 2 and 22)
+
+4 saves at 4 hours on Helpston. Same pattern as Shap. Rail safety professionals save content for reference — internal briefings, incident reviews, safety discussions.
+
+**Rule:** For RAIB-sourced framework posts, saves are a more meaningful quality signal than reactions. A post with 4 saves at 4 hours is producing reference-quality material.
+
+---
+
+### Named Framework Posts Attract Cross-Industry Independent Validation in Comments
+
+David Watkin (Nevis Range cable car 2006) validated Override Drift independently in the comment thread, without prompting. Paul Cheeseman named Flixborough and James Reason. The concept generalised beyond rail in the first 12 hours without being pushed.
+
+**Rule:** When a named framework is genuinely transferable, the comment thread will provide the cross-industry validation. You do not need to assert it — others will demonstrate it. This is the highest quality signal that a framework has legs.
+
+---
+
+### Friday Posting Confirmed as Ceiling Limiter for Precision Content (Post 21)
+
+**Rule:** Never post precision targeting content on a Friday.
 
 ---
 
 ### Strong-Tier Posts Can Double Between 24h and Final — Policy Content Grows Longest (Posts 18 and 19)
-
-Post 18 (EU Telematics): 3,255 at 24h → 7,576 confirmed final = 133% growth.
-Post 19 (Heathrow): 3,245 at 24h → 6,704 confirmed final = 107% growth.
 
 **Rule:** For policy-adjacent content, treat 7 days as a minimum assessment window.
 
@@ -236,55 +273,39 @@ Post 19 (Heathrow): 3,245 at 24h → 6,704 confirmed final = 107% growth.
 
 ### High NR Concentration Can Coexist with Below-Benchmark Seniority for Technical Content (Post 18)
 
-**Rule:** For TSI-level, data architecture, and standards content, the correct seniority benchmark is 54-58%, not 60-66%.
+**Rule:** For TSI-level, data architecture, standards, and safety content, the correct seniority benchmark is 54-58%, not 60-66%.
 
 ---
 
 ### NR Reach Doubles Between 8h and Final on GBR-Adjacent Aviation Content (Post 20)
 
-Post 20: NR 1.9% at 8h → 4.5% at confirmed final.
-
-**Rule:** For posts that mix aviation framing with GBR argument, do not assess NR reach until confirmed final. 8h readings understate final NR concentration significantly.
-
----
-
-### Early Demographics Overstate Aviation Channel on Mixed-Framing Posts (Post 20)
-
-**Rule:** For cross-sector posts (aviation + rail), wait for confirmed final before drawing conclusions about sector channel performance. Early readings favour the first-wave audience.
+**Rule:** For posts that mix aviation framing with GBR argument, do not assess NR reach until confirmed final.
 
 ---
 
 ### Aviation Channel Requires Aviation-Primary Content — Three-Post Confirmed Pattern (Posts 19, 20, 21)
 
-Post 19 (Heathrow): 7.2% — channel opened (aviation as primary subject).
-Post 20 (AIRHART/DCT): not in confirmed top 5 at final (aviation as primary subject but impressions lower).
-Post 21 (Scotland/Bill Reeve): not in top 5 (aviation as supporting evidence only).
-
-**Rule:** The aviation channel does not persist when aviation becomes secondary. Three consecutive posts have now confirmed this: naming Heathrow opens the channel; referencing aviation as proof point does not sustain it. To hold Airlines and Aviation above 5% requires a post where aviation is the primary subject, not the comparison.
+**Rule:** The aviation channel does not persist when aviation becomes secondary.
 
 ---
 
 ### The "Coordination Specification" Reframe (Post 21)
 
-"That is not a technology specification. It is a coordination specification."
-
-**Rule:** When a senior official or reform architect describes what they need, test immediately whether their words can be reframed as "not X, it is Y" where X is the conventional read and Y is the orchestration read.
+**Rule:** When a senior official describes what they need, test immediately whether their words can be reframed as "not X, it is Y."
 
 ---
 
-### The Commissioning Layer Engages with Coordination Specification Framing (NEW — Post 21)
+### The Commissioning Layer Engages with Coordination Specification Framing (Post 21)
 
-CEO at 1.2% in top 5 job titles on Post 21 — alongside MD at 3.1%. Michael Newman (Global MD Rail, Ricardo, 1st connection) viewed profile. The "coordination specification" reframe of Bill Reeve's quote landed with people at decision-making level.
-
-**Rule:** The reframe "not a technology specification — a coordination specification" operates at the level of abstraction that engages senior commissioning contacts (CEOs, GDs, Global MDs) rather than practitioner-level contacts. Use this framing when the target audience is the decision layer, not the technical layer.
+**Rule:** The reframe "not a technology specification — a coordination specification" operates at the level of abstraction that engages CEOs, GDs, and Global MDs rather than practitioner-level contacts.
 
 ---
 
-### Engineering Assurance and Advisory Firms Track GBR Digital Architecture Content (NEW — Posts 19, 20, 21)
+### Engineering Assurance and Advisory Firms Track GBR Digital Architecture Content (Posts 19, 20, 21, 22)
 
-AtkinsRéalis (Post 19, 1.5%); Turner & Townsend Harry Thomas (Post 19 profile view); Ricardo Michael Newman (Post 21 profile view); Eric-Jan van Altenburg/critical infrastructure advisory (Post 20 profile view).
+Ricardo (Mike Castles + Michael Newman), AtkinsRéalis, Turner & Townsend, Jacobs appearing consistently.
 
-**Rule:** Ricardo, AtkinsRéalis, Turner & Townsend are appearing consistently on GBR-adjacent content. These firms translate government strategy into procurement briefs. They are an influence pathway into client digital architecture commissioning decisions — not direct operators, but advisors who shape what operators buy.
+**Rule:** These firms translate government strategy into procurement briefs. They are an influence pathway into client digital architecture commissioning decisions.
 
 ---
 
@@ -303,12 +324,6 @@ AtkinsRéalis (Post 19, 1.5%); Turner & Townsend Harry Thomas (Post 19 profile v
 ### Two Posts One Day — Confirmed by Data (Posts 18/19)
 
 **Rule:** Never post twice on the same day by choice. If forced, the first post always wins.
-
----
-
-### Compliance Framing Weakens Policy Arguments (Post 18)
-
-**Rule:** Frame as strategic choice, not compliance failure.
 
 ---
 
@@ -332,19 +347,13 @@ AtkinsRéalis (Post 19, 1.5%); Turner & Townsend Harry Thomas (Post 19 profile v
 
 ### The Self-Comment Can Be Stronger Than the Post Opener (Post 20)
 
-**Rule:** Before finalising the post opener, review all available operational details. The most visceral specific failure often makes a stronger hook than the C-suite validation quote.
-
----
-
-### Aviation Contacts and Industry Engage When Their Organisation Is Named
-
-**Rule:** Naming the organisation in the post reaches the people inside it. Account-based pattern confirmed: Avanti (Post 3), NS (Post 6), Heathrow (Posts 19 and 20).
+**Rule:** Before finalising the post opener, review all available operational details.
 
 ---
 
 ### ROSCOs Can Be Reached via Knowledge Cliff Framing (Post 20)
 
-**Rule:** Knowledge cliff content (workforce retirement, expertise preservation) is ROSCO-relevant. Consider tagging ROSCO stakeholders or using rolling stock examples when writing about the knowledge cliff.
+**Rule:** Knowledge cliff content is ROSCO-relevant. Consider tagging ROSCO stakeholders when writing about expertise preservation.
 
 ---
 
@@ -369,16 +378,18 @@ AtkinsRéalis (Post 19, 1.5%); Turner & Townsend Harry Thomas (Post 19 profile v
 > "We don't want an enabling tool that helps the train operator to succeed in isolation. We actually want that bringing together of the data, together of the thinking, because that will help us make better decisions, which will ultimately deliver better service for the passenger."
 Topic: Said at Rail Scotland 2026. Used in Post 21. Reframeable as: "not a technology specification — a coordination specification."
 
+**Andreas Moglestue (Chief Editor, ABB Review)** — March 2026
+> "When there is no corporate memory, employees inherit rules and regulations from their predecessors without being told the back story, and may then decide that these rules are pointless red tape that is best bypassed."
+Topic: Contributed in Post 22 comments. A precise articulation of the corporate memory failure layer of Override Drift. Silver-tier for now but elevatable to Gold if a post is built around this angle.
+
 **Steve White (MD, South Eastern Railway)** — February 2026
 > "GBR needs to work bottom up as well as top down, fuelled by whole systems thinking and collaboration."
 
 **Heidi Alexander (Minister of State for Transport)** — February 2026
 > "The Rail Minister should no more be making timetabling decisions than I should be coordinating airspace above Heathrow."
-Note: Activated via Heathrow post. Still usable for rail governance content.
 
 **Javier Echave (Chief Operating Officer, Heathrow)** — February 2026
 > Heathrow needs technology that can "orchestrate critical processes" across 80 million passengers a year.
-Topic: First C-suite aviation quote in database. Used in Posts 19 and 20.
 
 **Alberto Mazzola (Executive Director, Community of European Railways)** — 2026
 > "The management needs to be done at the national level, but the system must be European and we must use the same system."
@@ -398,7 +409,6 @@ Topic: First C-suite aviation quote in database. Used in Posts 19 and 20.
 
 **Natasha Grice (Transport Focus)** — March 2026
 > Scotland is the top-performing region in the UK at 90% satisfaction; delay handling is still the area where the whole network needs to improve.
-Topic: Used in Post 21 as passenger reality counterpoint to Bill Reeve.
 
 **Nigel Pennington** — January 2026
 > "It's a model I introduced as GM for suburban routes in 2002 which sadly demised when new organisation priorities came in."
@@ -414,19 +424,21 @@ Topic: Used in Post 21 as passenger reality counterpoint to Bill Reeve.
 |------|------|-----------------|--------|
 | Steve White | MD, South Eastern Railway | 4 (escalating) | Intellectual partnership |
 | Ross Moran | Route Director, NR Scotland | 1 (approved post) | Coordinate with BD |
-| Leon Kong | Head of Integrated Data Strategy, GBRX | 1 substantive + 1 tagged | Priority: DM follow-up. Bridge: ROC quote (operational symptom) + Bill Reeve "coordination specification" (political mandate). |
+| Leon Kong | Head of Integrated Data Strategy, GBRX | 1 substantive + 1 tagged | Priority: DM follow-up. Bridge: ROC quote + Bill Reeve "coordination specification". |
 | Paul Plummer | Former CEO, Rail Delivery Group | 1 (reacted) | Monitor for opportunities |
 | Mike Noakes | Head of Rail, DfT | 2 (reacted x2) | Government relationship |
 | Roger Ford | Editor, Modern Railways | 1 (PPM post) | Pitch sub-threshold article |
 | Thomas Ableman | MD, Chiltern Railways | 1 (PPM post) | Operator partnership potential |
 | Gregor Erbach | Head of Climate Action Research, European Parliament | 1 (EU Telematics) | EU policy contact |
 | Darren Kemp | Lead C&S Engineer, RSSB | 1 (EU Telematics) | Standards body contact |
-| Danny Longhorn | Content Editor, Rail Business Daily | 2 profile views (Posts 18+19) | Pitch moment approaching. "Digital Island" + Heathrow orchestration = publishable piece. |
-| Carl Soutra | Senior Regulatory Performance Manager, Heathrow | 1 reaction (AIRHART) + DM sent | Rail (GTR/Steer) + 7yrs Heathrow. Rail-aviation bridge. Awaiting DM response. |
-| Bill Reeve | Director of Rail Reform, Transport Scotland | Quoted in Post 21 | Quoted source. Monitor for engagement on Post 21. If reacts/comments, treat as Gold-tier activation. |
-| Harry Thomas | Principal Consultant, Infrastructure Digital Advisory, Turner & Townsend | 1 profile view (Heathrow post) | Advisory-to-client influence pathway. 3 mutual connections. Monitor for repeat engagement. |
-| Eric-Jan van Altenburg | Strategic Account Executive, AI/Security/Cloud for critical infrastructure, ex-Accenture | 1 profile view (AIRHART post) | Critical infrastructure transformation profile adjacent to PULSE positioning. 3 mutual connections. Monitor. |
-| Michael Newman | Global Managing Director, Rail, Ricardo | 1 profile view (Scotland post) | NEW. 1st connection. Ricardo advises on rail engineering, integration, assurance, digital strategy — precisely the GBR commissioning space. Warm signal post the coordination specification post. Assess direct outreach. |
+| Danny Longhorn | Content Editor, Rail Business Daily | 2 profile views (Posts 18+19) | Pitch moment approaching. |
+| Carl Soutra | Senior Regulatory Performance Manager, Heathrow | 1 reaction (AIRHART) + DM sent | Awaiting DM response. |
+| Bill Reeve | Director of Rail Reform, Transport Scotland | Quoted in Post 21 | Monitor for engagement. |
+| Harry Thomas | Principal Consultant, Infrastructure Digital Advisory, Turner & Townsend | 1 profile view (Heathrow post) | Advisory-to-client influence pathway. |
+| Eric-Jan van Altenburg | Strategic Account Executive, AI/Security/Cloud for critical infrastructure, ex-Accenture | 1 profile view (AIRHART post) | Monitor. |
+| Michael Newman | Global Managing Director, Rail, Ricardo | 1 profile view (Scotland post) | NEW. 1st connection. Ricardo double-signal (Mike Castles Post 22 + Newman Post 21). Assess direct outreach now. |
+| **Daniel Fisk** | **Head of Level Crossings and Public Safety (Seconded), Network Rail** | **1 reaction (Insightful) + connection request sent** | **NEW. Accept connection immediately. Most operationally relevant NR contact for level crossings and safety content. Warm signal on day of posting.** |
+| **Mike Castles** | **Global Technical Expert, Functional Safety, Ricardo Rail** | **1 reaction (Post 22)** | **NEW. Second Ricardo Rail engagement in two consecutive posts. Functional safety specialist — technically rigorous validator of Override Drift framing.** |
 
 ---
 
@@ -448,16 +460,19 @@ Posts: 4 | Total: ~29,250
 - EU Telematics: 7,576
 - Heathrow Announcement: 6,704
 
-### March 2026 (Running — both posts confirmed final)
-Posts: 2 | Total: 7,019
-- AIRHART/Digital Control Tower: 4,616
-- Scotland/Bill Reeve: 2,403
+### March 2026 (Running)
+Posts: 3 (2 confirmed final, 1 interim)
+- AIRHART/Digital Control Tower: 4,616 (final)
+- Scotland/Bill Reeve: 2,403 (final)
+- Helpston/Override Drift: 16,866+ at 12h (interim — Day 7 update pending)
 
 ---
 
-*Addendum last updated: March 7, 2026*
-*Posts documented: 21 total — all confirmed final*
-*This update: Post 21 Scotland/Bill Reeve confirmed final. 2,403 impressions, NR 6.6%, seniority 60.5%, Glasgow 3.6%, score 7.0/10. Strong tier projection did not materialise due to Friday posting. 39.2% combined rail industry — highest in series. CEO/MD visible in top job titles. Michael Newman (Global MD Rail, Ricardo, 1st connection) added as new strategic contact. Aviation channel three-post pattern confirmed: not in top 5 for third consecutive post when aviation is supporting argument only. New lessons: Friday posting ceiling limiter; coordination specification reframe engages commissioning layer; engineering advisory firms tracking GBR digital architecture content.*
-*Leon Kong DM follow-up still pending — use Bill Reeve "coordination specification" as bridge to his ROC quote*
+*Addendum last updated: March 10, 2026*
+*Posts documented: 22 total (21 confirmed final, Post 22 interim)*
+*This update: Post 22 Helpston/Override Drift added as 12-hour interim. 16,866 impressions at 12h, 51 reactions, 13 comments, 3 reposts, 4 saves. Seniority 55% (within acceptable range for safety content). NR 3.7% at 4h — expect significant growth following Shap Landslip pattern. Daniel Fisk (Head of Level Crossings and Public Safety, NR) connection request on day of posting — most operationally relevant NR contact in the series. Mike Castles (Functional Safety, Ricardo Rail) reacted — second consecutive Ricardo Rail engagement. Override Drift independently validated cross-industry in comment thread (Flixborough, Nevis Range cable car). New lessons: RAIB named framework pattern third confirmation; "technology worked" inversion protects target account relationships; safety content gets saves not just reactions; named frameworks attract independent cross-industry validation in comments.*
+*Leon Kong DM follow-up still pending*
 *Carl Soutra DM still awaiting response*
-*Michael Newman (Ricardo) — assess direct outreach opportunity given 1st connection status and warm profile view signal*
+*Michael Newman (Ricardo) — direct outreach now warranted given double-signal*
+*Daniel Fisk — accept connection request immediately*
+*POST 22 UPDATE REQUIRED at Day 7 with confirmed final analytics*
