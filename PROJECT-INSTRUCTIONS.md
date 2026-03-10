@@ -36,6 +36,12 @@ Contains: all posts from Post 14 onwards, current all-time ranking, quotable ins
 02-performance-analysis/demographics-of-followers.md
 ```
 
+**Network and connections intelligence:**
+```
+05-network/network-contacts-reference.md
+```
+Contains: Priority Watchlist of warm inbound contacts (Tier A and B), sector-grouped connection tables with ★/◆ signalling, post trigger identification, and CRM-ready CSV. Fetch this when working on outreach, BD strategy, or assessing who is watching.
+
 ---
 
 ## Repository Structure
@@ -51,8 +57,10 @@ linkedinknowledge/
 │   └── demographics-of-followers.md
 ├── 03-execution-plans/
 │   └── strategic-action-plan-q1-2025.md
-└── 04-templates/
-    └── linkedin-post-creation-toolkit.md
+├── 04-templates/
+│   └── linkedin-post-creation-toolkit.md
+└── 05-network/
+    └── network-contacts-reference.md     ← Industry connections with strategic intelligence overlay
 ```
 
 ---
@@ -64,6 +72,7 @@ linkedinknowledge/
 2. Fetch current addendum SHA before writing
 3. Create individual analysis file first
 4. Update addendum second
+5. If new connections came in after the post, update network contacts reference
 
 ### Drafting a new post
 1. Read SKILL.md Section 4 (Post Drafting Protocol)
@@ -76,19 +85,29 @@ linkedinknowledge/
 2. Apply frameworks from SKILL.md
 3. Reference specific post performance as evidence
 
+### Network / outreach / BD work
+1. Fetch `05-network/network-contacts-reference.md` for the full passive audience picture
+2. Cross-reference addendum Strategic Contacts table for active engagers
+3. Use the Priority Watchlist (Tier A and B) to identify who is watching but hasn't spoken
+4. When a warm inbound contact engages publicly, promote them: add to addendum contacts table, update ◆ to ★ in network file
+
 ---
 
-## Current State (as of February 25, 2026)
+## Current State (as of March 10, 2026)
 
-- **Posts documented:** 19
+- **Posts documented:** 21
 - **All-time #1:** PPM Five Minutes (61,040 impressions, 10/10)
-- **Most recent posts:** EU Telematics TSI and Heathrow Announcement (both February 24, 2026)
-- **Priority pending action:** Leon Kong (Head of Integrated Data Strategy, GBRX) DM follow-up
-- **Next opportunity:** Follow-up aviation/airport post to consolidate Airlines and Aviation sector channel opened by Heathrow post (7% audience)
+- **Most recent posts:** AIRHART/Digital Control Tower (Mar 2, 4,616 impressions) and Scotland/Bill Reeve (Mar 6, 2,403 impressions)
+- **Priority pending actions:**
+  - Leon Kong (Head of Integrated Data Strategy, GBRX) DM still pending — bridge: his ROC quote + Bill Reeve "coordination specification"
+  - Carl Soutra (Heathrow) DM sent, awaiting response
+  - Michael Newman (Global MD Rail, Ricardo) — assess direct outreach
+- **Next content opportunity:** Aviation/airport follow-up post to consolidate Airlines and Aviation channel opened by Heathrow post; or next GBR reform post using Leon Kong quote
 - **Standing writing rules:** No em dashes, no bullet points in posts, no paraphrase qualifiers, maximum 4 hashtags, never post twice on same day
+- **Network file:** `05-network/network-contacts-reference.md` created March 10, 2026 — 300+ connections mapped with warm inbound signals, sector groupings, and post triggers
 
 ---
 
-*Last updated: February 25, 2026*
-*SKILL.md added at 00-skill/SKILL.md - read it first*
+*Last updated: March 10, 2026*
+*SKILL.md updated to v1.1 — 05-network directory added to structure*
 *GitHub is the only source of truth - /mnt/project/ files are outdated copies*

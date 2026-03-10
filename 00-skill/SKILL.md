@@ -37,10 +37,14 @@ linkedinknowledge/
 │   ├── [post-name]-post-analysis-[month]-2026.md         ← Individual post analyses
 │   └── demographics-of-followers.md
 ├── 03-execution-plans/
-└── 04-templates/
+├── 04-templates/
+└── 05-network/
+    └── network-contacts-reference.md     ← Industry connections with strategic intelligence overlay
 ```
 
 **The addendum is the single source of truth for current performance data, lessons, contacts, and rankings.** Individual post analysis files contain the full detail. The addendum contains the summary entries and cumulative lessons.
+
+**The network contacts reference** (`05-network/network-contacts-reference.md`) is the single source of truth for the broader follower and connection network. It contains the Priority Watchlist (warm inbound signals by tier), sector-grouped tables with ★/◆ signalling, post trigger identification, and a CRM-ready CSV. The addendum Strategic Contacts table covers active engagers only; the network file covers the full passive audience.
 
 ---
 
@@ -57,6 +61,9 @@ linkedinknowledge/
 
 **Task D: Update the knowledge base with new lessons or contacts**
 → Update the addendum directly, note the date
+
+**Task E: Network / contacts work**
+→ Read `05-network/network-contacts-reference.md` for the full connection picture. Cross-reference the addendum Strategic Contacts table for active engagers. Update the network file when new connections are added or warm inbound contacts are promoted to active strategic contacts.
 
 ---
 
@@ -91,6 +98,8 @@ To update the addendum, you must first fetch its current SHA:
 github:get_file_contents → 02-performance-analysis/linkedin-knowledge-base-addendum-january-2026.md
 ```
 Use the `sha` value from the response in your `create_or_update_file` call. If you omit it, the write will fail.
+
+**Third (if relevant):** If the post generated new warm inbound connections or promoted a passive follower to active contact, update `05-network/network-contacts-reference.md` accordingly.
 
 ### 3.3 Individual Post Analysis File Structure
 
@@ -338,14 +347,28 @@ Insights heard in conversation that haven't yet been confirmed as quotable or pe
 | Monitoring | 1 engagement (reaction or comment), potential noted |
 | Pending | Tagged or messaged, awaiting response |
 
+### Relationship Between the Addendum Contacts Table and the Network File
+
+These are two different layers of the same network:
+
+- **Addendum Strategic Contacts table** (`02-performance-analysis/linkedin-knowledge-base-addendum-january-2026.md`): Active engagers only. People who have reacted, commented, or been messaged. Tracked by engagement count and status. This is the action layer.
+- **Network contacts reference** (`05-network/network-contacts-reference.md`): The full passive audience. Warm inbound contacts who connected after posts but have never spoken. Sector-grouped with post trigger identification and CRM-ready CSV. This is the intelligence layer.
+
+When a warm inbound contact (◆ in the network file) engages publicly for the first time, promote them: add to the addendum Strategic Contacts table as Monitoring, and update their row in the network file from ◆ to ★.
+
 ### When to Update Contact Status
 
-Update the Strategic Contacts table when:
+Update the Strategic Contacts table (addendum) when:
 - A contact engages for the first time (add as Monitoring)
 - A contact's engagement count increases (update count)
 - A contact moves from reaction to substantive comment (note the escalation)
 - A DM conversation has been initiated (note in Status column)
 - A contact has been converted to a business conversation (flag separately)
+
+Update the network contacts reference when:
+- New connections are added (add to appropriate sector table and CSV)
+- A warm inbound contact is promoted to active strategic contact (change ◆ to ★)
+- A post trigger is identified for an existing connection
 
 ### Priority Actions to Track
 
@@ -429,10 +452,12 @@ This is an advanced technique proven by the Heathrow announcement post (February
 - [ ] Check analytics at 24 hours (not before)
 - [ ] Document in GitHub within 48 hours of posting
 - [ ] Note any pending follow-up actions (DMs, replies, pitch opportunities)
+- [ ] If new connections came in after post, check against network contacts reference and add warm inbound entries
 
 ---
 
-*Skill version: 1.0*
+*Skill version: 1.1*
 *Created: February 25, 2026*
-*Based on: 19 posts documented, 15+ months of performance data*
+*Updated: March 10, 2026 — added 05-network directory to repo structure; added Task E (network/contacts work); added network file maintenance to post documentation protocol and strategic contacts protocol*
+*Based on: 21 posts documented, 15+ months of performance data*
 *Maintainer: Update this file when new absolute rules are confirmed or major new patterns are validated*
