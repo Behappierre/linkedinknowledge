@@ -115,7 +115,7 @@ See full analysis: scotland-rail-2026-bill-reeve-post-analysis-march-2026.md
 ---
 
 ### Post 22: Helpston Level Crossing / Override Drift — INTERIM (12-hour snapshot)
-**Date:** March 10, 2026, 7:41am GMT | **Score:** 9/10 (interim — to be confirmed at Day 7)
+**Date:** March 10, 2026, 7:41am GMT | **Score:** 9.5/10 (interim — to be confirmed at Day 7)
 **Impressions at 12h:** 16,866 | **Reactions:** 51 | **Comments:** 13 | **Reposts:** 3 | **Saves:** 4 (at 4h)
 **Analytics export (4h):** Impressions 10,564 | Members reached 7,123 | Profile viewers 12 | Followers gained 2
 **Seniority (4h):** Senior 33.5% + Director 17.3% + VP 4.2% = **55.0%** | **NR:** 3.7% (~391 NR viewers at 4h — will grow)
@@ -134,13 +134,15 @@ See full analysis: scotland-rail-2026-bill-reeve-post-analysis-march-2026.md
 - **Daniel Ezban** (CEO, Smarter Airports) — reacted. Override Drift has reached airport operations relevance.
 - **Richard Simpson** (COO/CTO/GMD, Manufacturing/Transportation) — Insightful. Commissioning layer engaging.
 
+**Comment thread quality assessment:** The Flixborough reference and James Reason invocation in the first 12 hours are evidence that senior safety professionals are treating Override Drift as a serious conceptual contribution, not a LinkedIn observation. This is qualitatively different from surface engagement and is reflected in the score.
+
 **Seniority note:** 55% is below the 60% benchmark but within the 54-58% acceptable range for RAIB safety content. Entry at 21% reflects signalling engineers, safety technicians, route controllers — the correct audience.
 
 **Trajectory:** Following the Shap Landslip slow-burn pattern. 3 reposts actively distributing. 4 saves = reference-quality signal. Expect NR reach to grow significantly from 3.7% at 4h.
 
-**Score rationale (interim):** Viral tier base (8.0) + Override Drift named framework (+0.5) + Daniel Fisk connection request (+0.5) + Mike Castles functional safety validation (+0.5) + cross-industry reach Motor Vehicle Manufacturing 6.1% (+0.5) — seniority 55% within acceptable range for safety content (0) = **9.0/10 interim**.
+**Score rationale (interim):** Viral tier base (8.0) + Override Drift named framework (+0.5) + Daniel Fisk connection request (+0.5) + Mike Castles functional safety validation (+0.5) + cross-industry reach Motor Vehicle Manufacturing 6.1% (+0.5) + comment thread quality — James Reason, Flixborough, supervision failure, corporate memory, Nevis Range: senior safety professionals treating Override Drift as a genuine conceptual contribution (+0.5) — seniority 55% within acceptable range for safety content (0) = **9.5/10 interim**.
 
-**UPDATE REQUIRED at Day 7:** Confirm final impressions, NR reach, full demographics. If NR exceeds 7% add +0.5. If Daniel Fisk engages substantively in comments add +0.5 (capped at 10/10).
+**UPDATE REQUIRED at Day 7:** Confirm final impressions, NR reach, full demographics. Score may reach 10/10 if NR exceeds 7% (+0.5 additional) at confirmed final.
 
 See full analysis: helpston-override-drift-post-analysis-march-2026.md
 
@@ -174,10 +176,10 @@ Four engagements, escalating in substance. He is contributing frameworks, not ju
 ## Updated All-Time Performance Ranking
 
 | Rank | Post | Date | Impressions | Score | Key Factor |
-|------|------|------|-------------|-------|-----------| 
+|------|------|------|-------------|-------|-----------|
 | 1 | PPM Five Minutes | Jan 2026 | 61,040 | 10/10 | Industry critique + meme visual |
 | 2 | Shap Landslip (RAIB) | Dec 2024 | 37,677 | 9.5/10 | Named framework + safety |
-| — | **Helpston / Override Drift** | **Mar 2026** | **16,866+ (interim)** | **9/10 (interim)** | **Named framework + NR engagement** |
+| — | **Helpston / Override Drift** | **Mar 2026** | **16,866+ (interim)** | **9.5/10 (interim)** | **Named framework + comment thread quality + NR engagement** |
 | 3 | Electric Bus | Dec 2024 | 23,450 | 10/10 | Borrowed credibility + cross-sector |
 | 4 | Train Display | Nov 2024 | 21,659 | 9/10 | Real-time + visual proof |
 | 5 | Railway Within Railway | Jan 2026 | 14,745 | 10/10 | Complete elite engagement stack |
@@ -198,7 +200,7 @@ Four engagements, escalating in substance. He is contributing frameworks, not ju
 | 20 | Tom Bailey | Dec 2024 | 755 | 6.5/10 | Corporate amplification |
 | 21 | Energy Recruitment | Nov 2024 | 323 | 2/10 | Never amplify recruitment |
 
-*Helpston interim rank: inserted between Shap Landslip and Electric Bus by current trajectory. Final position confirmed at Day 7.*
+*Helpston interim rank: tied with Shap Landslip at 9.5/10 by score. Final impression count will determine final position. Confirmed at Day 7.*
 
 ---
 
@@ -380,7 +382,7 @@ Topic: Said at Rail Scotland 2026. Used in Post 21. Reframeable as: "not a techn
 
 **Andreas Moglestue (Chief Editor, ABB Review)** — March 2026
 > "When there is no corporate memory, employees inherit rules and regulations from their predecessors without being told the back story, and may then decide that these rules are pointless red tape that is best bypassed."
-Topic: Contributed in Post 22 comments. A precise articulation of the corporate memory failure layer of Override Drift. Silver-tier for now but elevatable to Gold if a post is built around this angle.
+Topic: Contributed in Post 22 comments. A precise articulation of the corporate memory failure layer of Override Drift. Elevatable to a post opener if the corporate memory angle is developed.
 
 **Steve White (MD, South Eastern Railway)** — February 2026
 > "GBR needs to work bottom up as well as top down, fuelled by whole systems thinking and collaboration."
@@ -470,7 +472,7 @@ Posts: 3 (2 confirmed final, 1 interim)
 
 *Addendum last updated: March 10, 2026*
 *Posts documented: 22 total (21 confirmed final, Post 22 interim)*
-*This update: Post 22 Helpston/Override Drift added as 12-hour interim. 16,866 impressions at 12h, 51 reactions, 13 comments, 3 reposts, 4 saves. Seniority 55% (within acceptable range for safety content). NR 3.7% at 4h — expect significant growth following Shap Landslip pattern. Daniel Fisk (Head of Level Crossings and Public Safety, NR) connection request on day of posting — most operationally relevant NR contact in the series. Mike Castles (Functional Safety, Ricardo Rail) reacted — second consecutive Ricardo Rail engagement. Override Drift independently validated cross-industry in comment thread (Flixborough, Nevis Range cable car). New lessons: RAIB named framework pattern third confirmation; "technology worked" inversion protects target account relationships; safety content gets saves not just reactions; named frameworks attract independent cross-industry validation in comments.*
+*This update: Post 22 interim score revised from 9.0 to 9.5. Additional adjustment: comment thread quality — James Reason, Flixborough, Nevis Range cable car, supervision failure, corporate memory — senior safety professionals treating Override Drift as a genuine conceptual contribution, not surface engagement. Scoring rationale updated in both addendum and individual analysis file.*
 *Leon Kong DM follow-up still pending*
 *Carl Soutra DM still awaiting response*
 *Michael Newman (Ricardo) — direct outreach now warranted given double-signal*
