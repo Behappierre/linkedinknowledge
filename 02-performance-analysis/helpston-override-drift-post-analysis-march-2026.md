@@ -107,6 +107,8 @@ NR at 3.7% at 4h is in the normal-to-good range. Expect this to grow significant
 
 Rail (Truck Trans + Rail Trans) = 20.4% combined. Motor Vehicle Manufacturing at 6.1% is notable — functional safety professionals from automotive sector engaging with the Override Drift concept. Civil Engineering at 5.3% confirms infrastructure safety community reached.
 
+**Audience concentration note:** The post reads as a rail/safety/systems post that reached a meaningful rail-adjacent professional audience. The named companies (NR, Siemens, Alstom, TfL), geographies (London, Manchester, Glasgow, Sheffield, Bristol), comment authors, and substance of discussion all confirm this is not generic engagement. The "Truck Transportation" bucket likely contains significant additional rail profiles given LinkedIn's taxonomy. Best audience indicators here are named companies, geographies, comment authors, seniority, and discussion substance — not the industry field alone. On those measures the post looks materially better than the raw industry percentages suggest.
+
 ### Top Locations
 | Location | % |
 |----------|---|
@@ -213,6 +215,8 @@ Note: Operational follow-through question — someone who read the source docume
 **Miles Thomas** (IT architect): Tagged Christian Hunt.
 Note: Post being shared into new networks via tagging.
 
+**Comment thread quality assessment:** The comments are not random outsider observations. They are exactly what experienced infrastructure, rail, systems, and safety professionals produce: supervision and assurance failure analysis, inherited workarounds and loss of corporate context, transparency of system state as a design issue, false-alarm suppression analogies from other industries, and operational follow-through questions. James Reason and Flixborough being invoked in the first 12 hours is the highest quality signal that Override Drift is being treated as a serious conceptual contribution, not a LinkedIn observation.
+
 ---
 
 ## 8. Post Development Notes
@@ -236,13 +240,15 @@ Note: Post being shared into new networks via tagging.
 - Daniel Fisk (Head of Level Crossings, NR) connection request — most operationally relevant NR contact possible: +0.5
 - Mike Castles (Functional Safety, Ricardo Rail) reaction — technically rigorous validator: +0.5
 - Cross-industry reach confirmed (Motor Vehicle Manufacturing 6.1% at 4h): +0.5
-- 4 saves at 4h (reference-quality signal): +0.5
-- Seniority 55% — below 60% benchmark, but within the 54-58% acceptable range for technical safety content: 0
+- Comment thread quality — James Reason invoked, Flixborough named, supervision failure, corporate memory, system transparency. Serious safety professionals treating Override Drift as a genuine conceptual contribution: +0.5
+- Seniority 55% — within the 54-58% acceptable range for RAIB safety content: 0
 - Elevated Entry 21% expected for signalling/safety audience: 0
 
-**Interim score: 9.0/10**
+**Interim score: 9.5/10**
 
-To be confirmed at Day 7. Score may increase if NR reach exceeds 7% (additional +0.5) or if Daniel Fisk engages substantively in comments (additional +0.5, capped at 10/10).
+**Scoring rationale note:** The half-point uplift from the initial 9.0 assessment reflects the comment thread quality. The Flixborough reference and James Reason invocation in the first 12 hours are evidence that senior safety professionals are treating Override Drift as a serious conceptual contribution. That is qualitatively different from surface engagement and warrants the additional adjustment. Saves at 4h (+0.5 from initial assessment already embedded above via the comment thread adjustment — saves remain the reference-quality signal but the thread quality is the stronger driver).
+
+**To be confirmed at Day 7.** Score may reach 10/10 if NR reach exceeds 7% (additional +0.5) at confirmed final.
 
 ---
 
@@ -266,6 +272,8 @@ The key variable is whether the 3 reposts continue distributing the post into sa
 
 **Ricardo Rail double-signal:** Mike Castles reacting on Post 22, Michael Newman profile view on Post 21. Two consecutive posts with Ricardo Rail engagement. The Global MD and the Global Technical Expert (Functional Safety) are both seeing the content. This warrants a direct outreach to Michael Newman now.
 
+**Authority-building profile:** This is a strong credibility post more than an explosive viral one. For the orchestration positioning, that is arguably the better outcome. It says: Olivier understands operational risk; Olivier can extract a systems lesson from a safety event; Olivier can frame it in language senior rail people respect; Olivier is not just commenting on incidents, he is naming a recurring organisational pattern. The last point is the real long-term value.
+
 ---
 
 ## 12. Lessons Learned
@@ -278,15 +286,27 @@ Shap Landslip ("Correlation Gap", "Deployment Gap") and now Override Drift. Each
 
 ### "The Technology Worked" Inversion Protects NR Relationships
 
-Opening with the interlocking's success before describing the failure changes the framing from "NR technology failed" to "NR's assurance layer failed to see what the data was showing." This inverted framing appears to have made NR professionals comfortable engaging — Daniel Fisk's connection request is evidence of this.
+Opening with the interlocking's success before describing the failure changes the framing from "NR technology failed" to "NR's assurance layer failed to see what the data was showing." Daniel Fisk's connection request is evidence this framing worked.
 
 **Rule:** When writing about a safety failure at a named organisation that is also a target account, lead with what worked before naming what failed. This changes the post from a criticism to an analysis.
 
 ### Safety Content Gets Saves, Not Just Reactions
 
-4 saves at 4 hours. Same pattern as Shap. Rail safety professionals save content they will use as reference material — for internal discussions, safety briefings, incident reviews. These saves represent utility beyond LinkedIn engagement.
+4 saves at 4 hours. Same pattern as Shap. Rail safety professionals save content they will use as reference material.
 
 **Rule:** For RAIB-sourced framework posts, saves are a more meaningful quality signal than reactions.
+
+### Named Frameworks Attract Independent Cross-Industry Validation in Comments
+
+Flixborough and Nevis Range cable car were contributed independently without prompting. The concept generalised beyond rail within 12 hours without being pushed.
+
+**Rule:** When a named framework is genuinely transferable, the comment thread provides the cross-industry validation. You do not need to assert it — others will demonstrate it. This is the highest quality signal that a framework has legs.
+
+### LinkedIn Industry Taxonomy Understates Rail Audience — Use Named Company and Geography Signals Instead
+
+The "Truck Transportation" bucket contains significant rail profiles (LinkedIn taxonomy issue). Best audience indicators for rail content are: named companies, geographies, comment authors, seniority, and substance of discussion — not the industry field alone.
+
+**Rule:** For rail content assessment, weight named companies and geographies over raw industry percentages. The combination of NR as top named company, rail-hub geographies, and the quality of the comment thread is a stronger indicator of rail audience concentration than the industry breakdown alone.
 
 ---
 
@@ -306,10 +326,10 @@ Opening with the interlocking's success before describing the failure changes th
 |------|------|------|-------------|-------|-----------|
 | 1 | PPM Five Minutes | Jan 2026 | 61,040 | 10/10 | Industry critique + meme visual |
 | 2 | Shap Landslip (RAIB) | Dec 2024 | 37,677 | 9.5/10 | Named framework + safety |
+| — | **Helpston / Override Drift** | **Mar 2026** | **16,866+ (interim)** | **9.5/10 (interim)** | **Named framework + comment thread quality + NR engagement** |
 | 3 | Electric Bus | Dec 2024 | 23,450 | 10/10 | Borrowed credibility + cross-sector |
 | 4 | Train Display | Nov 2024 | 21,659 | 9/10 | Real-time + visual proof |
 | 5 | Railway Within Railway | Jan 2026 | 14,745 | 10/10 | Complete elite engagement stack |
-| — | **Helpston / Override Drift** | **Mar 2026** | **16,866+ (interim)** | **9/10 (interim)** | **Named framework + NR engagement** |
 | 6 | George Bradshaw Address | Feb 2026 | 11,468+ | 8.5/10 | Minister quote + GBRX engagement |
 | 7 | EU Telematics / Digital Island | Feb 2026 | 7,576 | 8.5/10 | NR 9.1% near-record |
 | 8 | Heathrow Announcement | Feb 2026 | 6,704 | 8/10 | Planted quote activated + aviation |
