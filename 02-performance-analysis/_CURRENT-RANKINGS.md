@@ -1,256 +1,223 @@
 # Current LinkedIn Post Rankings
-## Single Source of Truth - Updated March 1, 2026
+## Single Source of Truth — Updated March 20, 2026
 
-**⚠️ CORRECTION LOG:**
-- February 6, 2026: Groundhog Day corrected from 12,450 to 1,836 (LinkedIn analytics verification)
-- February 18, 2026: All figures updated from feed data. James/EMR (16,623) and George Bradshaw (11,504) inserted. Audenshaw updated to final (1,446).
-- March 1, 2026: Both Feb 24 posts added with final 7-day data. EU Telematics TSI (#11, 6,467, 8/10). Heathrow Announcement (#12, 6,034, 7.5/10). Titles confirmed.
+**IMPORTANT:** This file tracks all confirmed posts. For full post summaries, lessons, and quotable database, read the addendum:
+`02-performance-analysis/linkedin-knowledge-base-addendum-january-2026.md`
 
----
-
-## 📊 All-Time Rankings (Complete — 24 Posts)
-
-| Rank | Post Title | Date | Impressions | Reactions | Comments | Reposts | Senior % | Score | Status |
-|------|------------|------|-------------|-----------|----------|---------|----------|-------|--------|
-| **1** | **PPM "On Time (ish)"** | Jan 29, 2026 | **87,115** | 121 | 53 | 1 | 56.8% | 10/10 | MEGA-VIRAL |
-| 2 | Copenhagen Airport | Feb 3, 2026 | 42,653 | 46 | 27 | 1 | 59.4% | 10/10 | VIRAL |
-| 3 | Shap Landslip RAIB | Jan 2026 | 37,726 | 84 | 11 | 3 | 53% | 9.5/10 | VIRAL |
-| 4 | Electric Bus | Dec 2024 | 23,486 | 30 | 15 | 0 | ~60% | 10/10 | VIRAL |
-| 5 | Train Display | Nov 2024 | 21,713 | 39 | 15 | 0 | 57% | 9/10 | VIRAL |
-| 6 | EMR Train Manager (James) | Feb 7, 2026 | 16,623 | 168 | 16 | 4 | 57% | 9/10 | STRONG |
-| 7 | Railway Within Railway | Jan 2026 | 16,319 | 115 | 17 | 3 | ~58% | 9/10 | STRONG |
-| 8 | George Bradshaw Address | Feb 17, 2026 | 11,504 | 60 | 11 | 3 | 60% | 8.5/10 | STRONG |
-| 9 | Netcompany Joining | May 2025 | 10,153 | 193 | 87 | 0 | N/A | 7/10* | CORPORATE |
-| 10 | BEMU | Jan 2026 | 6,897 | 60 | 27 | 3 | ~60% | 8.5/10 | PRECISION |
-| **11** | **EU Telematics TSI / Digital Island** | **Feb 24, 2026** | **6,467** | **46** | **3** | **1** | **55%** | **8/10** | **PRECISION** |
-| **12** | **Heathrow Announcement** | **Feb 24, 2026** | **6,034** | **9** | **1** | **0** | **62%** | **7.5/10** | **PRECISION** |
-| 13 | Carol Service | Dec 2024 | 4,859 | 36 | 7 | 0 | ~60% | 8/10 | PERSONAL |
-| 14 | Rail Forum (Toufic) | Oct 2025 | 3,928 | 66 | 5 | 0 | ~60% | 8/10 | STRONG |
-| 15 | Rail Conference (Steve) | Nov 2024 | 2,651 | 32 | 2 | 0 | 61% | 9/10 | GOOD |
-| 16 | Groundhog Day | Jan 19, 2026 | 1,850 | 13 | 3 | 0 | 64% | 3/10 | FAILED |
-| 17 | Manufacturing Summit | Nov 2024 | 1,584 | 20 | 4 | 0 | 65% | 8/10 | PRECISION |
-| 18 | 48 Hours Fleet | Nov 2024 | 1,570 | 12 | 3 | 0 | 66.3% | 8.5/10 | PRECISION |
-| 19 | LARA Hackathon | Nov 2024 | 1,549 | 41 | 5 | 1 | ~60% | 8/10 | PRECISION |
-| 20 | Audenshaw Derailment | Feb 4, 2026 | 1,446 | 10 | 0 | 0 | TBD | 6/10 | FINAL |
-| 21 | Trade Show | Nov 2024 | 1,350 | 33 | 0 | 0 | 60.4% | 7/10 | STANDARD |
-| 22 | Tom Bailey (repost) | Dec 2024 | 854 | 10 | 1 | 0 | ~30% | 6/10 | REPOST |
-| 23 | Belgium ETCS (repost) | Feb 2026 | 459 | 7 | 1 | 0 | ~30% | 5/10 | REPOST |
-| 24 | Energy Recruitment (repost) | Dec 2024 | 342 | 5 | 0 | 0 | ~30% | 2/10 | REPOST |
-
-**Top 10 average (excluding corporate): 26,404 impressions**
-
-*Note: Netcompany joining post scored differently — corporate announcement serving relationship transition, not thought leadership content
+Individual post analysis files are in `02-performance-analysis/` — named `[topic-slug]-post-analysis-[month]-[year].md`.
 
 ---
 
-## 🆕 Feb 24, 2026 — Two Posts, Same Day (New Documented Pattern)
+## ⚠️ Correction & Update Log
 
-**This is the first time two posts were published on the same day. Both capped at ~6K impressions.**
+| Date | Change |
+|------|--------|
+| Feb 6, 2026 | Groundhog Day corrected from 12,450 to 1,836 |
+| Feb 18, 2026 | James/EMR and George Bradshaw inserted. Audenshaw finalised at 1,446. |
+| Mar 1, 2026 | EU Telematics TSI and Heathrow Announcement added. Same-day penalty documented. |
+| Mar 20, 2026 | Full rebuild. Posts 20-24 added (AIRHART/DCT, Scotland/Bill Reeve, Helpston/Override Drift, Underground/Solar, Daryn McCombe/GWR). Helpston confirmed at 50,484 — moves to #2 all-time. All impression figures corrected against addendum and feed counters. Post 25 (Andy Lord/TfL electric bus) noted — too early to rank. |
 
-### EU Telematics TSI / "Building a Digital Island?"
-**6,467 impressions | 55% senior | Network Rail 9% (RECORD) | Alstom+Siemens+Hitachi = 10%**
+---
 
-- Posted 7:47 AM — first of the two
-- Clean borrowed credibility: Alberto Mazzola (CER Executive Director)
-- Original governance insight: "UK doesn't have one digital architecture question. It has several, not yet asked in the same room."
-- Slow-burn confirmed: 3,255 at 24h → 6,467 final (doubled)
-- **Network Rail 9% = record high for any post ever**
-- Rolling stock manufacturer sweep: Alstom 4% + Siemens 3% + Hitachi 3% = exactly the stakeholders affected by TSI divergence
-- Leon Kong (GBRX) tagged directly in self-comment on ERA Ontology alignment — no public response yet, DM outstanding
-- 3 substantive comments including Cliff Brown (Capital Programmes) challenge question Day 5
-- 55% senior reach below benchmark — technical topic correctly attracts engineers (Entry 22%)
-- ⚠️ Would likely have reached 12K-15K if posted on a different day from Heathrow
-- See: [eu-telematics-tsi-post-analysis-february-2026.md](eu-telematics-tsi-post-analysis-february-2026.md)
+## 📊 All-Time Rankings (Complete — 28 Posts)
 
-### Heathrow Announcement
-**6,034 impressions | 62% senior | Network Rail 7.2% | Aviation 7% | AtkinsRéalis 2%**
+Figures sourced from LinkedIn analytics exports and feed counters. Feed counters noted where they exceed export figures (posts still growing).
 
-- Posted 9:23 AM — second of the two
-- Withheld Heidi Alexander (Minister of State) quote from Feb 10 Bradshaw Address, released on Heathrow announcement day
-- Corporate announcement framing ("Today, Netcompany announced") capped algorithmic distribution
-- Only 1 comment despite strong GBR targeting — engagement question didn't open debate
-- Excellent institutional targeting: NWR 7.2% + TfL 2.5% + Heathrow 2% + AtkinsRéalis 1.6%
-- ⚠️ Would likely have reached 15K-20K if stripped of corporate announcement framing and posted as standalone insight
-- See: [feb24-2026-post-analysis.md](feb24-2026-post-analysis.md)
+| Rank | Post Title | Date | Impressions | Reactions | Comments | Score | Status |
+|------|------------|------|-------------|-----------|----------|-------|--------|
+| **1** | **PPM "On Time (ish)"** | Jan 29, 2026 | **87,246** | 121 | 53 | 10/10 | MEGA-VIRAL |
+| **2** | **Helpston Level Crossing / Override Drift** | Mar 10, 2026 | **50,484** (feed, growing) | 136 | 20 | 9.5/10 | VIRAL |
+| 3 | Best Planned, First Served (Copenhagen Airport) | Feb 2, 2026 | 42,905 | 48 | 27 | 9.0/10 | VIRAL |
+| 4 | Shap Landslip RAIB | Dec 2024 | 37,765 | 84 | 11 | 9.5/10 | VIRAL |
+| 5 | Electric Bus | Dec 2024 | 23,515 | 30 | 15 | 10/10 | VIRAL |
+| 6 | Train Display | Nov 2024 | 21,729 | 39 | 15 | 9/10 | VIRAL |
+| 7 | George Bradshaw Address | Feb 17, 2026 | 20,983 | 96 | 20 | 8.5/10 | STRONG |
+| 8 | EMR Train Manager (James) | Feb 7, 2026 | 17,658 | 178 | 16 | 9.0/10 | STRONG |
+| 9 | Railway Within Railway | Jan 22, 2026 | 14,745 | 101 | 17 | 10/10 | STRONG |
+| 10 | Netcompany Joining* | May 2025 | 10,153 | 193 | 87 | 7/10 | CORPORATE |
+| 11 | EU Telematics TSI / Digital Island | Feb 24, 2026 | 7,576 | 54 | 3 | 8.5/10 | PRECISION |
+| 12 | Heathrow Announcement | Feb 24, 2026 | 6,777 | 12 | 1 | 8/10 | PRECISION |
+| 13 | BEMU / East West Rail | Jan 5, 2026 | 6,620 | 59 | 27 | 9/10 | PRECISION |
+| 14 | AIRHART / Digital Control Tower / GBR | Mar 2, 2026 | 5,156 | 39 | 3 | 7.5/10 | STRONG |
+| 15 | Rail Forum (Toufic / Rubik's Cube) | Oct 2025 | 3,895 | 66 | 5 | 8.5/10 | STRONG |
+| 16 | Carol Service | Dec 2024 | 3,810 | 36 | 7 | 8/10 | PERSONAL |
+| 17 | Scotland Rail 2026 / Bill Reeve | Mar 6, 2026 | 3,181 | 36 | 2 | 7.0/10 | PRECISION |
+| 18 | Rail Conference (Steve White) | Nov 2024 | 2,604 | 32 | 2 | 9/10 | GOOD |
+| 19 | Manufacturing Summit | Nov 2024 | 1,560 | 20 | 4 | 8.5/10 | PRECISION |
+| 20 | 48 Hours Fleet | Nov 2024 | 1,536 | 12 | 3 | 8.5/10 | PRECISION |
+| 21 | LARA Hackathon | Nov 2024 | 1,481 | 41 | 5 | 8/10 | PRECISION |
+| 22 | Audenshaw Derailment RAIB | Feb 4, 2026 | 1,446 | 10 | 0 | 6/10 | BULLET PENALTY |
+| 23 | Trade Show | Nov 2024 | 1,350 | 33 | 0 | 7/10 | STANDARD |
+| 24 | Groundhog Day | Jan 19, 2026 | 1,088 | 13 | 3 | 6.5/10 | PARAPHRASE PENALTY |
+| 25 | Underground / Solar Headline | Mar 16, 2026 | 855 | 1 | 1 | 4.5/10 | SUNDAY POSTING |
+| 26 | Daryn McCombe / GWR / RIC26 | Mar 18, 2026 | 806 (provisional) | 10 | 0 | TBD/6.0 | PROVISIONAL — check Mar 25 |
+| 27 | Tom Bailey (repost) | Dec 2024 | 755 | 10 | 1 | 6.5/10 | REPOST |
+| 28 | Energy Recruitment (repost) | Nov 2024 | 323 | 5 | 0 | 2/10 | REPOST |
 
-**Combined lesson documented: Never post twice on the same day. When forced (e.g. unexpected major announcement), first post always outperforms second. Estimated combined cost: ~20K-25K impressions lost.**
+*Netcompany Joining scored differently — corporate announcement serving relationship transition, not thought leadership.
+
+**Post 25 (Andy Lord / TfL / Electric Bus at scale, Mar 20, 2026): Too early to rank. Check analytics at 48h.**
+**Post 26 (Daryn McCombe / GWR / RIC26): Provisional at 2 days. Reassess March 25.**
 
 ---
 
 ## 🎯 Performance Tiers (Current)
 
 ### Tier 1: Mega-Viral (80K+)
-- **PPM "On Time (ish)"**: 87,115 impressions
-- Pattern: Industry critique + humor + named framework + cross-industry question
+- PPM "On Time (ish)": **87,246** impressions
+- Pattern: Industry critique + humour + named framework + cross-industry question
 
-### Tier 2: Viral (35K-45K)
-- **Copenhagen Airport**: 42,653 impressions
-- **Shap Landslip**: 37,726 impressions
-- Pattern: Cross-sector insight OR regulatory analysis with named frameworks
+### Tier 2: Viral (35K-55K)
+- Helpston / Override Drift: **50,484** (still growing at 10 days)
+- Best Planned, First Served: **42,905**
+- Shap Landslip: **37,765**
+- Pattern: Named framework from RAIB OR cross-sector borrowed credibility
 
 ### Tier 3: Strong Viral (20K-25K)
-- **Electric Bus**: 23,486 impressions
-- **Train Display**: 21,713 impressions
-- Pattern: Borrowed credibility + cross-sector appeal OR real-time observation + visual proof
+- Electric Bus: **23,515**
+- Train Display: **21,729**
+- George Bradshaw Address: **20,983**
+- Pattern: Borrowed credibility + cross-sector appeal OR multi-source framework post
 
 ### Tier 4: Strong Success (15K-20K)
-- **EMR Train Manager (James)**: 16,623 impressions
-- **Railway Within Railway**: 16,319 impressions
-- Pattern: Named hero + systems insight OR conference insight + borrowed credibility
+- James / EMR: **17,658** (record 178 reactions)
+- Railway Within Railway: **14,745**
+- Pattern: Named Hero + systems pivot OR conference insider with Scotland geography
 
-### Tier 5: Corporate/Strong (10K-15K)
-- **George Bradshaw Address**: 11,504 impressions
-- **Netcompany Joining**: 10,153 impressions
-- Pattern: Multi-source borrowed credibility + named framework OR major career announcement
+### Tier 5: Corporate / Precision Strong (7K-15K)
+- Netcompany Joining: 10,153 (corporate)
+- EU Telematics TSI: **7,576** (NR 9.1% record, slow-burn)
+- Heathrow Announcement: **6,777** (planted quote activation + aviation sector opened)
+- BEMU: **6,620** (cross-sector precision)
+- Pattern: Technical depth, policy analysis, or corporate announcement with precision targeting
 
-### Tier 6: Strategic Precision (5K-8K)
-- **BEMU**: 6,897 impressions
-- **EU Telematics TSI**: 6,467 impressions — NWR record 9%, manufacturer sweep, slow-burn
-- **Heathrow Announcement**: 6,034 impressions — corporate ceiling, exceptional institutional reach
-- Pattern: Technical depth OR corporate announcement. Both capped by same-day posting Feb 24.
+### Tier 6: Strategic Precision (3K-6K)
+- AIRHART/DCT: **5,156**
+- Rail Forum: 3,895
+- Carol Service: 3,810
+- Scotland/Bill Reeve: **3,181** (Friday ceiling)
+- Pattern: Conference + borrowed credibility OR personal+professional balance
 
-### Tier 7: Solid Performance (3K-5K)
-- **Carol Service**: 4,859 impressions
-- **Rail Forum**: 3,928 impressions
-- Pattern: Personal + professional balance OR conference insights
+### Tier 7: Good Baseline (2K-3K)
+- Rail Conference Steve White: 2,604
 
-### Tier 8: Good Baseline (2K-3K)
-- **Rail Conference**: 2,651 impressions
+### Tier 8: Standard Precision (1K-2K)
+- Manufacturing: 1,560 | 48 Hours: 1,536 | LARA: 1,481
+- Audenshaw: 1,446 (BULLET POINTS PENALTY — topic had 37K potential)
+- Trade: 1,350 | Groundhog Day: 1,088 (PARAPHRASE PENALTY — 23x reduction)
 
-### Tier 9: Standard Performance (1.5K-2K)
-- **Groundhog Day**: 1,850 (PARAPHRASE PENALTY)
-- **Manufacturing**: 1,584 | **48 Hours**: 1,570 | **LARA**: 1,549
-- **Audenshaw**: 1,446 (BULLET POINTS PENALTY)
-
-### Tier 10: Standard (1K-1.5K)
-- **Trade**: 1,350
-
-### Tier 11: Underperforming (<1K)
-- **Reposts**: 854, 459, 342
+### Tier 9: Underperforming (<1K)
+- Underground/Solar: 855 (Sunday + off-brand)
+- Daryn McCombe/GWR: 806 provisional (0 comments at 2 days)
+- Tom Bailey repost: 755 | Energy Recruitment repost: 323
 
 ---
 
-## 🚨 CRITICAL FINDINGS: Structural Failure Patterns
+## 🚨 Structural Failure Patterns (Proven With Data)
 
-### The Paraphrase Penalty (PROVEN)
-Clean borrowed credibility posts average **42,393 impressions**.
-Qualified borrowed credibility (Groundhog Day): **1,850 impressions**.
-**Penalty: 23x reduction.**
+### 1. The Paraphrase Penalty (26x reduction)
+Clean borrowed credibility posts average ~35,000 impressions.
+"Not the exact word but I paraphrase" (Groundhog Day): **1,088 impressions**.
 
-### The Bullet Point Penalty (PROVEN)
-Prose post on RAIB topic (Shap): **37,726 impressions**.
-Bullet point post on RAIB topic (Audenshaw): **1,446 impressions**.
-**Penalty: 26x reduction.**
+### 2. The Bullet Point Penalty (26x reduction)
+Shap Landslip (prose, RAIB topic): **37,765 impressions**.
+Audenshaw (bullets, RAIB topic): **1,446 impressions**.
 
-### The Same-Day Posting Penalty (NEW — Feb 24, 2026)
-Both posts capped at ~6K. Estimated combined loss: **20K-25K impressions**.
-**Rule: Never post twice on the same day. If forced, delay second post 24 hours.**
+### 3. The Same-Day Posting Penalty
+EU Telematics + Heathrow posted same day (Feb 24): both capped at ~6-7K.
+Estimated combined loss: 20K-25K impressions.
+**Rule: Never post twice on the same day by choice.**
 
-### The Corporate Announcement Ceiling (DOCUMENTED)
-Posts containing "Today, [Company] announced" cap at 6K-10K regardless of surrounding content quality.
-Heathrow (Feb 24): 6,034. Tom Bailey: 854. Belgium ETCS repost: 459.
-**Rule: Strip corporate announcement framing. Frame as operational insight instead.**
+### 4. The Sunday Posting Ceiling
+Underground/Solar (Sunday 8:31am): **855 impressions** despite 64.1% seniority.
+The post had a real news hook and quality audience but no distribution window.
+**Rule: Never post on Sunday.**
 
----
+### 5. The Friday Ceiling
+Scotland/Bill Reeve (Friday): **3,181 impressions** — strong content but ceiling confirmed.
+**Rule: Never post precision content on a Friday.**
 
-## 📈 Named Frameworks Performance
-
-| Framework | Post | Impressions |
-|-----------|------|-------------|
-| "The Sub-5-Minute Blind Spot" | PPM | 87,115 |
-| "Best Planned, First Served" | Copenhagen | 42,653 |
-| "The Correlation Gap" / "The Deployment Gap" | Shap | 37,726 |
-| "Three Layers" (Institutional / Operational / Digital) | George Bradshaw | 11,504 |
-
-**Average: 44,999 impressions per named framework post**
-
-**Upcoming opportunity:** The EU Telematics TSI post contains the "digital island" concept that was not crystallised as a named framework. A follow-up post with "The Digital Island Problem" as a named framework could achieve Tier 2-3 performance.
+### 6. Corporate Announcement Ceiling
+Posts with "Today, [Company] announced" framing cap at 6K-10K regardless of content quality.
+**Rule: Strip corporate framing. Frame as operational insight instead.**
 
 ---
 
-## 💼 Business Development Outcomes
+## 📈 Named Frameworks — Performance Record
 
-**From EU Telematics TSI (Feb 24):**
-- Leon Kong (GBRX Head of Integrated Data Strategy) — tagged directly on ERA Ontology question; DM outstanding
-- Gregor Erbach (EU Parliament Research Service) — cross-Channel policy credibility
-- Darren Kemp (RSSB Lead C&S Engineer) — standards body engagement
-- Cliff Brown (Capital Programmes) — challenge question creating debate thread
-- Network Rail 9% = ~582 viewers = highest NR penetration ever recorded
-- Rolling stock manufacturers (Alstom, Siemens, Hitachi) engaged with TSI divergence implications
+| Framework | Post | Impressions | Real-World Uptake |
+|-----------|------|-------------|------------------|
+| "The Sub-5-Minute Blind Spot" | PPM | 87,246 | Transport Minister + Roger Ford engaged |
+| "Override Drift" | Helpston | 50,484 | Cited at Global Level Crossing Network meeting within 24h |
+| "Best Planned, First Served" | Copenhagen | 42,905 | Sector vocabulary adopted |
+| "The Correlation Gap" / "The Deployment Gap" | Shap | 37,765 | — |
+| "Three Layers" (Institutional / Operational / Digital) | George Bradshaw | 20,983 | Steve White extended to five-layer model |
 
-**From Heathrow Announcement (Feb 24):**
-- MD from Burton Upon Trent — only comment, worth following up
-- Heathrow 2% = ~121 Heathrow viewers saw post about their own orchestration challenge
-- Network Rail 7.2% + TfL 2.5% saw the GBR digital layer parallel
+**Average: 47,873 impressions per named framework post.**
+**Combined impressions: 239,363.**
 
----
-
-## 📊 Demographic Consistency
-
-| Post | Senior % | Notable Company Reach |
-|------|----------|----------------------|
-| PPM | 56.8% | Industry-wide |
-| Copenhagen | 59.4% | Airport operations |
-| EU Telematics TSI | 55% | NWR 9% (record), Alstom+Siemens+Hitachi 10% |
-| Heathrow Announcement | 62% | NWR 7.2%, TfL 2.5%, Heathrow 2% |
-| George Bradshaw | 60% | DfT 1.1%, GBRX |
-| BEMU | ~60% | East West Rail, GWR |
-| Groundhog | 64% | High % but catastrophically low volume |
-
-**Note:** Technical/regulatory posts (EU Telematics: 55%) attract engineers at Entry level, pulling senior % below 60-66% target. This is appropriate audience composition, not a targeting failure.
+Named frameworks are the highest-ROI content investment. When practitioners use your vocabulary, you own the category.
 
 ---
 
-## 🎯 Content Strategy Recommendations (Current)
+## 💼 Business Development Outcomes (Documented)
 
-### Monthly Mix (Proven Formula)
-
-**Week 1: Industry Critique + Humor** (Target: 50K-80K)
-- PPM formula: Metric everyone experiences + humor + named framework
-
-**Week 2: Cross-Sector Insight** (Target: 25K-40K)
-- Copenhagen/Electric Bus formula: Adjacent sector + borrowed credibility + "I learned" frame
-
-**Week 3: Named Hero or Strategic Precision** (Target: 15K-20K or 5K-8K)
-- Named Hero: James formula / Precision: BEMU formula
-
-**Week 4: Regulatory Analysis** (Target: 25K-40K, slow-burn)
-- Shap formula: RAIB quote opener + named frameworks + prose + cross-sector question
-
-**NEVER:**
-- Two posts on the same day
-- Qualify borrowed credibility
-- Use bullet points in post body
-- Post corporate announcement ("Today, [Company] announced")
-- Post without engagement question
+| Outcome | Source Post | Contact |
+|---------|-------------|---------|
+| Direct BD inquiry | PPM Five Minutes | Samuel Woolley, Head of Operations, RDG |
+| Override Drift cited at Global Level Crossing Network meeting | Helpston | Allan Spence (independent chair) |
+| EMR staff recognition triggered | James/EMR | Lynsey Buxton (Head of Employee Communications, EMR) |
+| GBRX Head of Integrated Data Strategy engaged | George Bradshaw | Leon Kong (DM pending) |
+| EU Parliament Climate Research engaged | EU Telematics | Gregor Erbach |
+| Heathrow employees saw post about their own partner | Heathrow | ~58 Heathrow viewers |
+| Daniel Fisk (NR Head of Level Crossings) connection request | Helpston | Daniel Fisk |
+| Ricardo double-signal | Helpston + Scotland | Mike Castles + Michael Newman |
 
 ---
 
-## 🔄 Update Log
+## 📊 Network Rail Reach by Post
 
-| Date | Changes |
-|------|---------|
-| Feb 6, 2026 | CRITICAL: Groundhog Day corrected 12,450 → 1,836 |
-| Feb 18, 2026 | James/EMR (16,623) and George Bradshaw (11,504) inserted. Audenshaw finalised at 1,446. Bullet point penalty documented. |
-| Mar 1, 2026 | Both Feb 24 posts finalised: EU Telematics TSI (6,467, 8/10, NWR record 9%) and Heathrow Announcement (6,034, 7.5/10). Same-day penalty documented as new structural failure pattern. |
-
----
-
-## 🔗 Related Documentation
-
-- [EU Telematics TSI Post](eu-telematics-tsi-post-analysis-february-2026.md) — NWR record, slow-burn, digital island
-- [Heathrow Announcement Post](feb24-2026-post-analysis.md) — Corporate ceiling, withheld quote strategy
-- [PPM Post](ppm-five-minutes-post-analysis-january-2026.md) — Mega-viral breakdown
-- [Copenhagen Post](copenhagen-airport-post-analysis-february-2026.md) — Cross-sector success
-- [James/EMR Post](emr-train-manager-james-post-analysis-february-2026.md) — Named hero pattern
-- [George Bradshaw Post](george-bradshaw-address-post-analysis-february-2026.md) — Three layers framework
-- [Audenshaw Post](audenshaw-raib-post-analysis-february-2026.md) — Bullet point penalty
-- [Groundhog Day Failure](GROUNDHOG-DAY-FAILURE-ANALYSIS-FEB-2026.md) — Paraphrase penalty
-- [Shap Landslip](CRITICAL-UPDATE-SHAP-LANDSLIP-RANKING.md) — Viral RAIB formula
-- [Quick Reference Formula](QUICK-REFERENCE-VIRAL-FORMULA-FEBRUARY-2026.md)
+| Post | NR % | Approx NR viewers | Notes |
+|------|------|-------------------|-------|
+| Railway Within Railway | ~10% | ~1,475 | Record holder by % |
+| EU Telematics | 9.1% | ~690 | Near-record % |
+| George Bradshaw | 8.4% | ~962 | — |
+| James/EMR | 7.9% | ~1,395 | Highest for human interest post |
+| Heathrow | 6.7% | ~454 | — |
+| Scotland/Bill Reeve | 6.6% | ~210 | Good for Friday post |
+| BEMU | 6.2% | ~410 | — |
+| Daryn McCombe/GWR | 6.3% | ~51 | Provisional |
+| AIRHART/DCT | 4.5% | ~232 | — |
+| Helpston | 4.2% | ~2,120 | **Largest absolute NR audience — 4.2% of 50K** |
 
 ---
 
-*This is the single source of truth for post rankings.*
-*Maintained for: Olivier Andre, Netcompany Partner*
-*Last updated: March 1, 2026*
+## 🔗 Individual Post Analysis Files
+
+| Post | Analysis File |
+|------|--------------|
+| Helpston/Override Drift | helpston-override-drift-post-analysis-march-2026.md |
+| Scotland/Bill Reeve | scotland-rail-2026-bill-reeve-post-analysis-march-2026.md |
+| AIRHART/DCT | airhart-digital-control-tower-post-analysis-march-2026.md |
+| EU Telematics TSI | eu-telematics-tsi-post-analysis-february-2026.md |
+| Heathrow Announcement | heathrow-announcement-post-analysis-february-2026.md |
+| George Bradshaw Address | george-bradshaw-address-post-analysis-february-2026.md |
+| James/EMR | james-train-manager-emr-post-analysis-february-2026.md |
+| Best Planned, First Served | best-planned-first-served-post-analysis-february-2026.md |
+| Audenshaw RAIB | audenshaw-raib-post-analysis-february-2026.md |
+| Railway Within Railway | railway-within-railway-post-analysis-january-2026.md |
+| PPM Five Minutes | ppm-five-minutes-post-analysis-january-2026.md |
+| BEMU | bemu-post-analysis-january-2026.md |
+| Underground/Solar | underground-solar-headline-post-analysis-march-2026.md |
+| Daryn McCombe/GWR | daryn-mccombe-gwr-ric26-post-analysis-march-2026.md |
+| Rail Conference (Steve White) | rail-conference-steve-white-november-2024.md |
+| Shap Landslip | CRITICAL-UPDATE-SHAP-LANDSLIP-RANKING.md |
+
+---
+
+*Single source of truth for post rankings.*
+*Last updated: March 20, 2026*
+*Total posts ranked: 28 | Post 25 (Andy Lord/TfL/electric bus) and Post 26 (Daryn McCombe/GWR) pending final assessment*
+*#1 all-time: PPM Five Minutes (87,246 impressions)*
+*#2 all-time: Helpston/Override Drift (50,484 and growing)*
+*For full post data, lessons, and quotable database: linkedin-knowledge-base-addendum-january-2026.md*
