@@ -13,14 +13,17 @@ Before doing anything - drafting a post, documenting analytics, answering a stra
 
 ```
 1. github:get_file_contents → 02-performance-analysis/linkedin-knowledge-base-addendum-january-2026.md
+2. github:get_file_contents → 02-performance-analysis/_CURRENT-RANKINGS.md
 ```
 
-This file is the living record. It contains:
+**The addendum** is the living record. It contains:
 - All posts from Post 14 onwards with scores and lessons
-- The current all-time performance ranking
+- The current all-time performance ranking (authoritative)
 - The quotable insights database (Platinum / Gold / Silver tiers)
 - Strategic contacts and their engagement history
 - Every confirmed writing rule and content lesson
+
+**`_CURRENT-RANKINGS.md`** is the standalone quick-reference rankings file. It contains the full post table with impressions, reactions, comments, scores, and links to individual analysis files. It must be updated whenever a new post is documented, whenever a post reaches its final impression count, or whenever a ranking changes. It is separate from the addendum by design — the addendum contains the analytical detail; this file contains the ranked table and structural failure patterns.
 
 The files in `/mnt/project/` are static copies and will be outdated. Always read from GitHub.
 
@@ -34,6 +37,7 @@ linkedinknowledge/
 │   └── SKILL.md                          ← You are here
 ├── 02-performance-analysis/
 │   ├── linkedin-knowledge-base-addendum-january-2026.md  ← PRIMARY LIVING DOCUMENT
+│   ├── _CURRENT-RANKINGS.md                              ← STANDALONE RANKINGS TABLE
 │   ├── [post-name]-post-analysis-[month]-2026.md         ← Individual post analyses
 │   └── demographics-of-followers.md
 ├── 03-execution-plans/
@@ -42,9 +46,15 @@ linkedinknowledge/
     └── network-contacts-reference.md     ← Industry connections with strategic intelligence overlay
 ```
 
-**The addendum is the single source of truth for current performance data, lessons, contacts, and rankings.** Individual post analysis files contain the full detail. The addendum contains the summary entries and cumulative lessons.
+**Three-layer documentation model:**
 
-**The network contacts reference** (`05-network/network-contacts-reference.md`) is the single source of truth for the broader follower and connection network. It contains the Priority Watchlist (warm inbound signals by tier), sector-grouped tables with ★/◆ signalling, post trigger identification, and a CRM-ready CSV. The addendum Strategic Contacts table covers active engagers only; the network file covers the full passive audience.
+| Layer | File | Contents |
+|-------|------|----------|
+| Ranked table | `_CURRENT-RANKINGS.md` | All posts ranked by impressions, scores, links to analyses |
+| Living summary | `linkedin-knowledge-base-addendum-january-2026.md` | Post summaries, lessons, quotes, contacts |
+| Full detail | `[topic]-post-analysis-[month]-[year].md` | Complete analytics, demographics, reactor analysis |
+
+**The network contacts reference** (`05-network/network-contacts-reference.md`) is the single source of truth for the broader follower and connection network. The addendum Strategic Contacts table covers active engagers only; the network file covers the full passive audience.
 
 ---
 
@@ -80,9 +90,9 @@ To document a post, you need:
 
 If any of this is missing, ask for it before proceeding.
 
-### 3.2 File Creation Sequence
+### 3.2 File Creation and Update Sequence
 
-**Always create in this order:**
+**Always complete in this order:**
 
 **First:** Create the individual post analysis file
 ```
@@ -91,15 +101,24 @@ If any of this is missing, ask for it before proceeding.
 
 Example slugs: `eu-telematics-tsi`, `heathrow-announcement`, `railway-within-railway`
 
+Use `github:push_files` for new files (no SHA required).
+
 **Second:** Update the addendum to add the post summary and any new lessons, contacts, or quote database entries.
 
 To update the addendum, you must first fetch its current SHA:
 ```
 github:get_file_contents → 02-performance-analysis/linkedin-knowledge-base-addendum-january-2026.md
 ```
-Use the `sha` value from the response in your `create_or_update_file` call. If you omit it, the write will fail.
+Use the `sha` value from the response in your `create_or_update_file` call. SHA changes with every commit — always fetch fresh.
 
-**Third (if relevant):** If the post generated new warm inbound connections or promoted a passive follower to active contact, update `05-network/network-contacts-reference.md` accordingly.
+**Third:** Update `_CURRENT-RANKINGS.md` to insert the new post at the correct rank position.
+
+Fetch current SHA before updating:
+```
+github:get_file_contents → 02-performance-analysis/_CURRENT-RANKINGS.md
+```
+
+**Fourth (if relevant):** If the post generated new warm inbound connections or promoted a passive follower to active contact, update `05-network/network-contacts-reference.md` accordingly.
 
 ### 3.3 Individual Post Analysis File Structure
 
@@ -145,6 +164,16 @@ When updating the addendum, add:
 **In the All-Time Ranking:** Insert the new post at the correct position.
 
 **At the bottom:** Update the "last updated" date and list what was changed.
+
+### 3.5 `_CURRENT-RANKINGS.md` Update Protocol
+
+When updating `_CURRENT-RANKINGS.md`:
+
+- Insert the new post at the correct rank in the main table
+- Update performance tiers if the new post changes tier boundaries
+- Add any new structural failure pattern if documented
+- Update the correction/update log at the top with today's date and a one-line summary
+- Update the footer "last updated" date and post count
 
 ---
 
@@ -291,7 +320,8 @@ Never exclude VP. VPs often hold more budget authority than Directors.
 | 7-9% | Excellent |
 | 9%+ | Exceptional - record-level |
 
-Current record: ~10% (Railway Within Railway, January 2026)
+Current record by percentage: ~10% (Railway Within Railway, January 2026)
+Current record by absolute viewers: ~2,120 (Helpston/Override Drift, March 2026 — 4.2% of 50K)
 
 ### Geographic Signals
 
@@ -404,6 +434,7 @@ This is an advanced technique proven by the Heathrow announcement post (February
 
 - **Optimal posting window:** Tuesday-Thursday, 7-9am GMT
 - **Never post twice on the same day by choice**
+- **Never post on Sunday** — confirmed ceiling regardless of content quality (Underground/Solar, March 2026: 855 impressions despite 64.1% seniority)
 - **If forced to post twice on the same day:** first post always wins the engagement race; put the strategically more important content first
 - **Minimum gap between posts:** 48 hours recommended, 24 hours absolute minimum
 - **Series posts:** space 5-7 days apart to maintain momentum without diluting each post
@@ -418,8 +449,10 @@ This is an advanced technique proven by the Heathrow announcement post (February
 | Corporate preamble | Post opens with "Proud to..." | Lead with insight, put context second |
 | Closed ending | Post ends with statement or thanks | Add engagement question as final line |
 | Algorithm split | Two posts same day | Never post twice by choice |
+| Sunday posting | Posted on Sunday | Never post Sunday — no distribution window |
+| Friday ceiling | Precision content posted Friday | Never post precision content on Friday |
 | Recruitment amplification | Resharing colleague job ad | Never. Score: 2/10 automatic |
-| Bullet points | List items with - or • | Rewrite in prose |
+| Bullet points | List items with - or bullet | Rewrite in prose |
 | Em dash | — character anywhere | Comma, colon, or rephrase |
 | Too many hashtags | 5+ hashtags | Maximum 4, all specific |
 | No visual | Text-only post | Add photo, chart, or relevant image |
@@ -441,6 +474,7 @@ This is an advanced technique proven by the Heathrow announcement post (February
 - [ ] Ends with engagement question?
 - [ ] Posting Tuesday-Thursday 7-9am GMT?
 - [ ] Not the second post today?
+- [ ] Not Sunday?
 
 ---
 
@@ -450,14 +484,14 @@ This is an advanced technique proven by the Heathrow announcement post (February
 - [ ] If no engagement after 30 minutes, post self-comment with additional context
 - [ ] DM anyone @ tagged who hasn't engaged after 1 hour
 - [ ] Check analytics at 24 hours (not before)
-- [ ] Document in GitHub within 48 hours of posting
+- [ ] Document in GitHub within 48 hours of posting (individual file + addendum + `_CURRENT-RANKINGS.md`)
 - [ ] Note any pending follow-up actions (DMs, replies, pitch opportunities)
 - [ ] If new connections came in after post, check against network contacts reference and add warm inbound entries
 
 ---
 
-*Skill version: 1.1*
+*Skill version: 1.2*
 *Created: February 25, 2026*
-*Updated: March 10, 2026 — added 05-network directory to repo structure; added Task E (network/contacts work); added network file maintenance to post documentation protocol and strategic contacts protocol*
-*Based on: 21 posts documented, 15+ months of performance data*
+*Updated: March 20, 2026 — added `_CURRENT-RANKINGS.md` to Step 0 and file creation sequence (Section 3.2); added Section 3.5 (`_CURRENT-RANKINGS.md` update protocol); added three-layer documentation model to Step 1; added Sunday posting to failure modes and Before Posting checklist; updated post count to 26+ documented*
+*Based on: 26+ posts documented, 16+ months of performance data*
 *Maintainer: Update this file when new absolute rules are confirmed or major new patterns are validated*
