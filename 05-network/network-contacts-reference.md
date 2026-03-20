@@ -1,5 +1,5 @@
 # Network & Industry Connections Reference
-**Last Updated:** March 10, 2026
+**Last Updated:** March 20, 2026
 **Total Contacts:** 300+ (strategically filtered below)
 **Primary Sectors:** Rail, Infrastructure, Aviation, Digital Transformation, Public Sector
 
@@ -20,7 +20,8 @@
 11. [Siemens Mobility & Rail Suppliers](#-siemens-mobility--rail-suppliers)
 12. [Media & Publications](#-media--publications)
 13. [International Rail](#-international-rail)
-14. [Raw Data (CSV)](#-raw-data-csv)
+14. [Safety, Standards & Cross-Industry](#-safety-standards--cross-industry)
+15. [Raw Data (CSV)](#-raw-data-csv)
 
 ---
 
@@ -77,9 +78,9 @@ These contacts connected passively after specific posts. No conversation yet, bu
 |------|------|-----------|--------|
 | ★ Ross Moran | Rail Director (NR Scotland) | Executive | Reacted to Railway Within Railway post — approved the framing. Active strategic contact. |
 | ◆ Ellie Burrows FCIRO | Regional Managing Director | Executive | Warm inbound — Aug 2025. |
-| ◆ Daniel Fisk | Head of Level Crossings and Public Safety (Seconded) | Head of | Mar 10, 2026 — very recent connection. |
+| ★ Daniel Fisk | Head of Level Crossings and Public Safety (Seconded) | Head of | Mar 10, 2026 — reacted Insightful to Helpston + sent connection request. Most operationally relevant NR contact for level crossings and safety content. Promoted from warm inbound. |
 | ◆ Amy Turnbull | Head of Readiness and Resilience — East Mids | Head of | Warm inbound — Feb 2026. |
-| ◆ Joe Kennedy | Route Strategy Director, Anglia | Director | Mar 10, 2026 — Leon Kong's route. |
+| ◆ Joe Kennedy | Route Strategy Director, Anglia | Director | Mar 10, 2026 — Leon Kong's route. Also reacted to Helpston/Override Drift. |
 | ◆ Matt Haywood | Strategic Planning Leader | Senior | Warm inbound — Jan 2026. |
 | ◆ Lawrence Lee | Senior Capability & Performance Manager | Senior | Warm inbound — Feb 2026. |
 | ◆ Riccardo Demurtas | Senior Sponsor | Senior | Warm inbound — Feb 2026. |
@@ -111,11 +112,13 @@ These contacts connected passively after specific posts. No conversation yet, bu
 | ◆ Kanwar Brar | Go-Ahead Group | CDIO | Executive | Connected Feb 25. Go-Ahead = GTR, Southeastern. |
 | ◆ Danny Gonzalez | LNER | Chief Digital and Innovation Officer | Executive | Warm inbound — Dec 2025. |
 | ◆ Dave Horton | GWR | Chief Mechanical Engineer (Battery Train Fast Charge) | Executive | Gold quote holder (BEMU post). Connected Jan 2026. |
+| ◆ Daryn McCombe | GWR | Train Service Delivery and Performance Director | Director | Quoted in Post 24 (RIC26, Mar 2026). First GWR operational contact in the series. Monitor for engagement with post. |
 | ◆ Warrick Dent | LNER | Safety and Operations Director | Director | Warm inbound — Sep 2025. |
 | ◆ Sam Turner | SWR–NR Integrated Railway | Finance Director | Director | Integrated railway model; relevant to coordination content. |
 | ◆ Laura McEwen | GTS Rail (Elizabeth Line) | Train Service Director | Director | Warm inbound — Jan 2026. |
 | ◆ Philip Leney | c2c | Finance Director | Director | Warm inbound — Jun 2025. |
 | ◆ Sepehr Semsarzadeh | Colas Rail UK | Operations Director | Director | Operations focus. |
+| ◆ Lynsey Buxton | East Midlands Railway | Head of Employee Communications & Engagement | Head of | Commented on James/EMR post (Post 16b) — publicly committed to recognising James. EMR internal comms engaged. Route to EMR relationship. |
 | ◆ Jonathan Haile | East Midlands Railway | Senior Driver Manager | Senior | |
 | ◆ Graeme Potter | Avanti West Coast | Customer Service / Incident Care Team Leader | Management | |
 | Cheryl Fox | Foxshire / International Sleeper Trains | Managing Director | Executive | Rail operations + international. |
@@ -142,7 +145,8 @@ These contacts connected passively after specific posts. No conversation yet, bu
 
 | Name | Organisation | Role | Seniority | Signal |
 |------|-------------|------|-----------|--------|
-| ★ Michael Newman | Ricardo | Global Managing Director, Rail | Executive | Profile view after Scotland/Bill Reeve post. 1st connection. Assess outreach. |
+| ★ Michael Newman | Ricardo | Global Managing Director, Rail | Executive | Profile view after Scotland/Bill Reeve post (Post 21). 1st connection. Ricardo double-signal with Mike Castles (Post 22). Direct outreach now warranted. |
+| ★ Mike Castles | Ricardo Rail | Global Technical Expert, Functional Safety | Senior | Reacted Insightful to Helpston/Override Drift (Post 22). Second consecutive Ricardo engagement. Functional safety specialist. |
 | ◆ Chris Pike | RIA Consultants Group | Senior Rail Leader + Board Director + Chair | Executive | Feb 2026. |
 | ◆ Gottfried Eymer | International Rail | C-level Executive, Senior Advisor | Executive | Sep 2025. |
 | ◆ Justin Willett FCIRO | — | Director, Operational Capability | Director | Aug 2025. |
@@ -160,6 +164,7 @@ These contacts connected passively after specific posts. No conversation yet, bu
 | ◆ Seth I Goler | — | Complex Technology Change Delivery | Senior | Feb 2026. |
 | ★ Harry Thomas | Turner & Townsend | Principal, Infrastructure Digital Advisory | Senior | Profile view after Heathrow post. Advisory-to-client influence pathway. |
 | ★ Eric-Jan van Altenburg | ex-Accenture | AI/Security/Cloud for critical infrastructure | Senior | Profile view after AIRHART post. 3 mutual connections. |
+| ◆ John Lawrence | JPL Diversified Ltd | Director | Director | Referenced Olivier's AIRHART/airport work at RIC26 in public LinkedIn post (Mar 2026). Noted upcoming IET Railway Technical Network tech talk. Signal of growing industry recognition. |
 
 ---
 
@@ -277,6 +282,7 @@ These contacts connected passively after specific posts. No conversation yet, bu
 | ◆ Kasper Beck | — | Journalist | Mar 2026. |
 | ◆ Adam O'Connor | Rail Media | Owner / MD | Oct 2025. |
 | ◆ Sarah Hopton | Rail Business Daily | Marketing Specialist | Jul 2025. |
+| ★ Andreas Moglestue | ABB Review | Chief Editor | Two substantive comments on Helpston/Override Drift (Post 22). Added corporate memory failure and information transparency layers to Override Drift. Monitor for editorial pitch opportunity. |
 
 ---
 
@@ -290,6 +296,21 @@ These contacts connected passively after specific posts. No conversation yet, bu
 | ◆ Rudy Tadros | Innova Communications Australasia | MD + Rail Systems Advisor + Adjunct Professor | Jan 2026. |
 | ◆ Nick Brooks | ALLRAIL | Secretary General | Jan 2026. Open access + EU standards. |
 | ◆ Rodrigo Illan Garcia | — | Head of Railway Operations | Mar 2026. |
+
+---
+
+## 🛡 Safety, Standards & Cross-Industry
+
+*New section added March 2026. Contacts who engaged via safety-critical framework content (Helpston/Override Drift, Post 22).*
+
+| Name | Organisation | Role | Seniority | Signal |
+|------|-------------|------|-----------|--------|
+| ★ Allan Spence | Independent | Independent Chair and Safety Professional | Executive | DM evening of Helpston posting. Cited Override Drift at Global Level Crossing Network meeting the following day — highest real-world framework adoption in the series. Route to safety-critical industries beyond rail. |
+| ★ Jon Cunningham | Office of Rail and Road | HM Inspector of Railways | Executive | Reacted Insightful to Helpston/Override Drift. Regulatory-level engagement. Monitor for further engagement. |
+| ◆ Ann Bates OBE | Independent | Retired Aviation and Rail Access Consultant | Executive | Commented on James/EMR post (Post 16b) — extended into DOO debate. Cross-sector rail/aviation access perspective. |
+| ◆ Thomas Wood | Siemens Mobility | Control Systems Engineer | Senior | Commented on Helpston — identified Craven Arms 2024 (RAIB 08/2024) as a second Override Drift precedent. |
+| ◆ Richard Stanford | Airbus Defence & Space | Transport & Logistics Quality Manager UK | Senior | Reacted Insightful to Helpston. Defence/aerospace sector reached. |
+| ◆ Ben Smith | BAE Systems | Senior Systems Engineer | Senior | Reacted Insightful to Helpston. Second defence reactor. |
 
 ---
 
@@ -317,6 +338,11 @@ Danny Longhorn,Rail Business Daily,Media,Content Editor,Senior,Feb 2026,Active S
 Michael Newman,Ricardo,Consultancy,Global MD Rail,Executive,—,Active Strategic Contact
 Gregor Erbach,European Parliament,Government,Head of Climate Action Research,Director,—,Active Strategic Contact
 Mike Noakes,DfT,Government,Head of Rail,Head of,—,Active Strategic Contact
+Allan Spence,Independent,Safety,Independent Chair and Safety Professional,Executive,Mar 2026,Active Strategic Contact
+Jon Cunningham,Office of Rail and Road,Regulatory,HM Inspector of Railways,Executive,Mar 2026,Active Strategic Contact
+Daniel Fisk,Network Rail,Infrastructure,Head of Level Crossings and Public Safety,Head of,Mar 10 2026,Active Strategic Contact
+Mike Castles,Ricardo Rail,Consultancy,Global Technical Expert Functional Safety,Senior,Mar 2026,Active Strategic Contact
+Andreas Moglestue,ABB Review,Media,Chief Editor,Senior,Mar 2026,Active Strategic Contact
 Oliver Gill,Sunday Times,Media,Deputy Business Editor,Senior,Feb 2026,Warm Inbound
 Dan Jensen,The Rail Agenda,Media,Rail Editor,Senior,Feb 2026,Warm Inbound
 John Grainger,East Coast Partnership,TOC/NR,Joint Head of Performance,Head of,Jan 2026,Warm Inbound
@@ -334,7 +360,6 @@ Kane Campbell McCloy,Transport Scotland,Government,Rolling Stock Programme Manag
 Laura McEwen,GTS Rail,TOC,Train Service Director,Director,Jan 2026,Warm Inbound
 Sonam Sabikhi,Macquarie Asset Management,Finance,Investment Director,Director,May 2025,Warm Inbound
 Dave Horton,GWR,TOC,Chief Mechanical Engineer,Executive,Jan 2026,Gold Quote Holder
-Daniel Fisk,Network Rail,Infrastructure,Head of Level Crossings and Public Safety,Head of,Mar 10 2026,Warm Inbound
 Amy Turnbull,Network Rail,Infrastructure,Head of Readiness and Resilience East Mids,Head of,Feb 2026,Warm Inbound
 Matt Haywood,Network Rail,Infrastructure,Strategic Planning Leader,Senior,Jan 2026,Warm Inbound
 Lawrence Lee,Network Rail,Infrastructure,Senior Capability and Performance Manager,Senior,Feb 2026,Warm Inbound
@@ -343,6 +368,13 @@ Warrick Dent,LNER,TOC,Safety and Operations Director,Director,Sep 2025,Warm Inbo
 Sam Turner,SWR-NR Integrated Railway,TOC/NR,Finance Director,Director,Jul 2025,Warm Inbound
 Philip Leney,c2c,TOC,Finance Director,Director,Jun 2025,Warm Inbound
 Sepehr Semsarzadeh,Colas Rail,TOC,Operations Director,Director,Sep 2025,Warm Inbound
+Lynsey Buxton,East Midlands Railway,TOC,Head of Employee Communications and Engagement,Head of,Mar 2026,Warm Inbound
+Daryn McCombe,GWR,TOC,Train Service Delivery and Performance Director,Director,Mar 2026,Warm Inbound
+Ann Bates OBE,Independent,Rail/Aviation,Retired Aviation and Rail Access Consultant,Executive,Mar 2026,Warm Inbound
+John Lawrence,JPL Diversified Ltd,Consultancy,Director,Director,Mar 2026,Warm Inbound
+Thomas Wood,Siemens Mobility,Supplier,Control Systems Engineer,Senior,Mar 2026,Warm Inbound
+Richard Stanford,Airbus Defence and Space,Defence,Transport and Logistics Quality Manager UK,Senior,Mar 2026,Warm Inbound
+Ben Smith,BAE Systems,Defence,Senior Systems Engineer,Senior,Mar 2026,Warm Inbound
 Mario Tartaglia,FS Research Centre,International Rail,Leader + UIC ERA ITF,Executive,Feb 2026,Warm Inbound
 Gottfried Eymer,International Rail,International Rail,C-level Executive,Executive,Sep 2025,Warm Inbound
 Rudy Tadros,Innova Australasia,International Rail,Managing Director,Executive,Jan 2026,Warm Inbound
@@ -358,11 +390,14 @@ Kendrick Tang,Hatch,Consultancy,Global Director Rail Supply Chain,Executive,Mar 
 Daniel Holder,,Consultancy,Head of Engineering and Asset Management,Head of,Mar 2026,Warm Inbound
 Rodrigo Illan Garcia,,Rail,Head of Railway Operations,Head of,Mar 2026,Warm Inbound
 Justin Willett FCIRO,,Consultancy,Director Operational Capability,Director,Aug 2025,Warm Inbound
+Harry Thomas,Turner and Townsend,Consultancy,Principal Infrastructure Digital Advisory,Senior,Feb 2026,Active Strategic Contact
+Eric-Jan van Altenburg,ex-Accenture,Digital,AI Security Cloud for critical infrastructure,Senior,Mar 2026,Active Strategic Contact
 ```
 
 ---
 
-*File created: March 10, 2026*
+*File last updated: March 20, 2026*
+*Changes: Added Safety Standards and Cross-Industry section (Allan Spence, Jon Cunningham, Ann Bates OBE, Thomas Wood, Richard Stanford, Ben Smith). Added Daryn McCombe (GWR), John Lawrence (JPL Diversified), Lynsey Buxton (EMR), Andreas Moglestue (ABB Review), Mike Castles (Ricardo Rail) to sector tables and CSV. Daniel Fisk promoted from warm inbound to ★ Active Strategic Contact. Updated NR table to note Daniel Fisk and Joe Kennedy engagement signals.*
 *Source: LinkedIn connections export + strategic intelligence overlay from post performance analysis*
 *Strategic contacts (★) cross-referenced against addendum: 02-performance-analysis/linkedin-knowledge-base-addendum-january-2026.md*
 *For full post performance data and engagement history, see the addendum.*
