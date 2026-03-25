@@ -279,20 +279,36 @@ See full analysis: daryn-mccombe-gwr-ric26-post-analysis-march-2026.md
 
 ---
 
-### Post 25: Andy Lord / TfL / Electric Bus Fleet at Scale — PROVISIONAL (5 days)
-**Date:** March 20, 2026 | **Score:** Provisional 7.5/10
-**Impressions:** 5,663 (at 5 days) | **Members reached:** est. ~3,500 | **Reactions:** 27 | **Comments:** 5 | **Reposts:** 0
-**Analytics:** Full demographics not yet pulled. Score and impressions provisional.
+### Post 25: Andy Lord / TfL / Electric Bus Fleet at Scale — CONFIRMED FINAL
+**Date:** March 20, 2026 (Thursday) | **Score:** 8.0/10 CONFIRMED
+**Impressions FINAL:** 5,663 | **Members reached:** 4,135 | **Reactions:** 27 | **Comments:** 5 | **Reposts:** 0 | **Saves:** 0 | **Sends:** 0 | **Profile viewers:** 8 | **Followers gained:** 1
+**Seniority (confirmed):** Senior 33.6% + Director 19.6% + VP 4.6% = **57.8%**
+**Top companies:** Transport for London 4.9%, Network Rail 4.7%, Netcompany 2.6%, AtkinsRéalis 1.4%, Hitachi Rail 1.3%
+**Industries:** Truck Transportation 21.5%, IT Services 7.3%, Rail Transportation 7.1%, Civil Engineering 5.1%, Business Consulting 4.8%
+**Locations:** London 28.4%, Manchester 2.8%, Leeds 2.2%, Glasgow 2.1%, Birmingham 2.0%
+**Company size:** 10,001+ 32.7%, 1001-5000 14.5%, 51-200 9.0%, 5001-10,000 8.5%, 11-50 8.1%
+**Job titles:** Project Manager 3.2%, Managing Director 2.2%, Transport Planner 1.2%, Project Engineer 1.1%, Operations Manager <1%
 
-**The post:** Borrowed credibility from Andy Lord, Commissioner, Transport for London, at London Transport Museum corporate members reception (LTM50 capital campaign launch, March 19, 2026). Quote: "We already have more zero-emission buses than any other city in the UK has buses." Scale cited: 3,000 electric buses in London's fleet. Post addresses what orchestration looks like at 3,000 vehicles across multiple operators and dozens of depots — not at 100-200 as in previous electric bus content. Key paragraph: "At that scale, the coordination problem does not sit inside one organisation. It spans them. Shared grid constraints. Overnight charging windows. Bay allocation. Maintenance schedules. Different operators. Different systems. Same network outcome required by morning." Key line: "The vehicles were always going to arrive. The question is whether the orchestration layer arrives with them." Engagement question: "For operators running electric fleets at scale, which coordination challenge grows fastest as vehicle numbers rise?"
+**The post:** Borrowed credibility from Andy Lord, Commissioner, Transport for London, at London Transport Museum corporate members reception (LTM50 capital campaign launch, March 19, 2026). Quote: "We already have more zero-emission buses than any other city in the UK has buses." Scale cited: 3,000 electric buses. Post addresses what orchestration looks like at 3,000 vehicles across multiple operators and dozens of depots. Key paragraph: "At that scale, the coordination problem does not sit inside one organisation. It spans them. Shared grid constraints. Overnight charging windows. Bay allocation. Maintenance schedules. Different operators. Different systems. Same network outcome required by morning." Key line: "The vehicles were always going to arrive. The question is whether the orchestration layer arrives with them." Engagement question: "For operators running electric fleets at scale, which coordination challenge grows fastest as vehicle numbers rise?"
 
-**5-day provisional assessment:** 5,663 impressions at 5 days places this in the Strong tier (3,000-15,000) with room to grow. Andy Lord is one of the most senior transport executives in the UK (TfL Commissioner) — borrowed credibility ceiling is high. The scale insight (3,000 vs 100-200) updates Olivier's own prior content, demonstrating active learning. 5 comments is a positive engagement signal. No bullet points, no em dashes, correct structure.
+**Standout signals:**
+- **TfL 4.9%** — the named organisation appeared in its own post's demographics. Confirms the content reached the right room, not just the usual rail audience.
+- **NR 4.7%** — ~266 NR impressions. Consistent baseline for fleet/operational content.
+- **Rail Transportation 7.1%** — rail professionals engaging with electric bus content confirms the cross-sector framing is landing for the intended bridge audience.
+- **Civil Engineering 5.1%** — infrastructure community present.
+- **Transport Planner 1.2%** — new job title category in the series. Local government and transport authority planners appearing. Consistent with TfL audience.
+- **No Airlines and Aviation sector** — confirms aviation channel rule: aviation content requires aviation-primary framing to activate.
+- **Profile viewers:** Tim Durham (Director) — 1st connection. COYLE RAIL LIMITED (anon). Consultant in Executive Offices (anon). Modest but relevant.
 
-**Provisional score rationale:** Strong tier base (7.0) + senior source (TfL Commissioner) (+0.5) — need demographics for further adjustments = **provisional 7.5/10**. If Electric Bus and ZeroEmission sectors appear strongly in demographics, score may reach 8.0+.
+**Score rationale (confirmed):** Strong tier base (7.0) + TfL 4.9% named target organisation in demographics (+0.5) + Civil Engineering 5.1% infrastructure community (+0.5) — seniority 57.8% below 60% but acceptable for cross-sector fleet content (0) = **8.0/10 confirmed**.
 
-**Update required:** Pull full analytics at 7 days (March 27, 2026). Check for ElectricBus/ZeroEmission sector concentration, TfL in top companies, and whether cross-sector (local government, utilities) shows up. Update individual analysis file.
+**Key lessons:**
+- Named organisations appear in their own post demographics when the content genuinely reaches them. TfL at 4.9% for a TfL Commissioner quote confirms ABM signal.
+- Cross-sector content (electric bus) continues to attract rail professionals (7.1% Rail Transportation) when the orchestration angle is explicit. The content bridges, not diverts.
+- Transport Planner as a new job title category signals local government/transport authority planners are now in the audience. Relevant for future content on TfL, urban transport, and ZEBRA fleet funding decisions.
+- 57.8% seniority is below the 60% threshold but appropriate for fleet operations content where Entry/Manager level practitioners are legitimate audience members.
 
-See: Update required at 7 days. No individual analysis file created yet.
+See full analysis: andy-lord-tfl-electric-bus-post-analysis-march-2026.md (to be created)
 
 ---
 
@@ -323,7 +339,7 @@ Four engagements, escalating in substance. He is contributing frameworks, not ju
 
 ## Updated All-Time Performance Ranking
 
-**Updated March 25, 2026.**
+**Updated March 25, 2026 — Post 25 confirmed at 8.0/10.**
 
 | Rank | Post | Date | Impressions | Score | Key Factor |
 |------|------|------|-------------|-------|-----------|
@@ -339,7 +355,7 @@ Four engagements, escalating in substance. He is contributing frameworks, not ju
 | 10 | EU Telematics / Digital Island | Feb 2026 | 7,710 | 8.5/10 | NR 9.1% near-record |
 | 11 | Heathrow Announcement | Feb 2026 | 6,799 | 8/10 | Planted quote activated + aviation |
 | 12 | BEMU/East West Rail | Jan 2026 | 6,941 | 9/10 | Cross-sector learning |
-| 13 | Andy Lord / TfL Electric Bus | Mar 2026 | 5,663 (provisional) | 7.5/10 prov. | TfL Commissioner + scale insight |
+| 13 | Andy Lord / TfL Electric Bus | Mar 2026 | 5,663 | 8.0/10 | TfL 4.9% + Civil Engineering 5.1% + rail cross-sector landing |
 | 14 | AIRHART/Digital Control Tower | Mar 2026 | 5,198 | 7.5/10 | Aviation proof point + Copenhagen signal |
 | 15 | Rail Forum (Toufic) | Dec 2024 | 3,895 | 8.5/10 | Conference + Rubik's Cube |
 | 16 | Carol Service | Dec 2024 | 3,810 | 8/10 | Personal + professional |
@@ -350,13 +366,13 @@ Four engagements, escalating in substance. He is contributing frameworks, not ju
 | 21 | Audenshaw Bridge / Interface Failure | est. late Feb/early Mar 2026 | 1,538 | 5.0/10 prov. | Content violations: bullets + 5 hashtags + no borrowed credibility |
 | 22 | LARA Hackathon | Nov 2024 | 1,481 | 8/10 | Real output |
 | 23 | Trade Show | Nov 2024 | 1,329 | 7/10 | Good content, no conversation |
-| 24 | Groundhog Day | Jan 2026 | 1,870 | 6.5/10 | Paraphrase penalty (note: grew to 1,870 by March 25, was 1,088 at Jan 2026 peak) |
+| 24 | Groundhog Day | Jan 2026 | 1,870 | 6.5/10 | Paraphrase penalty (grew to 1,870 by March 25; was 1,088 at original peak) |
 | 25 | Daryn McCombe/GWR/RIC26 | Mar 2026 | 980 | 6.0/10 | Strong content, 0 comments; conference-crowd dilution |
 | 26 | Underground/Solar Headline | Mar 2026 | 953 | 4.5/10 | Off-brand + Sunday posting |
 | 27 | Tom Bailey | Dec 2024 | 755 | 6.5/10 | Corporate amplification |
 | 28 | Energy Recruitment | Nov 2024 | 323 | 2/10 | Never amplify recruitment |
 
-**Note: Post 19a (Audenshaw) and Post 25 (Andy Lord/TfL) both provisional pending full analytics.**
+**Note: Post 19a (Audenshaw) provisional pending full analytics and confirmed date.**
 
 ---
 
@@ -377,8 +393,8 @@ Four engagements, escalating in substance. He is contributing frameworks, not ju
 | Helpston/Override Drift | 4.2% | ~2,145 | Largest absolute NR audience in the series at 51k |
 | Underground/Solar | 2.0% | ~19 | Sunday posting, baseline only; updated at 953 |
 | Daryn McCombe/GWR | 6.3% | ~62 | Confirmed at 980 final |
+| Andy Lord / TfL Electric Bus | 4.7% | ~266 | Confirmed at 5,663. Appropriate baseline for fleet/operator content |
 | Audenshaw Bridge | TBD | TBD | Analytics not yet pulled |
-| Andy Lord/TfL | TBD | TBD | Analytics not yet pulled |
 
 ---
 
@@ -419,6 +435,22 @@ Helpston: 37,692 at 2 days, 50,484 at 10 days, 51,084 at 15 days. RAIB framework
 The Audenshaw interface failure post covered a legitimate RAIB orchestration gap (structures vs track disciplines) but coined no named framework. Content violations compounded the ceiling. Result: ~1,538 impressions vs 51,084 for Helpston (Override Drift) and 37,765 for Shap.
 
 **Rule:** A RAIB post without a named framework is a good post. A RAIB post with a named framework is a viral post. The framework is the mechanism. Don't publish without one.
+
+---
+
+### Named Target Organisations Appear in Their Own Post's Demographics (NEW — Post 25)
+
+TfL at 4.9% for a TfL Commissioner quote confirms ABM signal. The named organisation was reached, not just the usual rail bubble.
+
+**Rule:** When the post quotes a specific organisation's senior leader, check whether that organisation appears in the top companies demographics. Its presence confirms the content reached the target room. Its absence suggests the content stayed inside the existing network.
+
+---
+
+### Cross-Sector Content Continues to Attract Rail Professionals When Orchestration Angle Is Explicit (NEW — Post 25)
+
+Rail Transportation at 7.1% on an electric bus post. Rail professionals engaged with bus fleet content because the coordination framing made it directly relevant to their context.
+
+**Rule:** The orchestration framing bridges sectors. Rail professionals will engage with bus, aviation, or infrastructure content when it is framed as a coordination/systems problem rather than a sector-specific operations problem.
 
 ---
 
@@ -645,6 +677,10 @@ Topic: Said at London Transport Museum corporate members reception, March 19, 20
 > "We don't want an enabling tool that helps the train operator to succeed in isolation. We actually want that bringing together of the data, together of the thinking, because that will help us make better decisions, which will ultimately deliver better service for the passenger."
 Topic: Said at Rail Scotland 2026. Used in Post 21. Reframeable as: "not a technology specification — a coordination specification."
 
+**Daryn McCombe (Train Service Delivery and Performance Director, GWR)** — March 2026
+> "These are not technology problems. These are ultimately integration problems."
+Topic: Said at RIC26. Used in Post 24. Post scored 6.0/10 but quote quality is independent of post performance. Elevated to Gold.
+
 **Andreas Moglestue (Chief Editor, ABB Review)** — March 2026
 > "When there is no corporate memory, employees inherit rules and regulations from their predecessors without being told the back story, and may then decide that these rules are pointless red tape that is best bypassed."
 Topic: Contributed in Post 22 comments. Precise articulation of the corporate memory failure layer of Override Drift. Elevatable to a post opener if corporate memory angle is developed.
@@ -674,6 +710,10 @@ Topic: Contributed in Post 22 comments. Precise articulation of the corporate me
 
 ### SILVER
 
+**Daryn McCombe (GWR)** — March 2026
+> "not more screens to stare at"
+Topic: Supporting line from RIC26. Vision formulation for integrated operations. Strong operator-voice line for supporting evidence or sub-headline.
+
 **Natasha Grice (Transport Focus)** — March 2026
 > Scotland is the top-performing region in the UK at 90% satisfaction; delay handling is still the area where the whole network needs to improve.
 
@@ -682,18 +722,6 @@ Topic: Contributed in Post 22 comments. Precise articulation of the corporate me
 
 **Richard Fisher (Future Travel Studio)** — January 2026
 > "SPIRS were mainly bun fights where responsible managers would try and get delay minutes shifted."
-
----
-
-### PENDING (Heard / Used — Confirm for Elevation)
-
-**Daryn McCombe (Train Service Delivery and Performance Director, GWR)** — March 2026
-> "These are not technology problems. These are ultimately integration problems."
-Topic: Said at RIC26. Used in Post 24. Clear and direct. Currently Gold candidate — confirm elevation after Post 24 final performance assessment. Post 24 scored 6.0/10 (content strong, engagement weak). Quote quality is independent of post performance. Elevate to Gold.
-
-**Daryn McCombe (GWR)** — March 2026 (supporting line from Post 24)
-> "not more screens to stare at"
-Topic: McCombe's vision formulation for integrated operations. Strong operator-voice line. Evaluate for Silver or standalone use.
 
 ---
 
@@ -724,8 +752,9 @@ Topic: McCombe's vision formulation for integrated operations. Strong operator-v
 | Andreas Moglestue | Chief Editor, ABB Review | 2 substantive comments (Post 22) | NEW. Two extended comments adding information transparency and corporate memory failure layers. Monitor for editorial pitch opportunity. |
 | Lynsey Buxton | Head of Employee Communications & Engagement, East Midlands Railway | 1 comment (Post 16b) | NEW. Committed publicly to recognising James. EMR internal comms infrastructure engaged. Route to EMR relationship. |
 | Ann Bates OBE | Retired Aviation and Rail Access consultant | 1 comment (Post 16b) | NEW. Extended Post 16b into DOO debate. Cross-sector rail/aviation access perspective. |
-| Daryn McCombe | Train Service Delivery and Performance Director, GWR | Quoted in Post 24 | NEW. First GWR operational contact in the series. RIC26 conference relationship. No engagement with Post 24 at 7 days — DM warranted. |
-| John Lawrence | Director, JPL Diversified Ltd | Reposted from his own post | NEW. Cited Olivier's AIRHART/airport work at RIC26, noted upcoming IET Railway Technical Network tech talk. Signal of growing industry recognition. |
+| Daryn McCombe | Train Service Delivery and Performance Director, GWR | Quoted in Post 24 | NEW. First GWR operational contact in the series. No engagement with Post 24 at 7 days — DM warranted. |
+| John Lawrence | Director, JPL Diversified Ltd | Reposted from his own post | NEW. Cited Olivier's AIRHART/airport work at RIC26. Signal of growing industry recognition. |
+| Tim Durham | Director (company TBC) | 1 profile view (Post 25) | NEW. 1st connection. Director-level viewer from TfL electric bus content. Monitor. |
 
 ---
 
@@ -748,21 +777,20 @@ Posts: 5 | Total: ~96,394 (updated)
 - George Bradshaw Address (Post 17): 21,022
 - EU Telematics (Post 18): 7,710
 - Heathrow Announcement (Post 19): 6,799
-Note: Posts 16a and 16b were February 2 and February 7 respectively.
 
-### March 2026 (Running — through Post 25, some provisional)
+### March 2026 (Running — through Post 25)
 - Audenshaw Bridge (Post 19a): ~1,538 (provisional, exact date uncertain)
 - AIRHART/Digital Control Tower (Post 20): 5,198
 - Scotland/Bill Reeve (Post 21): 3,218
 - Helpston/Override Drift (Post 22): 51,084 (feed, still growing)
 - Underground/Solar (Post 23): 953 (final)
 - Daryn McCombe/GWR/RIC26 (Post 24): 980 (confirmed final)
-- Andy Lord/TfL Electric Bus (Post 25): 5,663 (provisional, 5 days)
+- Andy Lord/TfL Electric Bus (Post 25): 5,663 (confirmed final)
 **March running total (Posts 20-25, excl. 19a):** ~67,096
 
 ---
 
 *Addendum last updated: March 25, 2026*
-*Total posts documented: 27 (Posts 19a added; Post 24 finalized; Post 25 updated from "too early" to provisional)*
-*This update: Post 19a (Audenshaw bridge RAIB, ~1,538 impressions) identified and added — missed in March 20 update. Post 24 finalized at 980 impressions, 6.0/10 confirmed. Post 25 updated to provisional 7.5/10 at 5,663 impressions (5 days). Railway Within Railway updated 14,745 → 16,412. Groundhog Day updated 1,088 → 1,870 (significant delayed distribution). Minor impression updates: Override Drift 51,084, EU Telematics 7,710, BEMU 6,941, George Bradshaw 21,022, Heathrow 6,799, AIRHART 5,198, Bill Reeve/Scotland 3,218, Underground/Solar 953. New lesson: RAIB posts without named frameworks underperform vs those with (Audenshaw vs Helpston). Daryn McCombe quote elevated to Gold pending confirmation. Ranking table fully updated.*
-*Pending: Leon Kong DM | Carl Soutra DM | Michael Newman outreach | Daryn McCombe DM | Post 25 7-day analytics (March 27) | Post 19a exact date + full analytics | Audenshaw individual analysis file*
+*Total posts documented: 27*
+*This update: Post 25 confirmed at 8.0/10. Full analytics: TfL 4.9%, NR 4.7%, Civil Engineering 5.1%, seniority 57.8%, 5,663 impressions. Daryn McCombe quote elevated from Pending to Gold. "not more screens to stare at" added to Silver. Two new lessons: named target orgs appear in their own post demographics (ABM signal); cross-sector content bridges to rail when orchestration framing is explicit. Tim Durham added to Strategic Contacts.*
+*Pending: Leon Kong DM | Carl Soutra DM | Michael Newman outreach | Daryn McCombe DM | Post 19a exact date + full analytics + individual analysis file | Post 25 individual analysis file (andy-lord-tfl-electric-bus-post-analysis-march-2026.md)*
