@@ -21,21 +21,21 @@
 
 ### Post 14: BEMU/East West Rail
 **Date:** January 5, 2026 | **Score:** 9/10
-**Impressions:** 6,620 | **Reactions:** 59 | **Comments:** 27 | **Seniority:** 56.4% | **NR:** 6.2%
+**Impressions:** 6,941 (updated March 25) | **Reactions:** 59 | **Comments:** 27 | **Seniority:** 56.4% | **NR:** 6.2%
 See full analysis: bemu-post-analysis-january-2026.md
 
 ---
 
 ### Post 15: Groundhog Day / Incident Response
 **Date:** January 19, 2026 | **Score:** 6.5/10
-**Impressions:** 1,088 | **Seniority:** 64%
+**Impressions:** 1,870 (updated March 25; was 1,088 at March 20 — significant delayed distribution) | **Seniority:** 64%
 Key lesson: Paraphrase qualifier killed authenticity.
 
 ---
 
 ### Post 16: Railway Within a Railway — Scotland Swiss Model
 **Date:** January 22, 2026 | **Score:** 10/10 — PERFECT SCORE
-**Impressions:** 14,745 | **Reactions:** 101 | **Comments:** 17 | **NR:** ~10%
+**Impressions:** 16,412 (updated March 25; was 14,745 at March 20) | **Reactions:** 118 | **Comments:** 17 | **NR:** ~10%
 Key engagement: Ross Moran (NR Scotland) reacted, Paul Plummer reacted, Steve White commented with Hayes Line intel.
 See full analysis: railway-within-railway-post-analysis-january-2026.md
 
@@ -105,16 +105,16 @@ See full analysis: james-train-manager-emr-post-analysis-february-2026.md
 
 ### Post 17: George Bradshaw Address — Three Layers of GBR Reform — FINAL
 **Date:** February 17, 2026 | **Score:** 8.5/10
-**Impressions FINAL:** 20,983 (updated from 20,824) | **Reactions:** 96 | **Comments:** 20 | **Seniority:** 60% | **NR:** 8.4%
+**Impressions FINAL:** 21,022 (updated March 25) | **Reactions:** 97 | **Comments:** 21 | **Seniority:** 60% | **NR:** 8.4%
 Key engagement: Steve White 4th engagement (five-layer diagram), Leon Kong first substantive comment.
-Note: Policy content continues to grow beyond the 7-day window. 20,983 is the current feed counter as of March 20, 2026.
+Note: Policy content continues to grow beyond the 7-day window. 21,022 is the current feed counter as of March 25, 2026.
 See full analysis: george-bradshaw-address-post-analysis-february-2026.md
 
 ---
 
 ### Post 18: EU Telematics TSI / Digital Island — FINAL (confirmed analytics)
 **Date:** February 24, 2026, 7:47am GMT (first post of day) | **Score:** 8.5/10
-**Impressions FINAL:** 7,576 | **Members reached:** 5,432 | **Reactions:** 54 | **Comments:** 3 | **Reposts:** 1 | **Saves:** 2
+**Impressions FINAL:** 7,710 (updated March 25) | **Members reached:** 5,432 | **Reactions:** 56 | **Comments:** 3 | **Reposts:** 1 | **Saves:** 2
 **Seniority (confirmed):** Senior 35.5% + Director 15.7% + VP 3.6% = **54.8%** | **NR:** 9.1% (~690 NR viewers — near-record)
 **Top companies:** Network Rail 9.1%, Alstom 3.2%, Siemens 2.7%, Hitachi Rail 2.6%, TfL 1.9%
 **Industries:** Truck Transportation 26.4%, Rail Transportation 12.2%, Civil Engineering 8.1%, IT Services 5.6%
@@ -130,7 +130,7 @@ See full analysis: eu-telematics-tsi-post-analysis-february-2026.md
 
 ### Post 19: Heathrow Digital Operations Announcement — FINAL (confirmed analytics)
 **Date:** February 24, 2026 (second post of day) | **Score:** 8/10
-**Impressions FINAL:** 6,777 (updated from 6,704) | **Members reached:** 4,836 | **Reactions:** 12 | **Comments:** 1 | **Reposts:** 0 | **Saves:** 1
+**Impressions FINAL:** 6,799 (updated March 25) | **Members reached:** 4,836 | **Reactions:** 12 | **Comments:** 1 | **Reposts:** 0 | **Saves:** 1
 **Seniority (confirmed):** Senior 34.1% + Director 23.0% + VP 4.7% = **61.8%** | **NR:** 6.7%
 **Top companies:** Network Rail 6.7%, TfL 2.3%, Heathrow 1.9%, AtkinsRéalis 1.5%, Netcompany 1.4%
 **Industries:** Truck Transportation 24.8%, Rail Transportation 8.1%, Airlines and Aviation 7.2%, IT Services 6.5%, Civil Engineering 6%
@@ -144,9 +144,31 @@ See full analysis: heathrow-announcement-post-analysis-february-2026.md
 
 ---
 
+### Post 19a: Audenshaw Bridge Derailment — Interface Failure / Orchestration Gap — UNDOCUMENTED (needs full analysis)
+**Date:** Approximate — LinkedIn shows "1mo" as of March 25, 2026. Estimated late February or early March 2026. Exact date needs verification.
+**Score:** Provisional 5.0/10
+**Impressions:** ~1,538 (from top-performing posts view, March 25) | **Reactions:** 11 | **Comments:** 0 visible
+**Analytics:** Not yet pulled. Full demographics required for final assessment.
+
+**The post:** RAIB investigation into September 6, 2024 freight train derailment at Audenshaw. Structures team identified serious bridge defects in December 2020 (broken screws, missing clips, displaced packing pieces). Track maintenance reinspected August 2023, found broken screws and voiding, repaired locally but did not escalate the systemic warning. Derailment at the same location September 2024. RAIB finding: "no evidence of any joint visits" between track and structures disciplines. Each team saw part of the problem. Post frames this as an orchestration failure: "When safety-critical signals live in different systems — structures inspection reports in one database, track defects in Ellipse — they don't compound into a safety case. They fragment into 'someone else's responsibility'." Engagement question: "For those working on the Great British Railways transition: where do your critical warnings live? Are your teams seeing the whole picture, or just their half?" Tagged Philip Haigh AMIMechE MPWI.
+
+**Content violations identified in published post:**
+- Opening is an observation ("In rail safety, two teams can both do their job..."), not a borrowed credibility quote.
+- Bullet points used: three-item list (Structures saw the bridge / Track saw the rail / The warnings never combined).
+- Five hashtags: #RailSafety #NetworkRail #SystemsThinking #Orchestration #Audenshaw (maximum is four).
+- No named framework coined (compare to Shap: Correlation Gap/Deployment Gap; Helpston: Override Drift).
+
+**Provisional score rationale:** Good tier floor (1,538 impressions, base 6.0) — bullet points (-0.5) — 5 hashtags (-0.5) — no borrowed credibility opening (no adjustment, but explains ceiling) = **provisional 5.0/10**. Adjust on receipt of demographics.
+
+**Note:** This post was not captured in the March 20 addendum update. Added March 25 from top-performing posts analytics view. Exact date requires verification from LinkedIn post URL or notification history. Likely slots between Post 19 (Feb 24) and Post 20 (March 2).
+
+**Action:** Pull full analytics. Confirm exact posting date. Create individual analysis file.
+
+---
+
 ### Post 20: AIRHART / Digital Control Tower / GBR — FINAL (confirmed analytics)
 **Date:** March 2, 2026 (Monday) | **Score:** 7.5/10
-**Impressions FINAL:** 5,156 (updated from 4,616) | **Members reached:** 3,308 | **Reactions:** 39 | **Comments:** 3 | **Reposts:** 1 | **Saves:** 1
+**Impressions FINAL:** 5,198 (updated March 25) | **Members reached:** 3,308 | **Reactions:** 41 | **Comments:** 3 | **Reposts:** 1 | **Saves:** 1
 **Seniority (confirmed):** Senior 33.0% + Director 21.0% + VP 5.1% = **59.1%** | **NR:** 4.5%
 **Top companies:** Network Rail 4.5%, Netcompany 4.4%, Alstom 2.1%, Hitachi Rail 2.0%, Siemens 1.1%
 **Locations:** London 23.3%, Derby 2.4%, Manchester 2.2%, Copenhagen Metropolitan Area 2.1%, Leeds 1.8%
@@ -159,7 +181,7 @@ See full analysis: airhart-digital-control-tower-post-analysis-march-2026.md
 
 ### Post 21: Scotland Rail 2026 — Bill Reeve "Coordination Specification" — FINAL (confirmed analytics)
 **Date:** Friday, March 6, 2026 | **Score:** 7.0/10
-**Impressions FINAL:** 3,181 (updated from 2,403) | **Members reached:** 1,535 | **Reactions:** 36 | **Comments:** 2 | **Reposts:** 0 | **Saves:** 0
+**Impressions FINAL:** 3,218 (updated March 25) | **Members reached:** 1,535 | **Reactions:** 47 | **Comments:** 3 | **Reposts:** 0 | **Saves:** 0
 **Seniority (confirmed):** Senior 30.9% + Director 23.5% + VP 6.1% = **60.5%** | **NR:** 6.6%
 **Top companies:** Network Rail 6.6%, Siemens 4.4%, Netcompany 3.5%, Hitachi Rail 2.3%, Alstom 1.4%
 **Locations:** London 22.7%, Glasgow 3.6%, Derby 3.5%, Copenhagen Metropolitan Area 2.4%, Manchester 2.3%
@@ -173,9 +195,9 @@ See full analysis: scotland-rail-2026-bill-reeve-post-analysis-march-2026.md
 
 ### Post 22: Helpston Level Crossing / Override Drift — UPDATED FINAL
 **Date:** March 10, 2026, 7:41am GMT | **Score:** 9.5/10 (confirmed)
-**Impressions FINAL:** 50,484 (feed counter March 20, 2026 — still growing) / 37,692 (original export March 12)
-**Members reached:** 26,364+ | **Reactions:** 136 (updated from 98) | **Comments:** 20 (updated from 19) | **Reposts:** 4 | **Saves:** 10 | **Sends:** 4 | **Profile viewers:** 36 | **Followers gained:** 6
-**Seniority (confirmed):** Senior 33.2% + Director 15.2% + VP 4.1% = **52.5%** | **NR:** 4.2% (~2,120 NR viewers in absolute terms at 50k impressions — now the largest absolute NR audience in the series)
+**Impressions FINAL:** 51,084 (feed counter March 25, 2026 — still growing) / 37,692 (original export March 12)
+**Members reached:** 26,364+ | **Reactions:** 142 (updated) | **Comments:** 22 (updated) | **Reposts:** 4 | **Saves:** 10 | **Sends:** 4 | **Profile viewers:** 36 | **Followers gained:** 6
+**Seniority (confirmed):** Senior 33.2% + Director 15.2% + VP 4.1% = **52.5%** | **NR:** 4.2% (~2,145 NR viewers at 51k impressions — largest absolute NR audience in the series)
 **Top companies:** Network Rail 4.2%, Siemens 1.6%, Alstom 1.3%, Hitachi Rail 1.1%, AtkinsRéalis <1%
 **Industries:** Truck Transportation 15.0%, Civil Engineering 6.5%, Construction 6.2%, Rail Transportation 5.9%, Motor Vehicle Manufacturing 5.1%
 **Locations:** London 13.7%, Manchester 2.6%, Glasgow 2.5%, Leeds 2.0%, Sheffield 1.7%
@@ -183,7 +205,7 @@ See full analysis: scotland-rail-2026-bill-reeve-post-analysis-march-2026.md
 
 **The post:** RAIB Safety Digest 01/2026 — Helpston level crossing near miss, October 21, 2025. Named framework coined: "Override Drift — the observed pattern where an exceptional measure, used repeatedly without detection, migrates from the edge of the rulebook into the centre of daily practice." Opening inversion: "The interlocking had done its job." Framing positions the post as systems analysis rather than operational criticism. "The data was there. The visibility was not."
 
-**Impression trajectory note:** 37,692 at export (March 12, 2 days), 50,484 at feed counter (March 20, 10 days). Post continues to grow at 10 days — consistent with named framework posts that circulate in professional communities after initial posting. Now confirmed as #2 all-time by impressions, overtaking Best Planned, First Served (42,905).
+**Impression trajectory note:** 37,692 at export (March 12, 2 days), 50,484 at feed counter (March 20, 10 days), 51,084 (March 25, 15 days). Post continues to grow at 15 days — consistent with named framework posts that circulate in professional communities after initial posting. Confirmed #2 all-time by impressions.
 
 **Standout engagement:**
 - **Allan Spence** (Independent chair and safety professional) — DM evening of posting. Cited Override Drift at Global Level Crossing Network meeting the following day. Highest real-world impact outcome in the series to date.
@@ -201,7 +223,7 @@ See full analysis: scotland-rail-2026-bill-reeve-post-analysis-march-2026.md
 - **Paul Cheeseman** — invoked James Reason and Flixborough 1974 independently.
 - **David Watkin** — Nevis Range cable car 2006 (grip gauge warning disabled due to false alarms). First cross-industry Override Drift validation in comments.
 
-**Comment thread quality:** 20 comments covering four independent sectors validating Override Drift, Flixborough 1974, James Reason, Nevis Range, Craven Arms 2024 RAIB precedent, oil/gas drilling, regulatory engagement, and two practitioner corrections that deepened rather than undermined the framework. Highest quality comment thread in the series by substance.
+**Comment thread quality:** 20+ comments covering four independent sectors validating Override Drift, Flixborough 1974, James Reason, Nevis Range, Craven Arms 2024 RAIB precedent, oil/gas drilling, regulatory engagement, and two practitioner corrections that deepened rather than undermined the framework. Highest quality comment thread in the series by substance.
 
 **Score rationale (confirmed):** Viral tier base (8.0) + Override Drift named framework (+0.5) + Allan Spence Global Level Crossing Network citation (+0.5) + Daniel Fisk connection request (+0.5) + Jon Cunningham HM Inspector reaction (+0.5) + comment thread quality — four independent sectors, James Reason, Flixborough, Nevis Range, Craven Arms (+0.5) — seniority 52.5% below safety content benchmark (-0.5) = **9.5/10 confirmed**.
 
@@ -211,17 +233,15 @@ See full analysis: helpston-override-drift-post-analysis-march-2026.md
 
 ### Post 23: Underground Solar Headline — Media Commentary
 **Date:** March 16, 2026 (Sunday, 8:31am GMT) | **Score:** 4.5/10
-**Impressions:** 855 | **Members reached:** 588 | **Reactions:** 1 | **Comments:** 1 | **Reposts:** 0 | **Saves:** 0 | **Profile viewers:** 3
+**Impressions FINAL:** 953 (updated March 25; was 855 at March 20 — minor growth) | **Members reached:** 588 | **Reactions:** 1 | **Comments:** 1 | **Reposts:** 0 | **Saves:** 0 | **Profile viewers:** 3
 **Seniority (confirmed):** Senior 35.2% + Director 24.3% + VP 4.6% = **64.1%**
 **Top companies:** Netcompany 3.7%, Network Rail 2.0%, Hitachi Rail 1.5%, Arup 1.5%, Alstom 1.2%
 **Industries:** Truck Transportation 15.3%, IT Services 8.2%, Business Consulting 7.7%, Utilities 6.5%, Telecommunications 5.8%
 **Locations:** London 33.2%, Greater Dublin 4.4%, Glasgow 2.6%, Derby 2.2%, Manchester 1.5%
 
-**The post:** Humorous commentary on a Railway Gazette International headline that could be misread as solar panels being installed underground. Celebrated the actual story (surface solar energy contracted to power the Underground) while noting that complex infrastructure decisions need clear explanation. Closing: "Good engineering deserves good explanation." Rhetorical question: "Has the Underground quietly been generating its own sunlight all along and nobody told us?"
+**The post:** Humorous commentary on a Railway Gazette International headline that could be misread as solar panels being installed underground. Celebrated the actual story (surface solar energy contracted to power the Underground) while noting that complex infrastructure decisions need clear explanation. Closing: "Good engineering deserves good explanation." Rhetorical question: "Has the Underground quietly been generating its own sunlight all along and nobody told us?" Posted Sunday.
 
-**Content type:** Lighter media commentary. No borrowed credibility quote. No orchestration insight. No genuine engagement question (rhetorical close, not an invitation). Posted Sunday.
-
-**Score rationale:** Standard tier base (855 impressions, 5.0) + seniority 64.1% above 60% (+0.5) — Sunday posting (-0.5) — no genuine engagement question (-0.5) = **4.5/10**.
+**Score rationale:** Standard tier base (5.0) + seniority 64.1% above 60% (+0.5) — Sunday posting (-0.5) — no genuine engagement question (-0.5) = **4.5/10**.
 
 **Key observations:**
 - Seniority 64.1% despite Sunday posting and off-brand content confirms follower base quality is robust.
@@ -233,40 +253,46 @@ See full analysis: underground-solar-headline-post-analysis-march-2026.md
 
 ---
 
-### Post 24: Daryn McCombe / GWR / RIC26 — PROVISIONAL (2 days at time of documentation)
-**Date:** March 18, 2026 (Tuesday, 12:02pm GMT) | **Score:** TBD — provisional 6.0/10
-**Impressions:** 806 (provisional) | **Members reached:** 520 | **Reactions:** 10 | **Comments:** 0 | **Reposts:** 1 | **Saves:** 0 | **Profile viewers:** 0
-**Seniority (provisional):** Senior 30.2% + Director 23.3% + VP 5.4% = **58.9%**
-**Top companies:** Network Rail 6.3% (~51 NR impressions), Siemens 3.7%, Netcompany 3.7%, Hitachi Rail 2.5%, Alstom 2.1%
+### Post 24: Daryn McCombe / GWR / RIC26 — CONFIRMED FINAL (7-day assessment)
+**Date:** March 18, 2026 (Tuesday, 12:02pm GMT) | **Score:** 6.0/10 CONFIRMED
+**Impressions FINAL:** 980 | **Members reached:** 520 | **Reactions:** 10 | **Comments:** 0 (confirmed at 7 days) | **Reposts:** 1 | **Saves:** 0 | **Profile viewers:** 0
+**Seniority (provisional at 2 days):** Senior 30.2% + Director 23.3% + VP 5.4% = **58.9%**
+**Top companies:** Network Rail 6.3% (~62 NR impressions), Siemens 3.7%, Netcompany 3.7%, Hitachi Rail 2.5%, Alstom 2.1%
 **Industries:** Truck Transportation 31.5%, Rail Transportation 12.7%, IT Services 6.9%, Civil Engineering 4.4%, Telecommunications 4.0%
-**Rail combined:** Truck Transportation 31.5% + Rail Transportation 12.7% = **44.2%** — highest rail industry concentration in the series
+**Rail combined:** 44.2% — highest rail industry concentration in the series to date
 **Locations:** London 20.4%, Glasgow 3.8%, Leeds 2.1%, Copenhagen 2.1%, Derby 2.1%
 
-**The post:** Conference borrowed credibility from RIC26. Daryn McCombe, Train Service Delivery and Performance Director, GWR: "These are not technology problems. These are ultimately integration problems." Two operational scenarios cited: (1) three successive storms in Wales requiring physical site visits because data was not integrated; (2) sequential incidents meaning all recovery options were spent before the second resolved — GWR lost ~30% of trains across the day. Vision framed as "one integrated view combining track, train, crew, fleet, weather and events — not more screens to stare at." Reframed as operational orchestration. Engagement question: "If integration is the real constraint, who in your organisation owns that layer?"
+**The post:** RIC26 conference borrowed credibility. Daryn McCombe, Train Service Delivery and Performance Director, GWR: "These are not technology problems. These are ultimately integration problems." Two operational scenarios: (1) three successive storms in Wales requiring physical site visits because data was not integrated; (2) sequential incidents meaning all recovery options were spent before the second resolved — GWR lost ~30% of trains across the day. Vision: "one integrated view combining track, train, crew, fleet, weather and events — not more screens to stare at." Reframed as operational orchestration. Engagement question: "If integration is the real constraint, who in your organisation owns that layer?"
 
-**Note on post:** "he was describing" (lowercase "h") appears to be a minor typo in the published post.
+**7-day assessment:** 0 comments confirmed at 7 days. Strong content structure, correct opening, good engagement question, no violations — but the post did not generate conversation. Conference content from RIC26 may have been distributed widely by multiple attendees, creating a crowded content moment that diluted engagement. The rail combined audience (44.2%) is correct but tight; no cross-sector expansion.
 
-**Provisional score rationale:** Standard tier base (806, provisional, 5.0) + NR 6.3% (+0.5) + strong content structure, no deductions = **6.0/10 provisional**. Update required at 7 days (March 25, 2026). If impressions reach 1,500+ and comments emerge, score may reach 7.0+.
+**Note on post:** "he was describing" (lowercase "h") — minor typo in published post.
 
-**Key signals at 2 days:**
-- Rail combined 44.2% — tightest rail focus in the series. Audience is correct but narrow.
-- 0 comments is the primary underperformance signal. Strong engagement question has not yet generated conversation.
-- 1 repost — early positive signal, conference content can have delayed distribution as attendees process.
-- Copenhagen 2.1% — Netcompany/AIRHART network present despite UK rail-focused content.
-- Posted 8 days after Helpston (50k impressions). Audience attention cycle may be resetting.
+**Score confirmed:** Standard tier (980 impressions, base 5.0) + NR 6.3% (+0.5) + strong content structure (no deductions) — 0 comments at 7 days (no bonus) = **6.0/10 confirmed**.
 
-**Action required:** Check analytics March 25. DM Daryn McCombe by March 22 if no public engagement. "Not more screens to stare at" added to Pending quotable database.
+**Key lessons confirmed:**
+- Two operational scenarios (Wales storms; sequential incidents) gave readers distinct failure modes to recognise. This structural approach worked for content quality even where engagement was low.
+- Conference content from major rail events (RIC26) may face crowded-field dilution if multiple attendees post on the same day.
+- DM Daryn McCombe warranted — quoted him publicly, no engagement received.
 
 See full analysis: daryn-mccombe-gwr-ric26-post-analysis-march-2026.md
 
 ---
 
-### Post 25: Andy Lord / TfL / Electric Bus Fleet at Scale — TOO EARLY
-**Date:** March 20, 2026 | **Status:** ~2 hours at time of addendum update. Do not assess.
-**Quote used:** "We already have more zero-emission buses than any other city in the UK has buses." — Andy Lord, Commissioner, Transport for London, at London Transport Museum corporate members reception.
-**Scale cited:** 3,000 electric buses in London's fleet. Post addresses what orchestration looks like at 3,000 vehicles across multiple operators and dozens of depots — not at 100-200 as in previous electric bus content.
-**Key line:** "The vehicles were always going to arrive. The question is whether the orchestration layer arrives with them."
-**Update required:** Check analytics at 24 hours and 7 days.
+### Post 25: Andy Lord / TfL / Electric Bus Fleet at Scale — PROVISIONAL (5 days)
+**Date:** March 20, 2026 | **Score:** Provisional 7.5/10
+**Impressions:** 5,663 (at 5 days) | **Members reached:** est. ~3,500 | **Reactions:** 27 | **Comments:** 5 | **Reposts:** 0
+**Analytics:** Full demographics not yet pulled. Score and impressions provisional.
+
+**The post:** Borrowed credibility from Andy Lord, Commissioner, Transport for London, at London Transport Museum corporate members reception (LTM50 capital campaign launch, March 19, 2026). Quote: "We already have more zero-emission buses than any other city in the UK has buses." Scale cited: 3,000 electric buses in London's fleet. Post addresses what orchestration looks like at 3,000 vehicles across multiple operators and dozens of depots — not at 100-200 as in previous electric bus content. Key paragraph: "At that scale, the coordination problem does not sit inside one organisation. It spans them. Shared grid constraints. Overnight charging windows. Bay allocation. Maintenance schedules. Different operators. Different systems. Same network outcome required by morning." Key line: "The vehicles were always going to arrive. The question is whether the orchestration layer arrives with them." Engagement question: "For operators running electric fleets at scale, which coordination challenge grows fastest as vehicle numbers rise?"
+
+**5-day provisional assessment:** 5,663 impressions at 5 days places this in the Strong tier (3,000-15,000) with room to grow. Andy Lord is one of the most senior transport executives in the UK (TfL Commissioner) — borrowed credibility ceiling is high. The scale insight (3,000 vs 100-200) updates Olivier's own prior content, demonstrating active learning. 5 comments is a positive engagement signal. No bullet points, no em dashes, correct structure.
+
+**Provisional score rationale:** Strong tier base (7.0) + senior source (TfL Commissioner) (+0.5) — need demographics for further adjustments = **provisional 7.5/10**. If Electric Bus and ZeroEmission sectors appear strongly in demographics, score may reach 8.0+.
+
+**Update required:** Pull full analytics at 7 days (March 27, 2026). Check for ElectricBus/ZeroEmission sector concentration, TfL in top companies, and whether cross-sector (local government, utilities) shows up. Update individual analysis file.
+
+See: Update required at 7 days. No individual analysis file created yet.
 
 ---
 
@@ -297,63 +323,62 @@ Four engagements, escalating in substance. He is contributing frameworks, not ju
 
 ## Updated All-Time Performance Ranking
 
-**Updated March 20, 2026 — Helpston confirmed at 50,484 (feed counter), now #2 all-time.**
+**Updated March 25, 2026.**
 
 | Rank | Post | Date | Impressions | Score | Key Factor |
 |------|------|------|-------------|-------|-----------|
-| 1 | PPM Five Minutes | Jan 2026 | 87,246 | 10/10 | Industry critique + meme visual |
-| 2 | Helpston / Override Drift | Mar 2026 | 50,484 (feed, still growing) | 9.5/10 | Named framework + Global LX Network citation |
+| 1 | PPM Five Minutes | Jan 2026 | 87,279 | 10/10 | Industry critique + meme visual |
+| 2 | Helpston / Override Drift | Mar 2026 | 51,084 (feed, growing) | 9.5/10 | Named framework + Global LX Network citation |
 | 3 | Best Planned, First Served | Feb 2026 | 42,905 | 9.0/10 | Aviation 10.2% + Control vs Orchestration line |
 | 4 | Shap Landslip (RAIB) | Dec 2024 | 37,765 | 9.5/10 | Named framework + safety |
 | 5 | Electric Bus | Dec 2024 | 23,515 | 10/10 | Borrowed credibility + cross-sector |
 | 6 | Train Display | Nov 2024 | 21,729 | 9/10 | Real-time + visual proof |
-| 7 | George Bradshaw Address | Feb 2026 | 20,983 | 8.5/10 | Minister quote + GBRX engagement |
+| 7 | George Bradshaw Address | Feb 2026 | 21,022 | 8.5/10 | Minister quote + GBRX engagement |
 | 8 | James / East Midlands Railway | Feb 2026 | 17,658 | 9.0/10 | 178 reactions record + NR 7.9% + EMR recognition loop |
-| 9 | Railway Within Railway | Jan 2026 | 14,745 | 10/10 | Complete elite engagement stack |
-| 10 | EU Telematics / Digital Island | Feb 2026 | 7,576 | 8.5/10 | NR 9.1% near-record |
-| 11 | Heathrow Announcement | Feb 2026 | 6,777 | 8/10 | Planted quote activated + aviation |
-| 12 | BEMU/East West Rail | Jan 2026 | 6,620 | 9/10 | Cross-sector learning |
-| 13 | AIRHART/Digital Control Tower | Mar 2026 | 5,156 | 7.5/10 | Aviation proof point + Copenhagen signal |
-| 14 | Rail Forum (Toufic) | Dec 2024 | 3,895 | 8.5/10 | Conference + Rubik's Cube |
-| 15 | Carol Service | Dec 2024 | 3,810 | 8/10 | Personal + professional |
-| 16 | Scotland / Bill Reeve | Mar 2026 | 3,181 | 7.0/10 | Coordination specification reframe; Friday ceiling |
-| 17 | Rail Conference (Steve White) | Nov 2024 | 2,604 | 9/10 | Borrowed credibility |
-| 18 | Manufacturing | Nov 2024 | 1,560 | 8.5/10 | Borrowed credibility + data |
-| 19 | 48 Hours | Nov 2024 | 1,536 | 8.5/10 | Technical depth |
-| 20 | LARA Hackathon | Nov 2024 | 1,481 | 8/10 | Real output |
-| 21 | Trade Show | Nov 2024 | 1,329 | 7/10 | Good content, no conversation |
-| 22 | Groundhog Day | Jan 2026 | 1,088 | 6.5/10 | Paraphrase penalty |
-| 23 | Underground/Solar Headline | Mar 2026 | 855 | 4.5/10 | Off-brand + Sunday posting |
-| 24 | Daryn McCombe/GWR/RIC26 | Mar 2026 | 806 (provisional) | TBD/6.0 | Strong structure, 0 comments at 2 days |
-| 25 | Tom Bailey | Dec 2024 | 755 | 6.5/10 | Corporate amplification |
-| 26 | Energy Recruitment | Nov 2024 | 323 | 2/10 | Never amplify recruitment |
+| 9 | Railway Within Railway | Jan 2026 | 16,412 | 10/10 | Complete elite engagement stack |
+| 10 | EU Telematics / Digital Island | Feb 2026 | 7,710 | 8.5/10 | NR 9.1% near-record |
+| 11 | Heathrow Announcement | Feb 2026 | 6,799 | 8/10 | Planted quote activated + aviation |
+| 12 | BEMU/East West Rail | Jan 2026 | 6,941 | 9/10 | Cross-sector learning |
+| 13 | Andy Lord / TfL Electric Bus | Mar 2026 | 5,663 (provisional) | 7.5/10 prov. | TfL Commissioner + scale insight |
+| 14 | AIRHART/Digital Control Tower | Mar 2026 | 5,198 | 7.5/10 | Aviation proof point + Copenhagen signal |
+| 15 | Rail Forum (Toufic) | Dec 2024 | 3,895 | 8.5/10 | Conference + Rubik's Cube |
+| 16 | Carol Service | Dec 2024 | 3,810 | 8/10 | Personal + professional |
+| 17 | Scotland / Bill Reeve | Mar 2026 | 3,218 | 7.0/10 | Coordination specification reframe; Friday ceiling |
+| 18 | Rail Conference (Steve White) | Nov 2024 | 2,604 | 9/10 | Borrowed credibility |
+| 19 | Manufacturing | Nov 2024 | 1,560 | 8.5/10 | Borrowed credibility + data |
+| 20 | 48 Hours | Nov 2024 | 1,536 | 8.5/10 | Technical depth |
+| 21 | Audenshaw Bridge / Interface Failure | est. late Feb/early Mar 2026 | 1,538 | 5.0/10 prov. | Content violations: bullets + 5 hashtags + no borrowed credibility |
+| 22 | LARA Hackathon | Nov 2024 | 1,481 | 8/10 | Real output |
+| 23 | Trade Show | Nov 2024 | 1,329 | 7/10 | Good content, no conversation |
+| 24 | Groundhog Day | Jan 2026 | 1,870 | 6.5/10 | Paraphrase penalty (note: grew to 1,870 by March 25, was 1,088 at Jan 2026 peak) |
+| 25 | Daryn McCombe/GWR/RIC26 | Mar 2026 | 980 | 6.0/10 | Strong content, 0 comments; conference-crowd dilution |
+| 26 | Underground/Solar Headline | Mar 2026 | 953 | 4.5/10 | Off-brand + Sunday posting |
+| 27 | Tom Bailey | Dec 2024 | 755 | 6.5/10 | Corporate amplification |
+| 28 | Energy Recruitment | Nov 2024 | 323 | 2/10 | Never amplify recruitment |
 
-**Note: Post 25 (Andy Lord/TfL electric bus) posted March 20, not yet assessed.**
-
-**Movement since last update (March 12):**
-- Helpston: 37,692 (export) → **50,484** (feed March 20). Moves from #3 to **#2 all-time**, overtaking Best Planned, First Served.
-- Posts 17, 19, 20, 21: minor impression growth noted from feed counters.
-- Posts 23 and 24 added.
+**Note: Post 19a (Audenshaw) and Post 25 (Andy Lord/TfL) both provisional pending full analytics.**
 
 ---
 
-## Network Rail Reach Benchmarks (Updated)
+## Network Rail Reach Benchmarks (Updated March 25)
 
 | Post | Network Rail % | Approx NR impressions | Notes |
 |------|---------------|----------------------|-------|
 | Train Display | 2.5% | ~540 | |
 | 48 Hours | ~2% | ~30 | |
-| BEMU | 6.2% | ~410 | |
+| BEMU | 6.2% | ~430 | Updated at 6,941 |
 | James / EMR | 7.9% | ~1,395 | Very strong for human interest post |
-| EU Telematics | 9.1% | ~690 | Near-record percentage |
-| Heathrow | 6.7% | ~449 | |
-| George Bradshaw | 8.4% | ~962 | |
-| Railway Within Railway | ~10% | ~1,475 | Record holder by percentage |
-| AIRHART/DCT | 4.5% | ~232 | Updated at 5,156 impressions |
-| Scotland/Bill Reeve | 6.6% | ~210 | Updated at 3,181 impressions |
-| Helpston/Override Drift | 4.2% | ~2,120 | Largest absolute NR audience in the series at 50k+ |
-| Underground/Solar | 2.0% | ~17 | Sunday posting, baseline only |
-| Daryn McCombe/GWR | 6.3% | ~51 | Provisional at 2 days |
+| EU Telematics | 9.1% | ~701 | Near-record percentage; updated at 7,710 |
+| Heathrow | 6.7% | ~456 | Updated at 6,799 |
+| George Bradshaw | 8.4% | ~1,765 | Updated at 21,022 |
+| Railway Within Railway | ~10% | ~1,641 | Record holder by percentage; updated at 16,412 |
+| AIRHART/DCT | 4.5% | ~234 | Updated at 5,198 |
+| Scotland/Bill Reeve | 6.6% | ~212 | Updated at 3,218 |
+| Helpston/Override Drift | 4.2% | ~2,145 | Largest absolute NR audience in the series at 51k |
+| Underground/Solar | 2.0% | ~19 | Sunday posting, baseline only; updated at 953 |
+| Daryn McCombe/GWR | 6.3% | ~62 | Confirmed at 980 final |
+| Audenshaw Bridge | TBD | TBD | Analytics not yet pulled |
+| Andy Lord/TfL | TBD | TBD | Analytics not yet pulled |
 
 ---
 
@@ -381,11 +406,19 @@ Allan Spence cited Override Drift at the Global Level Crossing Network meeting t
 
 ---
 
-### Named Framework Posts Continue Growing at 10 Days (NEW — Post 22 trajectory)
+### Named Framework Posts Continue Growing at 10-15 Days (NEW — Post 22 trajectory)
 
-Helpston: 37,692 at 2 days, 50,484 at 10 days. RAIB framework posts circulate in professional safety and engineering communities beyond the initial LinkedIn distribution wave.
+Helpston: 37,692 at 2 days, 50,484 at 10 days, 51,084 at 15 days. RAIB framework posts circulate in professional safety and engineering communities beyond the initial LinkedIn distribution wave.
 
 **Rule:** For RAIB framework posts, use 10 days as the minimum assessment window. The professional communities that validate the framework (safety professionals, engineering societies, regulatory bodies) have slower LinkedIn rhythms than the general rail audience.
+
+---
+
+### Without a Named Framework, RAIB Posts Fall Short (NEW — Post 19a Audenshaw)
+
+The Audenshaw interface failure post covered a legitimate RAIB orchestration gap (structures vs track disciplines) but coined no named framework. Content violations compounded the ceiling. Result: ~1,538 impressions vs 51,084 for Helpston (Override Drift) and 37,765 for Shap.
+
+**Rule:** A RAIB post without a named framework is a good post. A RAIB post with a named framework is a viral post. The framework is the mechanism. Don't publish without one.
 
 ---
 
@@ -410,6 +443,14 @@ Daniel Pyke's correction (seal broken 4 months prior) and Richard Howells' opera
 Thomas Wood identified Craven Arms 2024 (RAIB 08/2024) as a second Override Drift precedent.
 
 **Rule:** After coining a named framework from a RAIB report, search for other RAIB reports documenting the same pattern. A follow-up citing two instances is a stronger argument.
+
+---
+
+### Conference Content Can Face Crowded-Field Dilution at Major Rail Events (NEW — Post 24)
+
+Daryn McCombe's quote at RIC26 was strong, the post structure was correct, yet 0 comments at 7 days. Multiple attendees posting about the same conference on the same day likely diluted algorithmic distribution.
+
+**Rule:** For content from major industry events (RIC26, InnoTrans, Rail Forum), posting within 24 hours of the conference gives freshness but risks crowded field. Consider waiting 3-5 days if the insight is durable rather than news-driven.
 
 ---
 
@@ -517,7 +558,7 @@ Airbus Defence & Space and BAE Systems both reacted Insightful to Override Drift
 
 ### Strong-Tier Posts Can Double Between 24h and Final — Policy Content Grows Longest (Posts 17, 18, 19)
 
-George Bradshaw grew from 11,468 (interim) to 20,983 (current).
+George Bradshaw grew from 11,468 (interim) to 21,022 (current).
 
 **Rule:** For policy-adjacent content, treat 7 days as a minimum assessment window. Do not record interim figures as finals.
 
@@ -648,7 +689,7 @@ Topic: Contributed in Post 22 comments. Precise articulation of the corporate me
 
 **Daryn McCombe (Train Service Delivery and Performance Director, GWR)** — March 2026
 > "These are not technology problems. These are ultimately integration problems."
-Topic: Said at RIC26. Used in Post 24. Clear and direct. Currently Gold candidate — confirm elevation after Post 24 final performance assessment.
+Topic: Said at RIC26. Used in Post 24. Clear and direct. Currently Gold candidate — confirm elevation after Post 24 final performance assessment. Post 24 scored 6.0/10 (content strong, engagement weak). Quote quality is independent of post performance. Elevate to Gold.
 
 **Daryn McCombe (GWR)** — March 2026 (supporting line from Post 24)
 > "not more screens to stare at"
@@ -656,7 +697,7 @@ Topic: McCombe's vision formulation for integrated operations. Strong operator-v
 
 ---
 
-## Strategic Contacts Status (Updated March 2026)
+## Strategic Contacts Status (Updated March 25, 2026)
 
 | Name | Role | Engagement Count | Status |
 |------|------|-----------------|--------|
@@ -683,7 +724,7 @@ Topic: McCombe's vision formulation for integrated operations. Strong operator-v
 | Andreas Moglestue | Chief Editor, ABB Review | 2 substantive comments (Post 22) | NEW. Two extended comments adding information transparency and corporate memory failure layers. Monitor for editorial pitch opportunity. |
 | Lynsey Buxton | Head of Employee Communications & Engagement, East Midlands Railway | 1 comment (Post 16b) | NEW. Committed publicly to recognising James. EMR internal comms infrastructure engaged. Route to EMR relationship. |
 | Ann Bates OBE | Retired Aviation and Rail Access consultant | 1 comment (Post 16b) | NEW. Extended Post 16b into DOO debate. Cross-sector rail/aviation access perspective. |
-| Daryn McCombe | Train Service Delivery and Performance Director, GWR | Quoted in Post 24 | NEW. First GWR operational contact in the series. RIC26 conference relationship. Monitor whether he engages with Post 24 or subsequent content. |
+| Daryn McCombe | Train Service Delivery and Performance Director, GWR | Quoted in Post 24 | NEW. First GWR operational contact in the series. RIC26 conference relationship. No engagement with Post 24 at 7 days — DM warranted. |
 | John Lawrence | Director, JPL Diversified Ltd | Reposted from his own post | NEW. Cited Olivier's AIRHART/airport work at RIC26, noted upcoming IET Railway Technical Network tech talk. Signal of growing industry recognition. |
 
 ---
@@ -697,30 +738,31 @@ Posts: 6 | Total: ~27,500 | Average: ~4,600
 Posts: 5 assessed | Highest: Electric Bus 23,515 | Average excl viral: ~2,400
 
 ### January 2026
-Posts: 3 | Total: 22,453 | Average: 7,484
-BEMU: 6,620 | Groundhog Day: 1,088 | Railway Within Railway: 14,745
+Posts: 3 | Total: 23,223 (updated) | Average: 7,741
+BEMU: 6,941 | Groundhog Day: 1,870 | Railway Within Railway: 16,412
 
 ### February 2026 (FINAL — all posts confirmed)
-Posts: 5 | Total: ~95,745
+Posts: 5 | Total: ~96,394 (updated)
 - Best Planned, First Served (Post 16a): 42,905
 - James / EMR (Post 16b): 17,658
-- George Bradshaw Address (Post 17): 20,983
-- EU Telematics (Post 18): 7,576
-- Heathrow Announcement (Post 19): 6,777
+- George Bradshaw Address (Post 17): 21,022
+- EU Telematics (Post 18): 7,710
+- Heathrow Announcement (Post 19): 6,799
 Note: Posts 16a and 16b were February 2 and February 7 respectively.
 
-### March 2026 (Running — Posts 20-25, some provisional)
-- AIRHART/Digital Control Tower (Post 20): 5,156
-- Scotland/Bill Reeve (Post 21): 3,181
-- Helpston/Override Drift (Post 22): 50,484 (feed, still growing)
-- Underground/Solar (Post 23): 855 (final)
-- Daryn McCombe/GWR/RIC26 (Post 24): 806 (provisional, 2 days)
-- Andy Lord/TfL Electric Bus (Post 25): too early
-**March running total (Posts 20-24):** ~60,482
+### March 2026 (Running — through Post 25, some provisional)
+- Audenshaw Bridge (Post 19a): ~1,538 (provisional, exact date uncertain)
+- AIRHART/Digital Control Tower (Post 20): 5,198
+- Scotland/Bill Reeve (Post 21): 3,218
+- Helpston/Override Drift (Post 22): 51,084 (feed, still growing)
+- Underground/Solar (Post 23): 953 (final)
+- Daryn McCombe/GWR/RIC26 (Post 24): 980 (confirmed final)
+- Andy Lord/TfL Electric Bus (Post 25): 5,663 (provisional, 5 days)
+**March running total (Posts 20-25, excl. 19a):** ~67,096
 
 ---
 
-*Addendum last updated: March 20, 2026*
-*Total posts documented: 26 (Posts 23, 24 added; Post 25 noted as too early)*
-*This update: Helpston confirmed at 50,484 impressions, now #2 all-time. Posts 17/19/20/21 impression figures updated from feed. Posts 23 (Underground/Solar, 4.5/10) and 24 (Daryn McCombe/GWR, 6.0 provisional) added. New lessons: Sunday posting ceiling, humorous off-brand content, operational scenario architecture, named framework 10-day growth window. New contacts: Daryn McCombe (GWR), John Lawrence (JPL Diversified). New Gold quote: Andy Lord (TfL, 3,000 electric buses). Pending quotes: Daryn McCombe "integration problems" and "not more screens to stare at".*
-*Pending: Leon Kong DM follow-up | Carl Soutra DM awaiting response | Michael Newman direct outreach warranted | Post 24 reassessment March 25 | Post 25 assessment when analytics available*
+*Addendum last updated: March 25, 2026*
+*Total posts documented: 27 (Posts 19a added; Post 24 finalized; Post 25 updated from "too early" to provisional)*
+*This update: Post 19a (Audenshaw bridge RAIB, ~1,538 impressions) identified and added — missed in March 20 update. Post 24 finalized at 980 impressions, 6.0/10 confirmed. Post 25 updated to provisional 7.5/10 at 5,663 impressions (5 days). Railway Within Railway updated 14,745 → 16,412. Groundhog Day updated 1,088 → 1,870 (significant delayed distribution). Minor impression updates: Override Drift 51,084, EU Telematics 7,710, BEMU 6,941, George Bradshaw 21,022, Heathrow 6,799, AIRHART 5,198, Bill Reeve/Scotland 3,218, Underground/Solar 953. New lesson: RAIB posts without named frameworks underperform vs those with (Audenshaw vs Helpston). Daryn McCombe quote elevated to Gold pending confirmation. Ranking table fully updated.*
+*Pending: Leon Kong DM | Carl Soutra DM | Michael Newman outreach | Daryn McCombe DM | Post 25 7-day analytics (March 27) | Post 19a exact date + full analytics | Audenshaw individual analysis file*
