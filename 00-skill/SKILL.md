@@ -84,7 +84,7 @@ linkedinknowledge/
 To document a post, you need:
 - The full post text
 - Analytics data: impressions, members reached, reactions, comments, reposts, saves, sends, profile views, followers gained
-- Demographics: seniority breakdown (Senior %, Director %, VP %), top companies with percentages, top locations with percentages, industry breakdown, company size breakdown
+- Demographics: full seniority breakdown, top companies with percentages, top locations with percentages, industry breakdown, company size breakdown
 - Names of notable reactors and commenters with their roles/companies
 - Any comment thread content
 
@@ -219,6 +219,7 @@ Structure: Quote planted in earlier post → "I didn't mention it at the time bu
 - A surprising dialogue ("Tuesdays and Thursdays." That was the answer when...)
 - Real-time scene ("Currently on a Pendolino to Glasgow...")
 - Technical surprise with specific detail
+- Scenario hook with precise operational detail ("A bus runs four minutes late. The operator knows. The authority finds out at month end.")
 
 **Bad openings (rewrite immediately if you see these):**
 - "Proud to have represented..."
@@ -234,6 +235,7 @@ The final line must invite response. Good patterns:
 - Scaling challenge: "For those moving beyond pilots: what breaks first, [A], [B], or [C]?"
 - Fragmentation reveal: "Who owns [the X layer] in your organisation - and are they talking to each other?"
 - Provocative gap: "If we can build this in 8 hours, why doesn't it exist already?"
+- Accountability gap: "The question is not only who holds each contract. It is who is accountable for the journey between them."
 
 ### 4.6 Visual Selection
 
@@ -264,8 +266,8 @@ Score every post out of 10 using this framework:
 ### Adjustments (add or subtract from base)
 
 **Add points:**
-- Senior + Director + VP above 60%: +0.5
-- Senior + Director + VP above 65%: +1.0
+- Seniority (expanded formula — see Section 6) above 60%: +0.5
+- Seniority (expanded formula) above 70%: +1.0
 - Named senior reactor (MD, CEO, Route Director, Minister): +0.5 each, max +1.5
 - Substantive comment from operator or decision-maker: +0.5 each, max +1.0
 - New sector opened (new industry category at 5%+): +0.5
@@ -284,10 +286,12 @@ Score every post out of 10 using this framework:
 - Posted Friday afternoon or weekend: -0.5
 - Two posts on same day (second post): -0.5
 
+**Note on historical scores:** Posts documented before April 2026 used the old seniority formula (Senior + Director + VP only). Posts from April 2026 onwards use the expanded formula (see Section 6). Historical scores are not retroactively changed but should be interpreted as using the old formula — actual seniority quality for those posts was higher than the % figure suggests.
+
 ### Score Interpretation
 
 | Score | Meaning |
-|-------|---------|
+|-------|---------| 
 | 10/10 | Perfect: viral + complete engagement stack + strategic targeting |
 | 9/10 | Excellent: strong impressions + senior engagement + lessons confirmed |
 | 8-8.5/10 | Very good: solid performance + quality audience + strategic value |
@@ -301,15 +305,27 @@ Score every post out of 10 using this framework:
 
 ### Seniority Calculation
 
-**Always use:** Senior % + Director % + VP %
+**EXPANDED FORMULA (effective April 2026):**
 
-Never exclude VP. VPs often hold more budget authority than Directors.
+**Always use:** Senior % + Director % + VP % + CXO % + Partner % + Owner %
 
-**Targets by post type:**
-- Thought leadership / precision posts: 60-66%
-- Technical standards posts: 55-60% (engineers pull Entry level up, acceptable)
-- Viral awareness posts: 55-60% (broad reach dilutes seniority, acceptable)
-- Corporate amplification posts: typically 30-45% (algorithm deprioritises)
+LinkedIn now provides a more granular seniority breakdown. All decision-maker levels must be included in the seniority total. Never exclude CXO, Partner, or Owner — these categories contain people with significant budget authority and commissioning influence.
+
+**Why the expansion matters:**
+- CXO includes CEOs, CTOs, CDOs, CFOs — the most senior commissioning layer
+- Partner includes consulting partners and equity partners at advisory firms — key influencers in procurement
+- Owner includes SME founders and proprietors — not enterprise targets but signals breadth
+- The old formula (Senior + Director + VP only) systematically understated real seniority quality by 7-12 percentage points depending on post type
+
+**Targets by post type (expanded formula):**
+- Thought leadership / precision posts: 68-75%
+- Technical standards posts: 62-68% (engineers pull Entry level up, acceptable)
+- Viral awareness posts: 62-68% (broad reach dilutes seniority, acceptable)
+- Corporate amplification posts: typically 38-52% (algorithm deprioritises)
+
+**Benchmarks for the scoring adjustments in Section 5:**
+- Above 60% (expanded) = above the minimum threshold: +0.5
+- Above 70% (expanded) = excellent quality audience: +1.0
 
 ### Network Rail Reach Benchmarks
 
@@ -321,7 +337,7 @@ Never exclude VP. VPs often hold more budget authority than Directors.
 | 9%+ | Exceptional - record-level |
 
 Current record by percentage: ~10% (Railway Within Railway, January 2026)
-Current record by absolute viewers: ~2,120 (Helpston/Override Drift, March 2026 — 4.2% of 50K)
+Current record by absolute viewers: ~2,145 (Helpston/Override Drift, March 2026 — 4.2% of 51K)
 
 ### Geographic Signals
 
@@ -332,6 +348,7 @@ Current record by absolute viewers: ~2,120 (Helpston/Override Drift, March 2026 
 | Netherlands 5%+ | NS (Nederlandse Spoorwegen) territory - relevant for fleet content |
 | Amsterdam + Rotterdam combined 10%+ | Direct NS audience reach |
 | London 25%+ | Announcement or commuter content resonating with London hub |
+| Manchester 3%+ | Northern England/Bee Network audience — relevant for TfGM/GMCA content |
 
 ### Industry Category Notes
 
@@ -340,6 +357,8 @@ Current record by absolute viewers: ~2,120 (Helpston/Override Drift, March 2026 
 - Combined Truck Transportation + Rail Transportation = total rail audience
 - Airlines and Aviation appearing at 5%+ = airport/aviation sector channel opened
 - Civil Engineering appearing at 5%+ = infrastructure community reached
+- Public Relations and Communications Services at 5%+ = public affairs and lobbying community engaged (first confirmed at Post 27, March 2026)
+- Government Relations Services at 2%+ = policy lobbying community — useful signal for GBR and regulatory content
 
 ### Company Size Signals
 
@@ -371,7 +390,7 @@ Insights heard in conversation that haven't yet been confirmed as quotable or pe
 ### Engagement Level Definitions
 
 | Level | Definition |
-|-------|-----------|
+|-------|-----------| 
 | Intellectual partnership | 4+ engagements, escalating substance, contributing frameworks or new intelligence |
 | Active relationship | 2-3 engagements, substantive comments, mutual awareness established |
 | Monitoring | 1 engagement (reaction or comment), potential noted |
@@ -434,7 +453,7 @@ This is an advanced technique proven by the Heathrow announcement post (February
 
 - **Optimal posting window:** Tuesday-Thursday, 7-9am GMT
 - **Never post twice on the same day by choice**
-- **Never post on Sunday** — confirmed ceiling regardless of content quality (Underground/Solar, March 2026: 855 impressions despite 64.1% seniority)
+- **Never post on Sunday** — confirmed ceiling regardless of content quality (Underground/Solar, March 2026: 953 impressions despite 64.1% seniority)
 - **If forced to post twice on the same day:** first post always wins the engagement race; put the strategically more important content first
 - **Minimum gap between posts:** 48 hours recommended, 24 hours absolute minimum
 - **Series posts:** space 5-7 days apart to maintain momentum without diluting each post
@@ -457,12 +476,13 @@ This is an advanced technique proven by the Heathrow announcement post (February
 | Too many hashtags | 5+ hashtags | Maximum 4, all specific |
 | No visual | Text-only post | Add photo, chart, or relevant image |
 | Vague attribution | "A stakeholder said..." | Name + title + company, or full anonymisation |
+| ABM miss | Target organisation absent from demographics | Check if post framing was too generic; named operator/geography content needed |
 
 ---
 
 ## Quick Reference: Before Posting Checklist
 
-- [ ] Opens with borrowed credibility quote (not corporate preamble)?
+- [ ] Opens with borrowed credibility quote or strong scenario hook (not corporate preamble)?
 - [ ] No "I paraphrase" or equivalent qualifier?
 - [ ] No em dashes?
 - [ ] No bullet points in body?
@@ -490,8 +510,9 @@ This is an advanced technique proven by the Heathrow announcement post (February
 
 ---
 
-*Skill version: 1.2*
+*Skill version: 1.3*
 *Created: February 25, 2026*
-*Updated: March 20, 2026 — added `_CURRENT-RANKINGS.md` to Step 0 and file creation sequence (Section 3.2); added Section 3.5 (`_CURRENT-RANKINGS.md` update protocol); added three-layer documentation model to Step 1; added Sunday posting to failure modes and Before Posting checklist; updated post count to 26+ documented*
-*Based on: 26+ posts documented, 16+ months of performance data*
+*Updated: March 20, 2026 — added `_CURRENT-RANKINGS.md` to Step 0 and file creation sequence (Section 3.2); added Section 3.5 (`_CURRENT-RANKINGS.md` update protocol); added three-layer documentation model to Step 1; added Sunday posting to failure modes and Before Posting checklist.*
+*Updated: April 3, 2026 — SENIORITY FORMULA EXPANDED. Section 6 updated: seniority calculation now includes Senior + Director + VP + CXO + Partner + Owner. Section 5 scoring thresholds updated accordingly (above 60% = +0.5; above 70% = +1.0 under expanded formula). Historical posts scored under old formula (Senior + Director + VP only) — scores not retroactively changed. New industry signals added: Public Relations and Communications Services, Government Relations Services. ABM miss added to failure modes. Scenario hook added to opening hook options.*
+*Based on: 27+ posts documented, 17+ months of performance data*
 *Maintainer: Update this file when new absolute rules are confirmed or major new patterns are validated*
