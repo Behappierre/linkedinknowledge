@@ -165,25 +165,25 @@ See full analysis: andy-lord-tfl-electric-bus-post-analysis-march-2026.md
 
 ---
 
-### Post 26: DfT Transport Data Action Plan / Leadership Culture — PROVISIONAL
-**Date:** Friday, March 27, 2026, 7:35am GMT | **Score:** 6.0/10 PROVISIONAL
-**Impressions at 10 hours:** 526 | **Members reached:** 334 | **Reactions:** 6 | **Comments:** 1 | **Reposts:** 1 | **Saves:** 0
-**Seniority (at 10 hours):** Senior 30% + Director 28% + VP 5% = **63%** | **NR:** 4%
-**Top companies:** Netcompany 9% (will dissolve), Network Rail 4%, The Go-Ahead Group 3%, RSSB 2%, TfL 2%
-**Industries:** Truck Transportation 26%, IT Services 12%, Business Consulting 8%, Rail Transportation 7%, Government Administration 3%, Civil Engineering 2%
-**Locations:** London 29%, Derby 4%, Copenhagen 3%, Manchester 3%, Leeds 3%
+### Post 26: DfT Transport Data Action Plan / Leadership Culture — CONFIRMED FINAL
+**Date:** Friday, March 27, 2026, 7:35am GMT | **Score:** 6.0/10 CONFIRMED
+**Impressions FINAL:** 845 | **Members reached:** 577 | **Reactions:** 8 | **Comments:** 2 | **Reposts:** 1 | **Saves:** 0 | **Profile viewers:** 2
+**Seniority (confirmed):** Senior 28% + Director 27% + VP 7% = **62%** | **NR:** 5% (~42 NR viewers)
+**Top companies:** Netcompany 6%, Network Rail 5%, Porterbrook 2%, Hitachi Rail 2%, Go-Ahead Group 1%, TfL 1%, DfT 1%, RSSB 1%, Worldline 1%
+**Industries:** Truck Transportation 34%, IT Services 10%, Rail Transportation 7%, Business Consulting 6%, Telecoms 3%, Railroad Equipment Manufacturing 3%
+**Locations:** London 28%, Derby 5%, Leeds 3%, Copenhagen 2%, York 2%, Manchester 2%, Dublin 2%, Nottingham 2%
 
 **The post:** Close reading of the DfT Transport Data Action Plan (published March 25, 2026). Opening borrowed credibility from the document body (page 17): "Leadership does not always value data, nor invest in the efficiency that data skills and projects could unlock." Foreword attributed to Permanent Secretary Jo Shanmugalingam. Hinge line: "And yet the document's most honest sentence is not about technology at all." GBR timing angle: "The culture will be set before the org chart settles. That moment is now." Engagement question: "Is the primary barrier to transport data transformation technical or cultural, and which is harder to fix?" Visual: green-highlighted screenshot of the specific sentence in situ (page 17).
 
-**Key reactor:** Kanwar Brar (CDIO, Go-Ahead Group) liked the post while Olivier was presenting in the Go-Ahead deep dive workshop the same morning. He looked up Olivier's profile mid-meeting and reacted in real time — not a passive scroll engagement. This is the highest-proximity commercial engagement signal in the series: target-account CIO, in a live BD meeting, validating the post's central argument (leadership culture as the hardest data constraint) at the exact moment Go-Ahead's internal fragmentation was being discussed. NDA signed same day. LRI walkthrough booked April 22.
+**Key reactor:** Kanwar Brar (CDIO, Go-Ahead Group) liked the post while Olivier was presenting in the Go-Ahead deep dive workshop the same morning — not a passive scroll engagement. NDA signed same day. LRI walkthrough booked April 22. Highest-proximity commercial engagement signal in the series.
 
-**Post development context:** Friday posting forced by timeliness (document published March 25; Tuesday posting would mean 6-day lag). Three angles evaluated; Angle 1 (buried confession) selected as sharpest. Multiple colleague refinements including softening "constraint isn't technical" to "hardest constraint may no longer be technical." Marketing colleague suggestion to add PULSE/commercial follow-up explicitly rejected.
+**Comment thread:** Rupert Brennan-Brown (1st connection) linked to the Heidi Alexander letter to DfTO Chair Sir Andrew Haines listing data and innovation as a DfTO priority — independently validated the post's argument at ministerial level. Tom Cairns (Realtime Trains founder, 2nd connection) replied to Rupert: "it is a shame that the industry's prevailing view is available means open, which alas is not the case." This available-vs-open distinction is an expert precision that sharpens the cultural argument in the post.
 
-**Visual post-mortem:** Green highlighted document screenshot blended into LinkedIn's grey feed interface. Low contrast stopped no scrolls. Cover page would have been a stronger visual even if less intellectually interesting.
+**Note on growth:** Near-flat from 526 at 10 hours to 845 final. Friday ceiling confirmed as absolute for precision policy content. No weekend growth.
 
-**Score rationale (provisional):** Standard tier projected base (5.0) + seniority 63% above 60% (+0.5) + Go-Ahead Group 3% target client in demographics (+0.5) + Kanwar Brar CDIO reaction — senior reactor (+0.5) — Friday posting (-0.5) = **6.0/10 provisional**.
+**Porterbrook at 2%:** ROSCOs appeared in the demographics of a data leadership post — new audience signal. Data ownership in long-life rolling stock contracts is a relevant future content angle.
 
-**Reassess:** Final analytics pending.
+**Score rationale (confirmed):** Standard tier (845, base 5.0) + seniority 62% above 60% (+0.5) + Kanwar Brar CDIO — named senior reactor in extraordinary BD context (+0.5) + Go-Ahead Group 1% target client confirmed in demographics (+0.5) — Friday posting (-0.5) = **6.0/10 CONFIRMED**. Provisional score held exactly.
 
 See full analysis: transport-data-action-plan-leadership-post-analysis-march-2026.md
 
@@ -210,7 +210,7 @@ Four engagements, escalating in substance. He is contributing frameworks, not ju
 **Platinum quote:**
 > "Just walk into any ROC and observe how TOC and NR Route colleagues that notionally need to work as one team have to communicate with one another by shouting across the room, and then manually double- or triple-type the same piece of information into disparate systems."
 
-**Status:** Tagged in EU Telematics self-comment. No public response yet. DM follow-up still pending. The DfT Transport Data Action Plan (Post 26) is directly in his domain — could be used as a bridge. Joe Kennedy (Route Strategy Director, Anglia) reacting on Post 22 adds a second Anglia touchpoint.
+**Status:** Tagged in EU Telematics self-comment. No public response yet. DM follow-up still pending. The DfT Transport Data Action Plan (Post 26) is directly in his domain — use as bridge for DM. Joe Kennedy (Route Strategy Director, Anglia) reacting on Post 22 adds a second Anglia touchpoint.
 
 ---
 
@@ -246,9 +246,9 @@ Four engagements, escalating in substance. He is contributing frameworks, not ju
 | 24 | Groundhog Day | Jan 2026 | 1,870 | 6.5/10 | Paraphrase penalty |
 | 25 | Daryn McCombe/GWR/RIC26 | Mar 2026 | 980 | 6.0/10 | Strong content, 0 comments |
 | 26 | Underground/Solar Headline | Mar 2026 | 953 | 4.5/10 | Off-brand + Sunday posting |
-| 27 | Tom Bailey | Dec 2024 | 755 | 6.5/10 | Corporate amplification |
-| 28 | Energy Recruitment | Nov 2024 | 323 | 2/10 | Never amplify recruitment |
-| — | **DfT Transport Data Action Plan** | **Mar 27, 2026** | **526 (10h, PROVISIONAL)** | **6.0/10 prov.** | **Friday ceiling; Kanwar Brar CDIO reaction mid-meeting** |
+| 27 | DfT Transport Data Action Plan | Mar 2026 | 845 | 6.0/10 | Friday ceiling; Kanwar Brar CDIO reaction mid-meeting — highest BD proximity of the series |
+| 28 | Tom Bailey | Dec 2024 | 755 | 6.5/10 | Corporate amplification |
+| 29 | Energy Recruitment | Nov 2024 | 323 | 2/10 | Never amplify recruitment |
 
 ---
 
@@ -271,7 +271,7 @@ Four engagements, escalating in substance. He is contributing frameworks, not ju
 | Daryn McCombe/GWR | 6.3% | ~62 | |
 | Andy Lord / TfL Electric Bus | 5% | ~296 | TfL also at 5% — dual major-organisation confirmation |
 | Audenshaw Bridge | 6.8% | ~105 | Good NR reach for a 1,539-impression post; offset by content violations |
-| DfT Transport Data Action Plan | 4% | ~21 | Provisional at 10 hours — Friday, too early to assess |
+| DfT Transport Data Action Plan | 5% | ~42 | Confirmed final — strong NR reach for a 845-impression policy post |
 
 ---
 
@@ -339,7 +339,7 @@ The green highlight on white document paper blended with LinkedIn's grey interfa
 
 ### A Low-Impression Post Can Deliver Extraordinary BD Value (NEW — Post 26)
 
-Post 26: 526 impressions at 10 hours. Kanwar Brar (CDIO, Go-Ahead Group) reacted mid-meeting during the Go-Ahead deep dive workshop. NDA signed same day. LRI walkthrough booked.
+Post 26: 845 impressions total. Kanwar Brar (CDIO, Go-Ahead Group) reacted mid-meeting during the Go-Ahead deep dive workshop. NDA signed same day. LRI walkthrough booked.
 
 **Rule:** Impression counts do not capture in-meeting reactions from target-account decision-makers. The commercial proximity of one senior reactor in the right context can exceed the value of 50,000 passive impressions. Document these cases to maintain perspective on what the analytics framework does and does not measure.
 
@@ -358,6 +358,14 @@ A colleague suggested adding a self-comment connecting PULSE to the "leadership 
 Document published March 25. Tuesday would have meant a 6-day lag. "Published two days ago" framing requires same-week posting.
 
 **Rule:** For time-sensitive policy documents, post within 72 hours of publication or the currency is lost. Friday 9am is preferable to a stale Tuesday post.
+
+---
+
+### Available Does Not Mean Open — A Distinction Worth a Future Post (NEW — Post 26 comment thread)
+
+Tom Cairns (Realtime Trains founder) in the Post 26 comment thread: "it is a shame that the industry's prevailing view is available means open, which alas is not the case." The distinction between data being technically accessible and genuinely usable without restriction is exactly the leadership culture gap the post was arguing for — but named more precisely.
+
+**Rule:** When a commenter sharpens the central argument with a precision you did not include, note it as a future post seed. The available-vs-open gap is a standalone post angle: "The industry thinks available means open. It doesn't."
 
 ---
 
@@ -579,6 +587,10 @@ Topic: Post 22 comments. Corporate memory failure layer of Override Drift.
 
 ### SILVER
 
+**Tom Cairns (Founder, Realtime Trains)** — March 2026
+> "it is a shame that the industry's prevailing view is available means open, which alas is not the case."
+Topic: Post 26 comment thread. Expert precision on the available-vs-open data distinction. Potential future post seed.
+
 **Daryn McCombe (GWR)** — March 2026
 > "not more screens to stare at"
 Topic: RIC26. Vision formulation for integrated operations. Strong supporting line.
@@ -594,19 +606,19 @@ Topic: RIC26. Vision formulation for integrated operations. Strong supporting li
 
 ---
 
-## Strategic Contacts Status (Updated March 27, 2026)
+## Strategic Contacts Status (Updated April 3, 2026)
 
 | Name | Role | Engagement Count | Status |
 |------|------|-----------------|--------|
 | Steve White | MD, South Eastern Railway | 4 (escalating) | Intellectual partnership |
 | Ross Moran | Route Director, NR Scotland | 1 (approved post) | Coordinate with BD |
-| Leon Kong | Head of Integrated Data Strategy, GBRX | 1 substantive + 1 tagged | Priority: DM follow-up. The DfT DAP (Post 26) is directly in his domain — potential bridge. |
+| Leon Kong | Head of Integrated Data Strategy, GBRX | 1 substantive + 1 tagged | Priority: DM follow-up. DfT DAP (Post 26) is directly in his domain — use as bridge. |
 | Paul Plummer | Former CEO, Rail Delivery Group | 1 (reacted) | Monitor |
 | Mike Noakes | Head of Rail, DfT | 2 (reacted x2) | Government relationship |
 | Roger Ford | Editor, Modern Railways | 1 (PPM post) | Pitch sub-threshold article |
 | Thomas Ableman | MD, Chiltern Railways | 1 (PPM post) | Operator partnership potential |
 | Gregor Erbach | Head of Climate Action Research, European Parliament | 1 (EU Telematics) | EU policy contact |
-| Darren Kemp | Lead C&S Engineer, RSSB | 1 (EU Telematics) | Standards body contact. RSSB appeared at 2% in Post 26. |
+| Darren Kemp | Lead C&S Engineer, RSSB | 1 (EU Telematics) | Standards body contact. RSSB at 1% in Post 26. |
 | Danny Longhorn | Content Editor, Rail Business Daily | 2 profile views | Pitch moment approaching |
 | Carl Soutra | Senior Regulatory Performance Manager, Heathrow | 1 reaction (AIRHART) + DM sent | Awaiting DM response |
 | Bill Reeve | Director of Rail Reform, Transport Scotland | Quoted in Post 21 | Monitor for engagement |
@@ -624,8 +636,9 @@ Topic: RIC26. Vision formulation for integrated operations. Strong supporting li
 | Daryn McCombe | Train Service Delivery and Performance Director, GWR | Quoted in Post 24 | Post 24. No engagement at 7 days — DM warranted. |
 | John Lawrence | Director, JPL Diversified Ltd | Reposted from his own post | Cited AIRHART work at RIC26. Signal of growing industry recognition. |
 | Tim Durham | Director (company TBC) | 1 profile view (Post 25) | Post 25. Director-level from TfL electric bus content. Monitor. |
-| **Kanwar Brar** | **Chief Digital and Information Officer, Go-Ahead Group** | **1 reaction (Post 26)** | **Post 26. Reacted mid-meeting during Go-Ahead deep dive workshop (March 27, 2026). First public engagement from Go-Ahead senior leadership. NDA signed same day. LRI walkthrough booked April 22. Do NOT DM about the post — reference naturally in BD follow-up. Go-Ahead is a confirmed target account.** |
-| Tim Kay | Asset Management Advisor to infrastructure leaders | 1 reaction — Interest (Post 26) | Post 26. Relevant advisory role. Monitor. |
+| **Kanwar Brar** | **Chief Digital and Information Officer, Go-Ahead Group** | **1 reaction (Post 26)** | **Post 26. Reacted mid-meeting during Go-Ahead deep dive workshop (March 27, 2026). NDA signed same day. LRI walkthrough booked April 22. Do NOT DM about the post. Go-Ahead is a confirmed target account.** |
+| Tim Kay | Asset Management Advisor to infrastructure leaders | 1 reaction (Post 26) | Post 26. Monitor. |
+| Tom Cairns | Founder, Realtime Trains | 1 comment (Post 26) | Post 26. Available-vs-open distinction in comment thread. Expert practitioner who has navigated the data openness gap directly. Potential source for future data governance post. |
 
 ---
 
@@ -650,19 +663,19 @@ Posts: 6 (incl. Post 19a) | Total: ~98,933
 - Heathrow Announcement (Post 19): 6,799
 - Audenshaw Bridge (Post 19a): 1,539
 
-### March 2026 (Running — through Post 26)
+### March 2026 (FINAL through Post 26)
 - AIRHART/Digital Control Tower (Post 20): 5,198
 - Scotland/Bill Reeve (Post 21): 3,218
 - Helpston/Override Drift (Post 22): 51,084 (feed, still growing)
-- Underground/Solar (Post 23): 953 (final)
-- Daryn McCombe/GWR/RIC26 (Post 24): 980 (final)
-- Andy Lord/TfL Electric Bus (Post 25): 5,922 (CONFIRMED FINAL)
-- DfT Transport Data Action Plan (Post 26): 526 (provisional — 10 hours)
-**March running total (Posts 20-26):** ~67,881 (Post 26 provisional)
+- Underground/Solar (Post 23): 953
+- Daryn McCombe/GWR/RIC26 (Post 24): 980
+- Andy Lord/TfL Electric Bus (Post 25): 5,922
+- DfT Transport Data Action Plan (Post 26): 845
+**March total (Posts 20-26):** ~68,200
 
 ---
 
 *Addendum last updated: April 3, 2026*
 *Total posts documented: 29 (Posts 14-26 plus Post 19a)*
-*This update: Post 25 confirmed final analytics (5,922 impressions, seniority 59%, TfL 5%, NR 5%, reactions 29). Individual analysis file created: andy-lord-tfl-electric-bus-post-analysis-march-2026.md. Ranking row 13 and NR benchmark table updated accordingly.*
-*Pending: Leon Kong DM | Carl Soutra DM | Michael Newman outreach | Daryn McCombe DM | Post 19a exact date (verify from LinkedIn URL) | Post 26 final analytics | Post 27 (Bee Network, March 31, 1,237 impressions) to document*
+*This update: Post 26 confirmed final (845 impressions, seniority 62%, NR 5%, 6.0/10 confirmed). Analysis file created: transport-data-action-plan-leadership-post-analysis-march-2026.md. Post 26 inserted into ranking at Rank 27. NR benchmark updated. Tom Cairns added to Strategic Contacts and Silver quotes database. New lesson added: available-vs-open distinction. March total now confirmed through Post 26.*
+*Pending: Leon Kong DM | Carl Soutra DM | Michael Newman outreach | Daryn McCombe DM | Post 19a exact date | Post 27 (Bee Network, March 31, 1,237 impressions) to document*
