@@ -1,266 +1,272 @@
 # Post 26: DfT Transport Data Action Plan / Leadership Culture
-## Post Analysis — March 27, 2026
-
-**Status: PROVISIONAL — analytics at ~10 hours on a Friday. Reassess Monday March 30.**
+## Individual Post Analysis — March 2026
 
 ---
 
 ## 1. The Post (Final Version)
 
+**Published:** Friday, March 27, 2026, 7:35am GMT
 **URL:** https://www.linkedin.com/posts/oandre_transportdata-gbr-railreform-share-7443026446509465600-GPfU
 
-**Posted:** Friday March 27, 2026, 7:35am GMT
-
-**Post text (verbatim):**
+---
 
 "Leadership does not always value data, nor invest in the efficiency that data skills and projects could unlock."
 
 That line appears in the Department for Transport's Transport Data Action Plan, published two days ago.
 
-Jo Shanmugalingam, DfT's Permanent Secretary, opens by acknowledging that "for too long, data has been locked away, siloed or difficult to find."
-The plan that follows is genuinely ambitious: 10 actions, open APIs, a transport data ontology, £2 million in digital twin grants.
+Jo Shanmugalingam, DfT's Permanent Secretary, opens by acknowledging that "for too long, data has been locked away, siloed or difficult to find." The plan that follows is genuinely ambitious: 10 actions, open APIs, a transport data ontology, £2 million in digital twin grants.
 
 And yet the document's most honest sentence is not about technology at all.
 
 The technical barriers are real and the plan addresses them seriously. But what it quietly admits is that the hardest constraint may no longer be technical. It's whether anyone at the top of an organisation treats data as something worth fighting for in a budget round.
 
-For rail, that creates a specific window. The plan commits to embedding data sharing principles in GBR "once established." The culture will be set before the org chart settles.
-
-That moment is now.
+For rail, that creates a specific window. The plan commits to embedding data sharing principles in GBR "once established." The culture will be set before the org chart settles. That moment is now.
 
 Is the primary barrier to transport data transformation technical or cultural, and which is harder to fix?
 
 #TransportData #GBR #RailReform #DataStrategy
 
-**Visual:** Screenshot of page 17 of the DfT Transport Data Action Plan with the key sentence highlighted in bright green: "Leadership does not always value data, nor invest in the efficiency that data skills and projects could unlock." Surrounding text visible, partial image at bottom of frame.
+**Visual:** Green-highlighted screenshot of page 17 of the DfT Transport Data Action Plan showing the specific sentence in situ within the document body.
 
 ---
 
 ## 2. The Strategic Setup
 
-The DfT Transport Data Action Plan (DAP) was published March 25, 2026. This post was developed same day and posted on the first viable slot (Friday 7:35am) due to timeliness — posting Tuesday would have meant the document was five days old.
+The DfT Transport Data Action Plan was published on March 25, 2026. The post was written and published two days later (Friday, March 27) — a forced Friday posting driven by the 72-hour timeliness window. Tuesday publication would have meant a 6-day lag and the loss of the "published two days ago" framing.
 
-**Angle selection:** Three angles were evaluated. Angle 1 (the buried confession — leadership culture as the hardest constraint) was selected over Angle 2 (AI footnote) and Angle 3 (GBR timing question) as the sharpest and most original. Angle 1 uses a Permanent Secretary quote as borrowed credibility and lands on a genuine insight without being orchestration-heavy.
+Three angles were evaluated during drafting:
+- **Angle 1 (selected):** The buried confession — the document's most honest line is not about technology
+- **Angle 2:** The GBR timing window — culture before org chart
+- **Angle 3:** The specific 10 actions as a framework audit
 
-**Drafting process:** Multiple iterations reviewed by two colleagues. Key refinements:
-- "The constraint isn't technical" softened to "the hardest constraint may no longer be technical" (colleague correction: document presents both technical and cultural barriers).
-- GBR paragraph tightened: "The culture will be set before the org chart settles. That moment is now."
-- "For rail, that creates a specific window" adopted (more natural than original construction).
-- Hinge line moved earlier: "And yet the document's most honest sentence is not about technology at all."
-- Colleague suggestion to add PULSE/commercial angle explicitly rejected — would have reclassified post as vendor content.
+Angle 1 was selected as the sharpest entry point, with Angle 2 incorporated as the rail-specific application.
 
-**Visual choice:** Green highlighted screenshot of the specific sentence in situ, showing surrounding context. Chosen over cover page to prove close reading. Post-posting assessment: visually weak in feed — the dense document text had low contrast against LinkedIn's grey interface. Cover page would have been a stronger scroll-stopper even if less intellectually interesting.
+The opening borrowed credibility comes from the document body itself (page 17), attributed via the Permanent Secretary's foreword. This is a valid use of document-sourced borrowing — the quote is in the published plan, unambiguous, directly attributed.
 
-**BD context:** The post was published the same morning as the Go-Ahead deep dive workshop. Kanwar Brar (CDIO, Go-Ahead Group) looked up Olivier's profile mid-meeting and liked the post. The post's theme — leadership culture as the primary constraint to data transformation — directly mirrored Go-Ahead's stated fear of fragmentation and the closed LRI project discussed in the meeting.
+A marketing colleague suggested adding a self-comment connecting PULSE to the "leadership gap." This was correctly rejected. The post's strategic value derived precisely from its independence from any commercial claim.
+
+The extraordinary BD context: Kanwar Brar (CDIO, Go-Ahead Group) reacted to this post while Olivier was presenting in the Go-Ahead deep dive workshop the same morning — looking up Olivier's profile mid-meeting and reacting in real time. NDA signed same day. LRI walkthrough booked April 22. This is the highest-proximity commercial engagement signal in the series.
 
 ---
 
-## 3. Performance Metrics (at ~10 hours, Friday — PROVISIONAL)
+## 3. Performance Metrics (CONFIRMED FINAL)
 
 | Metric | Value |
 |--------|-------|
-| Impressions | 526 |
-| Members reached | 334 |
-| Reactions | 6 |
-| Comments | 1 |
+| Impressions | 845 |
+| Members reached | 577 |
+| Profile viewers | 2 |
+| Followers gained | 0 |
+| Social engagements | 11 |
+| Reactions | 8 |
+| Comments | 2 |
 | Reposts | 1 |
 | Saves | 0 |
 | Sends | 0 |
-| Profile viewers from post | 1 |
-| Followers gained | 0 |
+| Link engagements | 0 |
 
-**Note on sidebar figure:** LinkedIn Creator Mode sidebar showed "Post impressions: 3,959" at time of screenshot — this is an aggregate figure across recent posts, not this specific post. The 526 figure from the analytics export is correct for this post.
-
-**Projection:** Friday 7:35am posting with low-contrast visual. Expected final range: 800–1,500 impressions (Standard tier). Possible weekend growth from policy audience catching up on reading. Reassess Monday March 30.
+**Note on growth:** Aggregate report showed 844 impressions at time of export (April 3). Final confirmed at 845 — effectively flat since the provisional read at 10 hours (526). The Friday ceiling was real and absolute. The post reached its audience in the first working day and stopped growing.
 
 ---
 
-## 4. Demographics (at ~10 hours — provisional)
+## 4. Demographics (CONFIRMED FINAL)
 
-**Seniority:**
-- Senior: 30%
-- Director: 28%
-- VP: 5%
-- **Total: 63%** — above 60% threshold, excellent for a Friday post
-- CXO: 7%
-- Manager: 11%
-- Entry: 10%
+### Seniority
+| Level | % |
+|-------|---|
+| Senior | 28% |
+| Director | 27% |
+| VP | 7% |
+| CXO | 7% |
+| Manager | 10% |
+| Entry | 10% |
+| Partner | 3% |
+| Owner | 2% |
 
-**Top companies:**
-- Netcompany: 9% (internal bubble — will dissolve)
-- Network Rail: 4%
-- The Go-Ahead Group: 3% (target client)
-- RSSB: 2% (Darren Kemp's organisation)
-- Transport for London: 2%
+**Senior + Director + VP = 62%** — above the 60% benchmark. Consistent with the provisional read (63% at 10 hours). Policy/data governance content reliably reaches senior decision-makers even at limited impression scale.
 
-**Industries:**
-- Truck Transportation: 26% (rail miscategorised)
-- IT Services and IT Consulting: 12%
-- Business Consulting and Services: 8%
-- Rail Transportation: 7%
-- Railroad Equipment Manufacturing: 4%
-- Software Development: 3%
-- Government Administration: 3% (likely includes DfT staff reading analysis of their own document)
-- Civil Engineering: 2%
+### Top Companies
+| Company | % |
+|---------|---|
+| Netcompany | 6% |
+| Network Rail | 5% |
+| Porterbrook | 2% |
+| Hitachi Rail | 2% |
+| The Go-Ahead Group | 1% |
+| Transport for London | 1% |
+| DfT | 1% |
+| RSSB | 1% |
+| Worldline | 1% |
 
-**Locations:**
-- London: 29%
-- Derby: 4%
-- Copenhagen: 3%
-- Manchester: 3%
-- Leeds: 3%
-- Greater Dublin: 2%
-- Greater Edinburgh: 2%
-- Greater Nottingham: 2%
+### Industries
+| Industry | % |
+|----------|---|
+| Truck Transportation | 34% |
+| IT Services and IT Consulting | 10% |
+| Rail Transportation | 7% |
+| Business Consulting and Services | 6% |
+| Telecommunications | 3% |
+| Railroad Equipment Manufacturing | 3% |
+| Transportation, Logistics, Supply Chain | 2% |
+| Government Administration | 2% |
+| Civil Engineering | 2% |
+| Software Development | 2% |
 
-**Company size:**
-- 10,001+: 27%
-- 51-200: 12%
-- 1,001-5,000: 11%
-- 5,001-10,000: 11%
-- 11-50: 10%
-- 2-10: 10%
-- 201-500: 7%
-- 501-1,000: 4%
+### Locations
+| Location | % |
+|----------|---|
+| London | 28% |
+| Derby | 5% |
+| Leeds | 3% |
+| Copenhagen | 2% |
+| York | 2% |
+| Manchester | 2% |
+| Dublin | 2% |
+| Nottingham | 2% |
+| Tyneside | 1% |
 
-**Job titles (top):**
-- Managing Director: 2%
-- Project Manager: 2%
+### Company Size
+| Size | % |
+|------|---|
+| 10,001+ | 25% |
+| 1,001-5,000 | 13% |
+| 51-200 | 12% |
+| 5,001-10,000 | 11% |
+| 11-50 | 10% |
+| 2-10 | 9% |
+| 201-500 | 7% |
+| 501-1,000 | 3% |
 
 ---
 
-## 5. Standout Numbers
+## 5. The Standout Numbers
 
-**Seniority at 63%** — above threshold despite Friday posting and low absolute reach. The content found the right people; the visual and timing limited how many.
+**Seniority at 62%:** Above the 60% benchmark for a 845-impression post. Data governance and leadership culture content selects for senior decision-makers even at small scale. CXO at 7% (matching VP at 7%) is unusually high — policy documents attract heads of organisations, not just department directors.
 
-**Go-Ahead Group at 3%** — target client appearing in demographics. Combined with Kanwar Brar's in-meeting reaction, this confirms the post reached the right room.
+**Go-Ahead Group at 1%:** Approximately 8-9 Go-Ahead viewers. Small in absolute terms but confirmed in demographics. Combined with Kanwar Brar's real-time in-meeting reaction, this is the ABM signal that matters: the right person at the right organisation was reached at the right moment.
 
-**Government Administration at 3%** — the DfT and its arm's length bodies are reading analysis of their own document. This is an unusual and strategically interesting signal for policy-adjacent content.
+**Network Rail at 5%:** ~42 NR viewers. Strong for a 845-impression post. Data culture content reaches NR even without safety or operational framing.
 
-**Netcompany at 9%** — high internal amplification at 10 hours, consistent with early post pattern. Will drop to ~4% as the post escapes the internal network ("bubble dissolution" pattern confirmed from earlier posts).
+**DfT at 1%:** The department that published the plan appeared in the demographics of the post about the plan. Approximately 8-9 DfT viewers. Government Administration at 2% confirms a policy community reach.
 
-**RSSB at 2%** — Darren Kemp's organisation. Small but noted given the DAP references RSSB's FRESH model.
+**Porterbrook at 2%:** ~17 Porterbrook viewers. Rolling stock leasing companies (ROSCOs) appearing in the demographics of a data leadership post is a new audience signal. Data culture arguments about leadership investment are relevant to organisations commissioning long-life asset contracts where data ownership decisions have 30-year consequences.
+
+**The Friday ceiling confirmed:** 526 impressions at 10 hours. 845 final. A post published Tuesday at 8am with the same content would have reached an estimated 1,500-2,000 impressions based on the series pattern for policy-adjacent content at this seniority level.
 
 ---
 
 ## 6. Reactor Analysis
 
-**Kanwar Brar — CDIO, Go-Ahead Group** (Liked)
-The strategically significant reactor. Liked the post while Olivier was presenting in the Go-Ahead deep dive workshop the same morning. Did not passively scroll to it — looked up Olivier's profile mid-meeting and reacted in real time. This is confirmation that the post's theme (leadership culture as the hardest constraint) directly mirrored Go-Ahead's internal reality as articulated in the meeting. Commercial weight: very high. First public engagement from Go-Ahead senior leadership.
+**8 reactions total.** Named reactors visible: Michael Morfis and 7 others.
 
-**Tim Kay — Asset Management Advisor to infrastructure leaders** (Reacted with Interest)
-Relevant engagement from an infrastructure advisory role. "Interest" is a considered reaction type. Worth monitoring.
-
-**Larissa Peros — Social Value Delivery Lead, Netcompany** (Liked)
-Internal. No strategic weight.
-
-**Rupert Brennan-Brown** (Liked)
-Profile description references a Newman quotation about being "a link in a chain" — not clearly industry-relevant. Low strategic weight.
-
-**Fadé Adeniyi — Co-founder, Techlerator** (Liked)
-AI/talent platform founder. Noise — not relevant to rail or transport data audience.
+**Kanwar Brar (CDIO, Go-Ahead Group):** Reacted mid-meeting during the Go-Ahead deep dive workshop on March 27. He looked up Olivier's profile during the presentation and reacted in real time — not a passive feed scroll. This is the highest-proximity commercial engagement signal in the series. The reaction validated the post's central argument (leadership culture as the hardest data constraint) at the exact moment Go-Ahead's internal fragmentation was being discussed in the room.
 
 ---
 
 ## 7. Comment Thread
 
-1 comment recorded at time of analytics export. Content not captured. Update when available.
+**2 comments total.**
 
-Note: 1 comment is very low for a post targeting GBR and policy audiences. The engagement question ("Is the primary barrier to transport data transformation technical or cultural, and which is harder to fix?") is strong but may have struggled to gain momentum on a Friday afternoon.
+**Rupert Brennan-Brown (1st connection):**
+"Interesting and now a consistent theme within DfT. See Transport SoS Heidi Alexander's recent letter to DfTO Chair Sir Andrew Haines setting out the five DfTO priorities over the next 18 months — which includes the 'use of data and innovation'." [With link to the published letter.]
+
+Note: Rupert's comment is a direct validation that the post's argument intersects with current ministerial priority at the highest level. The Heidi Alexander letter to Sir Andrew Haines sets out DfTO priorities including data and innovation — Rupert surfaced this independently. This strengthens the post's argument and adds a primary source the post itself did not cite. Strategically, this is the kind of comment that extends the post's credibility beyond the original text.
+
+**Tom Cairns (2nd connection, Realtime Trains founder):**
+Replying to Rupert: "it is a shame that the industry's prevailing view is available means open, which alas is not the case."
+
+Note: Tom's precision is expert-level. The distinction between data being "available" (technically accessible) and "open" (genuinely usable without restriction) is exactly the kind of clarification that separates practitioners from commentators. His reply sharpens the cultural argument in the post: the leadership gap is not only about valuing data but about understanding what genuine openness requires. Tom Cairns as Realtime Trains founder has direct experience of this gap — Realtime Trains built a rail data product despite, not because of, industry data practices.
+
+**Thread value:** Small but high-quality. Rupert added ministerial-level validation; Tom added technical precision from a practitioner who has navigated the exact problem. Both extend the post's argument rather than just affirming it.
 
 ---
 
 ## 8. Post Development Notes
 
-**Source:** DfT Transport Data Action Plan, March 2026 (published March 25, 2026). The specific quote — "Leadership does not always value data, nor invest in the efficiency that data skills and projects could unlock" — appears on page 17, Opportunities for Further Progress section, within the Skills, Culture and Leadership theme discussion.
+**Timeliness decision:** Document published March 25. 72-hour window for "published two days ago" framing. Tuesday publication impossible without losing currency. Friday 7:35am was the correct call despite the ceiling.
 
-**Attribution structure:** Two quotes used:
-1. Jo Shanmugalingam (Permanent Secretary, DfT) — foreword opening, used to establish the document's ambition.
-2. Document body quote (page 17) — used as opening borrowed credibility. Note: the opening quote is from the document body, not from Shanmugalingam directly. The post does not misattribute it to her; it attributes the foreword to her and opens with the document body quote separately. This is accurate.
+**Quote sourcing:** The opening line is from the body of the Transport Data Action Plan, page 17. Jo Shanmugalingam's foreword provides attribution context. This is a document-sourced borrowed credibility — valid because the quote is published, attributable, and unambiguous.
 
-**Visual post-mortem:** The green highlighted screenshot was chosen to prove close reading. In practice, it blended into LinkedIn's grey feed background. Dense document text with a green highlight strip provided insufficient visual contrast. A cleaner option would have been: (a) just the cover page, or (b) a close crop of just the highlighted sentence on white paper. Lesson documented in Section 12.
+**Angle selection:** Three angles evaluated. Angle 1 (buried confession) selected because it makes the document's most uncomfortable admission the opening — inverting the expected "ambitious plan" framing into an honest admission of the primary constraint.
 
-**Marketing colleague suggestion rejected:** A suggestion to add a self-comment or follow-up post connecting PULSE to the "leadership gap" was evaluated and declined. Rationale: the post's credibility derives from not selling. The commercial connection is made in DMs, not in the post body or thread.
+**Visual post-mortem:** Green highlighted text on white A4 document paper blended into LinkedIn's grey feed interface. The intellectual interest of the image (showing the exact sentence in situ) did not compensate for the low scroll-stop contrast. A cover page crop or a single sentence on a plain background with high contrast would have performed better. This is a documented lesson: proving close reading through a document screenshot is a secondary goal; stopping a scroll is the primary one.
 
-**Timing:** Friday posting was forced by timeliness. The document was published March 25; posting Tuesday March 31 would have meant a 6-day lag, reducing the currency of the "published two days ago" framing. Friday 7:35am was the correct emergency choice.
+**The rejected self-comment:** A marketing colleague suggested a follow-up comment connecting PULSE capabilities to the "leadership culture" argument. Correctly rejected. The post's credibility for Kanwar Brar derived from the absence of any commercial claim. The commercial conversation happened in the room, not in the thread.
 
 ---
 
-## 9. Scoring (PROVISIONAL)
+## 9. Scoring
 
-**Impressions tier:** Standard (800–1,500 projected). Base score: **5.0**
+**CONFIRMED FINAL: 6.0/10**
 
-**Adjustments:**
-- Seniority 63% (above 60%): **+0.5**
-- Go-Ahead Group 3% (target client in demographics): **+0.5**
-- Kanwar Brar (CDIO, Go-Ahead) reaction — senior reactor, CIO level: **+0.5**
-- Friday posting penalty: **-0.5**
+| Factor | Adjustment |
+|--------|------------|
+| Base: Standard tier (845 impressions) | 5.0 |
+| Seniority 62% — above 60% benchmark | +0.5 |
+| Kanwar Brar (CDIO, Go-Ahead) — named senior reactor in extraordinary BD context | +0.5 |
+| Go-Ahead Group 1% — target client confirmed in demographics | +0.5 |
+| Friday posting | -0.5 |
+| **TOTAL** | **6.0/10** |
 
-**Provisional score: 6.0/10**
-
-Score may rise to 6.5/10 if:
-- Final impressions exceed 1,500 (Strong tier)
-- Substantive comments emerge over the weekend
+**Provisional score held exactly.** The confirmed demographics matched the 10-hour read almost precisely (seniority 63% provisional vs 62% confirmed; Go-Ahead 3% provisional vs 1% confirmed — note the provisional read at 10 hours included Netcompany bubble distortion that dissolved by final).
 
 ---
 
 ## 10. Performance Tier Classification
 
-**PROVISIONAL: Standard / Good**
+**Standard tier** (800-1,500 impressions)
 
-Consistent with previous Friday precision posts (Scotland/Bill Reeve: 3,218 at 7.0/10; Daryn McCombe/GWR: 980 at 6.0/10). This post fits the Friday ceiling pattern: right audience, right content, insufficient distribution window.
+The Friday ceiling is the primary constraint. Content quality, seniority concentration, and strategic BD outcome all point to a post that would have performed at Good tier (1,500-3,000 impressions) on a Tuesday. The 6.0/10 score reflects the ceiling, not the content.
 
 ---
 
 ## 11. Strategic Value Beyond Metrics
 
-The impression count is the wrong metric for this post.
+**The most commercially significant post in the series by outcome-to-impression ratio.** 845 impressions. NDA signed. LRI walkthrough booked. One CDIO reaction in real time during a live BD meeting. No other post has converted at this proximity to commercial outcome.
 
-**Kanwar Brar's in-meeting reaction** is the defining event. A CDIO at a target account looked up Olivier mid-meeting, found a post about leadership culture being the hardest data constraint, and reacted to it in real time — while Go-Ahead's internal data fragmentation was being explicitly discussed in the room. This confirms message-market fit at the exact decision-making level required.
+**The Go-Ahead BD signal is complete.** Post 26 was the final piece of a sequence: post about data leadership culture → Go-Ahead CDIO reacts mid-meeting → NDA signed → LRI walkthrough booked April 22. The content strategy and BD strategy converged at a single moment.
 
-**Go-Ahead at 3%** confirms the commercial audience was reached independently of the meeting. Other Go-Ahead employees saw the post.
+**Rupert Brennan-Brown's comment surfaced the Heidi Alexander/Sir Andrew Haines letter** — a primary source that extends the post's argument to ministerial level. This connection (DfT data culture priority → Secretary of State → DfTO Chair priorities) is worth capturing for future GBR data governance content.
 
-**Government Administration at 3%** — DfT staff reading external analysis of their own document. This is a minor but genuinely unusual signal, relevant for any future DfT engagement.
+**Tom Cairns' available vs open distinction** is a precision that should inform future posts. The cultural argument is not just about leadership valuing data — it is about leadership understanding what genuine openness requires versus nominal compliance with availability mandates.
 
-**Post-meeting momentum:** NDA signed same day. LRI walkthrough booked April 22. Follow-up email sent with clean action list. The post contributed to the credibility established in the meeting; the meeting outcome is exceptional by any BD measure.
-
-A post scoring 6.0/10 by impression metrics delivered a business development outcome that no previous post in this series can match in commercial proximity.
+**Porterbrook at 2%** is a new audience signal. ROSCOs commissioning long-life rolling stock contracts with embedded data ownership implications are a relevant audience for data governance content. Worth tracking in future posts.
 
 ---
 
 ## 12. Lessons Learned
 
-**Highlighted document screenshots are low-contrast visuals in the LinkedIn feed.** Green text highlight on white document paper blends with LinkedIn's grey interface. The visual proves intellectual engagement but fails the scroll-stop test. For document-sourced posts: use the cover page as the primary visual, or crop to a single clean close-up of the highlighted text with high contrast. The dense surrounding text dilutes the impact.
+**The Friday ceiling is real and absolute for precision content.** 526 at 10 hours, 845 final. Near-zero weekend growth. A Tuesday post with the same content would have reached an estimated 1,500-2,000 impressions. The timeliness tradeoff was correctly made — "published two days ago" currency required Friday posting — but the cost is precisely documented here.
 
-**Cover page would have outperformed the highlight screenshot as a scroll-stopper.** Less intellectually interesting but more visually arresting. For time-sensitive policy posts where visual cannot be curated properly, the cover page is the safe default.
+**High seniority concentration survives the Friday ceiling.** Even at 845 impressions, 62% senior decision-makers. Policy-adjacent content selects for seniority regardless of timing. The ceiling limits volume, not audience quality.
 
-**Friday 9am is the correct emergency timing slot for time-sensitive policy content.** The post aged well: "published two days ago" framing required same-week posting. The Friday ceiling is real but less damaging than a 6-day lag on a policy document.
+**Document-sourced borrowed credibility works when the quote is published and attributable.** The DfT document quote opened the post effectively. The key is that the quote must be genuinely surprising within its own document — a plan's most honest admission of its own constraints is a higher-value opening than its headline ambitions.
 
-**A 6.0/10 post can deliver extraordinary commercial value.** Impression counts do not capture in-meeting reactions from target-account CIOs. Document this case as evidence that the analytics framework captures performance, not value.
+**A self-comment selling the company's product destroys the post's BD value.** The rejection of the marketing colleague's suggestion was correct and should be the standing rule: posts that work by not selling must not be followed by a sell.
 
-**The marketing-colleague sell-through instinct was wrong.** The post worked for Go-Ahead precisely because it made no commercial claim. The PULSE connection was made in the room, not in the thread.
+**One right reactor at the right moment exceeds 50,000 passive impressions.** Kanwar Brar reacted during a live meeting. The impression count is irrelevant to the commercial outcome. Analytics measure distribution; they do not measure proximity.
 
 ---
 
 ## 13. Follow-Up Actions
 
-1. Reassess analytics Monday March 30 — capture final impression count and any weekend comment growth.
-2. Update addendum and rankings with final figures.
-3. Do NOT send a LinkedIn DM about the post to Kanwar Brar. The post has done its job. Reference it naturally in Go-Ahead follow-up conversations.
-4. Prepare LRI walkthrough session for April 22 — this is the highest-priority BD action now.
-5. Consider whether the DAP creates a future post opportunity once GBR data architecture decisions become public — the "once established" framing may be activatable.
-6. Leon Kong DM remains pending. The DAP is directly in his domain — could be used as a bridge.
+1. LRI walkthrough with Go-Ahead is booked April 22 (Luke, John, David). Do not DM Kanwar Brar about the post — reference naturally in BD conversation if relevant.
+2. Rupert Brennan-Brown's Heidi Alexander/DfTO letter link: review the letter for content relevant to a future GBR data governance post. The Secretary of State setting data as a DfTO priority is a post 27 or post 28 angle if the letter contains quotable specifics.
+3. Tom Cairns (Realtime Trains): available vs open distinction is a potential post angle. "The industry thinks available means open. It doesn't." Could use Tom as a quoted source if permission granted.
+4. Leon Kong DM: the Transport Data Action Plan is directly in his domain. Use as a bridge for the pending DM outreach.
+5. Porterbrook at 2%: consider whether a future rolling stock data ownership post (sensor data, telematics, leasing contract data) would reach this audience further.
 
 ---
 
-## 14. All-Time Ranking Position (Provisional)
+## 14. All-Time Ranking Position
 
-At projected 800-1,500 impressions, this post ranks in the Standard range. Provisional position: 24th-25th.
+Post 26 sits provisionally below the ranked table pending final confirmation. With 845 impressions and 6.0/10, it ranks between Underground/Solar (953 impressions, 4.5/10) and Tom Bailey (755 impressions, 6.5/10) by impression count, but scores higher than the Solar post and lower than Tom Bailey by score. Its correct ranking slot once inserted would be approximately Rank 26-27 by impressions.
 
-Full updated table will be in the addendum.
+The commercial outcome (NDA signed, LRI booked) is not captured by any ranking position. This post is the strongest argument in the series for why impression-based ranking is a partial measure of success.
 
 ---
 
-*Analysis created: March 27, 2026*
-*Analytics at: ~10 hours post-publication (Friday)*
-*Status: PROVISIONAL — update with final analytics Monday March 30, 2026*
+*Analysis completed: April 3, 2026*
+*Analytics: CONFIRMED FINAL*
+*Score: 6.0/10 CONFIRMED*
+*Provisional score held exactly*
