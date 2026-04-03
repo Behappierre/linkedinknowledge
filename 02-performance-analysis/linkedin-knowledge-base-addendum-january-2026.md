@@ -153,12 +153,15 @@ See full analysis: daryn-mccombe-gwr-ric26-post-analysis-march-2026.md
 ---
 
 ### Post 25: Andy Lord / TfL / Electric Bus Fleet at Scale — CONFIRMED FINAL
-**Date:** March 20, 2026 (Thursday) | **Score:** 8.0/10 CONFIRMED
-**Impressions FINAL:** 5,663 | **Members reached:** 4,135 | **Reactions:** 27 | **Comments:** 5
-**Seniority (confirmed):** Senior 33.6% + Director 19.6% + VP 4.6% = **57.8%**
-**Top companies:** Transport for London 4.9%, Network Rail 4.7%, Netcompany 2.6%, AtkinsRéalis 1.4%, Hitachi Rail 1.3%
-**Score rationale:** Strong tier base (7.0) + TfL 4.9% (+0.5) + Civil Engineering 5.1% (+0.5) — seniority 57.8% below 60% but acceptable for cross-sector fleet content (0) = **8.0/10**.
-See full analysis: andy-lord-tfl-electric-bus-post-analysis-march-2026.md (to be created)
+**Date:** March 20, 2026 (Thursday, 7:46am GMT) | **Score:** 8.0/10 CONFIRMED
+**Impressions FINAL:** 5,922 | **Members reached:** 4,319 | **Reactions:** 29 | **Comments:** 5 | **Reposts:** 0 | **Saves:** 0
+**Seniority (confirmed):** Senior 34% + Director 20% + VP 5% = **59%**
+**Top companies:** Transport for London 5%, Network Rail 5%, Netcompany 3%, Hitachi Rail 1%, AtkinsRéalis 1%, Alstom 1%, Siemens 1%, Arup 1%, DfT <1%
+**Industries:** Truck Transportation 22%, IT Services 8%, Rail Transportation 7%, Civil Engineering 5%, Business Consulting 5%, Government Administration 3%
+**Locations:** London 28%, Manchester 3%, Leeds 2%, Glasgow 2%, Birmingham 2%, Copenhagen 2%, Derby 2%
+**Company size:** 10,001+ 33%, 1,001-5,000 14%, 51-200 9%, 5,001-10,000 9%
+**Score rationale:** Strong tier base (7.0) + TfL 5% ABM confirmed in demographics (+0.5) + Civil Engineering 5% infrastructure community reached (+0.5) — seniority 59% just below 60% benchmark, acceptable for cross-sector fleet content (0) = **8.0/10**.
+See full analysis: andy-lord-tfl-electric-bus-post-analysis-march-2026.md
 
 ---
 
@@ -180,7 +183,7 @@ See full analysis: andy-lord-tfl-electric-bus-post-analysis-march-2026.md (to be
 
 **Score rationale (provisional):** Standard tier projected base (5.0) + seniority 63% above 60% (+0.5) + Go-Ahead Group 3% target client in demographics (+0.5) + Kanwar Brar CDIO reaction — senior reactor (+0.5) — Friday posting (-0.5) = **6.0/10 provisional**.
 
-**Reassess:** Monday March 30. Policy document posts can grow over the weekend.
+**Reassess:** Final analytics pending.
 
 See full analysis: transport-data-action-plan-leadership-post-analysis-march-2026.md
 
@@ -213,7 +216,7 @@ Four engagements, escalating in substance. He is contributing frameworks, not ju
 
 ## Updated All-Time Performance Ranking
 
-**Updated March 27, 2026.**
+**Updated April 3, 2026.**
 
 | Rank | Post | Date | Impressions | Score | Key Factor |
 |------|------|------|-------------|-------|-----------|
@@ -229,7 +232,7 @@ Four engagements, escalating in substance. He is contributing frameworks, not ju
 | 10 | EU Telematics / Digital Island | Feb 2026 | 7,710 | 8.5/10 | NR 9.1% near-record |
 | 11 | Heathrow Announcement | Feb 2026 | 6,799 | 8/10 | Planted quote activated + aviation |
 | 12 | BEMU/East West Rail | Jan 2026 | 6,941 | 9/10 | Cross-sector learning |
-| 13 | Andy Lord / TfL Electric Bus | Mar 2026 | 5,663 | 8.0/10 | TfL 4.9% + Civil Engineering 5.1% |
+| 13 | Andy Lord / TfL Electric Bus | Mar 2026 | 5,922 | 8.0/10 | TfL 5% + NR 5% + Rail Transportation 7% cross-sector |
 | 14 | AIRHART/Digital Control Tower | Mar 2026 | 5,198 | 7.5/10 | Aviation proof point + Copenhagen signal |
 | 15 | Rail Forum (Toufic) | Dec 2024 | 3,895 | 8.5/10 | Conference + Rubik's Cube |
 | 16 | Carol Service | Dec 2024 | 3,810 | 8/10 | Personal + professional |
@@ -249,7 +252,7 @@ Four engagements, escalating in substance. He is contributing frameworks, not ju
 
 ---
 
-## Network Rail Reach Benchmarks (Updated March 25)
+## Network Rail Reach Benchmarks (Updated April 3, 2026)
 
 | Post | Network Rail % | Approx NR impressions | Notes |
 |------|---------------|----------------------|-------|
@@ -266,7 +269,7 @@ Four engagements, escalating in substance. He is contributing frameworks, not ju
 | Helpston/Override Drift | 4.2% | ~2,145 | Largest absolute NR audience in the series |
 | Underground/Solar | 2.0% | ~19 | Sunday posting, baseline only |
 | Daryn McCombe/GWR | 6.3% | ~62 | |
-| Andy Lord / TfL Electric Bus | 4.7% | ~266 | Appropriate baseline for fleet/operator content |
+| Andy Lord / TfL Electric Bus | 5% | ~296 | TfL also at 5% — dual major-organisation confirmation |
 | Audenshaw Bridge | 6.8% | ~105 | Good NR reach for a 1,539-impression post; offset by content violations |
 | DfT Transport Data Action Plan | 4% | ~21 | Provisional at 10 hours — Friday, too early to assess |
 
@@ -312,7 +315,7 @@ Helpston: 37,692 at 2 days, 50,484 at 10 days, 51,084 at 15 days.
 
 ### Named Target Organisations Appear in Their Own Post's Demographics — ABM Signal (NEW — Post 25)
 
-TfL at 4.9% for a TfL Commissioner quote.
+TfL at 5% for a TfL Commissioner quote. NR also at 5% on the same post.
 
 **Rule:** Check whether the quoted organisation appears in the top companies demographics. Its presence confirms the content reached the target room.
 
@@ -320,7 +323,7 @@ TfL at 4.9% for a TfL Commissioner quote.
 
 ### Cross-Sector Content Bridges to Rail When Orchestration Angle Is Explicit (NEW — Post 25)
 
-Rail Transportation at 7.1% on an electric bus post.
+Rail Transportation at 7% on an electric bus post.
 
 **Rule:** Rail professionals engage with bus, aviation, or infrastructure content when it is framed as a coordination/systems problem rather than a sector-specific operations problem.
 
@@ -653,13 +656,13 @@ Posts: 6 (incl. Post 19a) | Total: ~98,933
 - Helpston/Override Drift (Post 22): 51,084 (feed, still growing)
 - Underground/Solar (Post 23): 953 (final)
 - Daryn McCombe/GWR/RIC26 (Post 24): 980 (final)
-- Andy Lord/TfL Electric Bus (Post 25): 5,663 (final)
+- Andy Lord/TfL Electric Bus (Post 25): 5,922 (CONFIRMED FINAL)
 - DfT Transport Data Action Plan (Post 26): 526 (provisional — 10 hours)
-**March running total (Posts 20-26):** ~67,622 (Post 26 provisional)
+**March running total (Posts 20-26):** ~67,881 (Post 26 provisional)
 
 ---
 
-*Addendum last updated: March 27, 2026*
+*Addendum last updated: April 3, 2026*
 *Total posts documented: 29 (Posts 14-26 plus Post 19a)*
-*This update: Post 26 added (DfT Transport Data Action Plan / Leadership Culture, March 27, 2026). Provisional at 6.0/10, 526 impressions at 10 hours. Kanwar Brar (CDIO, Go-Ahead Group) added to Strategic Contacts — first public Go-Ahead engagement, extraordinary BD context (in-meeting reaction). Three new lessons added: highlighted document visual weakness, low-impression high-value BD outcome, marketing sell-through instinct. Reassess Post 26 Monday March 30.*
-*Pending: Leon Kong DM | Carl Soutra DM | Michael Newman outreach | Daryn McCombe DM | Post 19a exact date (verify from LinkedIn URL) | Post 25 individual analysis file | Post 26 final analytics (Monday March 30)*
+*This update: Post 25 confirmed final analytics (5,922 impressions, seniority 59%, TfL 5%, NR 5%, reactions 29). Individual analysis file created: andy-lord-tfl-electric-bus-post-analysis-march-2026.md. Ranking row 13 and NR benchmark table updated accordingly.*
+*Pending: Leon Kong DM | Carl Soutra DM | Michael Newman outreach | Daryn McCombe DM | Post 19a exact date (verify from LinkedIn URL) | Post 26 final analytics | Post 27 (Bee Network, March 31, 1,237 impressions) to document*
